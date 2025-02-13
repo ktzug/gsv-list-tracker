@@ -10773,6 +10773,110 @@
     "dateend": "2024-10-01T07:00:00.000Z"
   },
   {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
+    "region": "Taipei",
+    "districts": "Da An Qu, Xi Yi Qu, Zhong Zhang Qu, Da Tong Qu, Wen Shan Qu",
+    "publish": "Yes",
+    "datestart": "2025-01-02T08:00:00.000Z",
+    "dateend": "2025-10-31T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
+    "region": "New Taipei",
+    "districts": "Xian Dian Qu, Yong He Qu",
+    "publish": "Yes",
+    "datestart": "2025-01-02T08:00:00.000Z",
+    "dateend": "2025-10-31T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
+    "region": "Kee Long",
+    "districts": "Ren Ai Qu, Xi Yi Qu",
+    "publish": "No",
+    "datestart": "2025-03-02T08:00:00.000Z",
+    "dateend": "2025-10-31T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
+    "region": "Nantou County",
+    "districts": "Pu Li Zhen",
+    "publish": "No",
+    "dateend": "2025-10-31T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
+    "region": "Zhanghua County",
+    "districts": "Fang Yuan Xiang, Fu Xing Xiang",
+    "publish": "No",
+    "dateend": "2025-10-31T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
+    "region": "Yun Lin County",
+    "districts": "Dou Liu Zhen, Da Pi Xiang, Tai Xi Xiang,",
+    "publish": "No",
+    "datestart": "2025-02-03T08:00:00.000Z",
+    "dateend": "2025-10-31T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
+    "region": "Chaiyi County",
+    "districts": "Dong Qu, Xi Qu",
+    "publish": "No",
+    "datestart": "2025-02-03T08:00:00.000Z",
+    "dateend": "2025-10-31T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
+    "region": "Tainan",
+    "districts": "Nan Qu, Zhong Xi Qu, Gui Ren Qu",
+    "publish": "Yes",
+    "datestart": "2025-01-02T08:00:00.000Z",
+    "dateend": "2025-10-31T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
+    "region": "Kaohsiung",
+    "districts": "Qi Shan Qu, Mei Nang Qu",
+    "publish": "Yes",
+    "datestart": "2025-01-02T08:00:00.000Z",
+    "dateend": "2025-10-31T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
+    "region": "Yilan",
+    "publish": "No",
+    "dateend": "2025-10-31T07:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
+    "region": "Hualian",
+    "publish": "No",
+    "dateend": "2025-10-31T07:00:00.000Z"
+  },
+  {
     "country": "Thailand",
     "code": "TH",
     "svspc": "SV",
@@ -11548,7 +11652,7 @@
     "code": "GR",
     "svspc": "SV",
     "region": "Ήπειρος",
-    "districts": "Άρτα, Δωδώνη, Φιλιάτες, Ηγουμενίτσα, Ιωάννινα, Κόνιτσα, Μέτσοβο, Πάργα, Πωγώνι, Πρέβεζα, Ζαγόρι, Ζίτσα, Αθαμανία, Φιλιππιάδα, Παραμυθ, Κομπότι, Πέρδικα, Πέτα, Πραμάντα, Σύβοτα, Τετράφυλλια",
+    "districts": "Άρτα, Δωδώνη, Φιλιάτες, Ηγουμενίτσα, Ιωάννινα, Κόνιτσα, Μέτσοβο, Πάργα, Πωγώνι, Πρέβεζα, Ζαγόρι, Ζίτσα, Αθαμανία, Φιλιππιάδα, Παραμυθιά, Κομπότι, Πέρδικα, Πέτα, Πραμάντα, Σύβοτα, Τετράφυλλια",
     "publish": "Yes",
     "datestart": "2025-02-04T08:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -17539,16 +17643,6 @@
     "dateend": "February '24"
   },
   {
-    "country": "Uruguay",
-    "code": "UY",
-    "svspc": "SV",
-    "region": "Montevideo",
-    "districts": "Montevideo",
-    "publish": "No",
-    "datestart": "Jan '25",
-    "dateend": "Mar '25"
-  },
-  {
     "country": "Albania",
     "code": "AL",
     "svspc": "SV",
@@ -17857,106 +17951,6 @@
     "publish": "No",
     "datestart": "2024-12-01T08:00:00.000Z",
     "dateend": "2024-12-01T08:00:00.000Z"
-  },
-  {
-    "country": "Taiwan",
-    "code": "TW",
-    "svspc": "SV",
-    "region": "Taipei",
-    "districts": "Da An Qu, Xi Yi Qu, Zhong Zhang Qu, Da Tong Qu, Wen Shan Qu",
-    "publish": "Yes",
-    "datestart": "2025-01-02T08:00:00.000Z",
-    "dateend": "2025-08-31T07:00:00.000Z"
-  },
-  {
-    "country": "Taiwan",
-    "code": "TW",
-    "svspc": "SV",
-    "region": "New Taipei",
-    "districts": "Xian Dian Qu, Yong He Qu",
-    "publish": "Yes",
-    "datestart": "2025-01-02T08:00:00.000Z",
-    "dateend": "2025-08-31T07:00:00.000Z"
-  },
-  {
-    "country": "Taiwan",
-    "code": "TW",
-    "svspc": "SV",
-    "region": "Kee Long",
-    "districts": "Ren Ai Qu, Xi Yi Qu",
-    "publish": "No",
-    "datestart": "2025-03-02T08:00:00.000Z",
-    "dateend": "2025-08-31T07:00:00.000Z"
-  },
-  {
-    "country": "Taiwan",
-    "code": "TW",
-    "svspc": "SV",
-    "region": "Tai Chung",
-    "districts": "Bei Qu, Xi Qu",
-    "publish": "No",
-    "datestart": "2024-05-08T07:00:00.000Z",
-    "dateend": "2025-08-31T07:00:00.000Z"
-  },
-  {
-    "country": "Taiwan",
-    "code": "TW",
-    "svspc": "SV",
-    "region": "Nantou County",
-    "districts": "Pu Li Zhen",
-    "publish": "No",
-    "datestart": "2024-03-25T07:00:00.000Z",
-    "dateend": "2025-08-31T07:00:00.000Z"
-  },
-  {
-    "country": "Taiwan",
-    "code": "TW",
-    "svspc": "SV",
-    "region": "Zhanghua County",
-    "districts": "Fang Yuan Xiang, Fu Xing Xiang",
-    "publish": "No",
-    "datestart": "2024-01-15T08:00:00.000Z",
-    "dateend": "2025-08-31T07:00:00.000Z"
-  },
-  {
-    "country": "Taiwan",
-    "code": "TW",
-    "svspc": "SV",
-    "region": "Yun Lin County",
-    "districts": "Dou Liu Zhen, Da Pi Xiang, Tai Xi Xiang,",
-    "publish": "No",
-    "datestart": "2025-02-03T08:00:00.000Z",
-    "dateend": "2025-08-31T07:00:00.000Z"
-  },
-  {
-    "country": "Taiwan",
-    "code": "TW",
-    "svspc": "SV",
-    "region": "Chaiyi County",
-    "districts": "Dong Qu, Xi Qu",
-    "publish": "No",
-    "datestart": "2025-02-03T08:00:00.000Z",
-    "dateend": "2025-08-31T07:00:00.000Z"
-  },
-  {
-    "country": "Taiwan",
-    "code": "TW",
-    "svspc": "SV",
-    "region": "Tainan",
-    "districts": "Nan Qu, Zhong Xi Qu, Gui Ren Qu",
-    "publish": "Yes",
-    "datestart": "2025-01-02T08:00:00.000Z",
-    "dateend": "2025-08-31T07:00:00.000Z"
-  },
-  {
-    "country": "Taiwan",
-    "code": "TW",
-    "svspc": "SV",
-    "region": "Kaohsiung",
-    "districts": "Qi Shan Qu, Mei Nang Qu",
-    "publish": "Yes",
-    "datestart": "2025-01-02T08:00:00.000Z",
-    "dateend": "2025-08-31T07:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19995,7 +19989,7 @@
     "region": "Montevideo",
     "districts": "Montevideo",
     "publish": "Yes",
-    "datestart": "January '25",
+    "datestart": "February '25",
     "dateend": "March '25"
   },
   {
@@ -21076,6 +21070,126 @@
     "districts": "Salamiou",
     "publish": "Yes",
     "datestart": "January '25",
+    "dateend": "March '25"
+  },
+  {
+    "country": "Bangladesh",
+    "code": "BD",
+    "svspc": "SV",
+    "region": "Dhaka Division",
+    "districts": "Gazipur",
+    "publish": "Yes",
+    "datestart": "February '25",
+    "dateend": "March '25"
+  },
+  {
+    "country": "Bangladesh",
+    "code": "BD",
+    "svspc": "SV",
+    "region": "Dhaka Division",
+    "districts": "Kishoreganj",
+    "publish": "Yes",
+    "datestart": "February '25",
+    "dateend": "March '25"
+  },
+  {
+    "country": "Bangladesh",
+    "code": "BD",
+    "svspc": "SV",
+    "region": "Dhaka Division",
+    "districts": "Tangail",
+    "publish": "Yes",
+    "datestart": "February '25",
+    "dateend": "March '25"
+  },
+  {
+    "country": "Bangladesh",
+    "code": "BD",
+    "svspc": "SV",
+    "region": "Mymensingh Division",
+    "districts": "Jamalpur",
+    "publish": "Yes",
+    "datestart": "February '25",
+    "dateend": "March '25"
+  },
+  {
+    "country": "Bangladesh",
+    "code": "BD",
+    "svspc": "SV",
+    "region": "Mymensingh Division",
+    "districts": "Mymensingh",
+    "publish": "Yes",
+    "datestart": "February '25",
+    "dateend": "March '25"
+  },
+  {
+    "country": "Bangladesh",
+    "code": "BD",
+    "svspc": "SV",
+    "region": "Mymensingh Division",
+    "districts": "Netrokona",
+    "publish": "Yes",
+    "datestart": "February '25",
+    "dateend": "March '25"
+  },
+  {
+    "country": "Bangladesh",
+    "code": "BD",
+    "svspc": "SV",
+    "region": "Mymensingh Division",
+    "districts": "Sherpur",
+    "publish": "Yes",
+    "datestart": "February '25",
+    "dateend": "March '25"
+  },
+  {
+    "country": "Bangladesh",
+    "code": "BD",
+    "svspc": "SV",
+    "region": "Mymensingh Division",
+    "districts": "Jamalpur",
+    "publish": "Yes",
+    "datestart": "February '25",
+    "dateend": "March '25"
+  },
+  {
+    "country": "Bangladesh",
+    "code": "BD",
+    "svspc": "SV",
+    "region": "Sylhet Division",
+    "districts": "Sylhet",
+    "publish": "Yes",
+    "datestart": "February '25",
+    "dateend": "March '25"
+  },
+  {
+    "country": "Bangladesh",
+    "code": "BD",
+    "svspc": "SV",
+    "region": "Sylhet Division",
+    "districts": "Sunamganj",
+    "publish": "Yes",
+    "datestart": "February '25",
+    "dateend": "March '25"
+  },
+  {
+    "country": "Bangladesh",
+    "code": "BD",
+    "svspc": "SV",
+    "region": "Sylhet Division",
+    "districts": "Habiganj",
+    "publish": "Yes",
+    "datestart": "February '25",
+    "dateend": "March '25"
+  },
+  {
+    "country": "Bangladesh",
+    "code": "BD",
+    "svspc": "SV",
+    "region": "Sylhet Division",
+    "districts": "Maulvibazar",
+    "publish": "Yes",
+    "datestart": "February '25",
     "dateend": "March '25"
   }
 ]
