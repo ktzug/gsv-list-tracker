@@ -6487,7 +6487,10 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Nagano",
-    "publish": "No"
+    "districts": "Okaya",
+    "publish": "Yes",
+    "datestart": "2025-02-13T08:00:00.000Z",
+    "dateend": "2025-03-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -8467,36 +8470,6 @@
     "districts": "Batangas",
     "publish": "Yes",
     "datestart": "2025-01-07T08:00:00.000Z",
-    "dateend": "2025-01-31T08:00:00.000Z"
-  },
-  {
-    "country": "Philippines",
-    "code": "PH",
-    "svspc": "SV",
-    "region": "Calabarzon",
-    "districts": "Nasugbu, Cavite, Batangas",
-    "publish": "Yes",
-    "datestart": "2025-01-07T08:00:00.000Z",
-    "dateend": "2025-01-31T08:00:00.000Z"
-  },
-  {
-    "country": "Philippines",
-    "code": "PH",
-    "svspc": "SV",
-    "region": "Central Luzon",
-    "districts": "Bulacan; Nueva Ecija",
-    "publish": "Yes",
-    "datestart": "2025-01-07T08:00:00.000Z",
-    "dateend": "2025-01-07T08:00:00.000Z"
-  },
-  {
-    "country": "Philippines",
-    "code": "PH",
-    "svspc": "SV",
-    "region": "Ilocos Region",
-    "districts": "Tuba, La Union, Baguio, Ilocos Norte, Ilocos Sur",
-    "publish": "Yes",
-    "datestart": "2025-01-07T08:00:00.000Z",
     "dateend": "2025-02-28T08:00:00.000Z"
   },
   {
@@ -8507,17 +8480,47 @@
     "districts": "Nasugbu, Cavite, Batangas",
     "publish": "Yes",
     "datestart": "2025-01-07T08:00:00.000Z",
-    "dateend": "2025-01-07T08:00:00.000Z"
+    "dateend": "2025-02-28T08:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Returned to warehouse",
-    "districts": "Returned to warehouse",
+    "region": "Central Luzon",
+    "districts": "Bulacan; Nueva Ecija",
     "publish": "Yes",
-    "datestart": "2024-06-01T07:00:00.000Z",
-    "dateend": "2024-08-01T07:00:00.000Z"
+    "datestart": "2025-01-07T08:00:00.000Z",
+    "dateend": "2025-02-28T08:00:00.000Z"
+  },
+  {
+    "country": "Philippines",
+    "code": "PH",
+    "svspc": "SV",
+    "region": "Ilocos Region",
+    "districts": "Candon, Tubo, Bakun, San Fernando",
+    "publish": "Yes",
+    "datestart": "2025-01-07T08:00:00.000Z",
+    "dateend": "2025-02-28T08:00:00.000Z"
+  },
+  {
+    "country": "Philippines",
+    "code": "PH",
+    "svspc": "SV",
+    "region": "Mimaropa",
+    "districts": "Puerto Princesa",
+    "publish": "Yes",
+    "datestart": "2025-02-28T08:00:00.000Z",
+    "dateend": "2025-02-28T08:00:00.000Z"
+  },
+  {
+    "country": "Philippines",
+    "code": "PH",
+    "svspc": "SV",
+    "region": "Ilocos Region",
+    "districts": "Ilocos Sur",
+    "publish": "Yes",
+    "datestart": "2025-02-28T08:00:00.000Z",
+    "dateend": "2025-02-28T08:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -8706,8 +8709,8 @@
     "region": "Madeira",
     "districts": "Calheta, Câmara de Lobos, Funchal (capital), Machico, Ponta do Sol, Porto Moniz, Porto Santo, Ribeira Brava, Santa Cruz, Santana, São Vicente",
     "publish": "No",
-    "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-12-01T08:00:00.000Z"
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -8716,8 +8719,8 @@
     "region": "Azores Island",
     "districts": "Angra do Heroísmo, Horta, Lagoa, Lajes das Flores, Lajes do Pico, Madalena, Nordeste, Ponta Delgada, Povoação, Praia da Vitória, Ribeira Grande, Santa Cruz da Graciosa, Santa Cruz das Flores, São Roque do Pico, Velas, Vila do Corvo, Vila do Porto, Vila Franca do Campo.",
     "publish": "No",
-    "datestart": "2024-09-01T07:00:00.000Z",
-    "dateend": "2024-12-01T08:00:00.000Z"
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -8725,9 +8728,9 @@
     "svspc": "SV",
     "region": "Aveiro",
     "districts": "Águeda, Albergaria-a-Velha, Anadia, Arouca, Aveiro, Castelo de Paiva, Espinho, Estarreja, Ílhavo, Mealhada, Murtosa, Oliveira de Azeméis, Oliveira do Bairro, Ovar, Santa Maria da Feira, São João da Madeira, Sever do Vouga, Vagos, Vale de Cambra",
-    "publish": "No",
-    "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-12-01T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -8736,8 +8739,8 @@
     "region": "Beja",
     "districts": "Odemira, Aljustrel, Almodôvar, Alvito, Barrancos, Beja, Castro Verde, Cuba, Ferreira do Alentejo, Mértola, Moura, Ourique, Serpa, Vidigueira",
     "publish": "No",
-    "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-12-01T08:00:00.000Z"
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -8745,9 +8748,9 @@
     "svspc": "SV",
     "region": "Braga",
     "districts": "Cabeceiras de Basto, Celorico de Basto, Fafe, Guimarães, Póvoa de Lanhoso, Vieira do Minho, Vila Nova de Famalicão, Vizela, Amares, Barcelos, Braga, Esposende, Terras de Bouro, Vila Verde",
-    "publish": "No",
-    "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-12-01T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -8755,9 +8758,9 @@
     "svspc": "SV",
     "region": "Bragança",
     "districts": "Alfândega da Fé,Bragança,Carrazeda de Ansiães,Freixo de Espada à Cinta,Macedo de Cavaleiros,Miranda do Douro,Mirandela,Mogadouro,Moncorvo,Vila Flor,Vimioso,Vinhais",
-    "publish": "No",
-    "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-12-01T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -8765,9 +8768,9 @@
     "svspc": "SV",
     "region": "Castelo Branco",
     "districts": "Belmonte, Castelo Branco, Covilhã, Fundão, Idanha-a-Nova, Oleiros, Penamacor, Proença-a-Nova, Sertã, Vila de Rei, Vila Velha de Ródão",
-    "publish": "No",
-    "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-12-01T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -8775,9 +8778,9 @@
     "svspc": "SV",
     "region": "Coimbra",
     "districts": "Arganil,Cantanhede,Coimbra,Condeixa-a-Nova,Figueira da Foz,Góis,Lousã,Mira,Miranda do Corvo,Montemor-o-Velho,Oliveira do Hospital,Pampilhosa da Serra,Penacova,Penela,Soure,Tábua,Vila Nova de Poiares",
-    "publish": "No",
-    "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-12-01T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -8786,8 +8789,8 @@
     "region": "Évora",
     "districts": "Alandroal,Arraiolos,Borba,Estremoz,Évora,Montemor-o-Novo,Mora,Mourão,Olivença,Portel,Redondo,Reguengos de Monsaraz,Vendas Novas,Viana do Alentejo,Vila Viçosa",
     "publish": "No",
-    "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-12-01T08:00:00.000Z"
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -8796,8 +8799,8 @@
     "region": "Faro",
     "districts": "Albufeira,Faro,Lagoa,Lagos,Loulé,Olhão,Portimão,Quarteira (Loulé),Silves,Tavira,Vila Real de Santo António",
     "publish": "No",
-    "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-12-01T08:00:00.000Z"
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -8805,9 +8808,9 @@
     "svspc": "SV",
     "region": "Guarda",
     "districts": "Gouveia, Guarda, Meda, Pinhel, Sabugal, Trancoso.",
-    "publish": "No",
-    "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-12-01T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -8815,9 +8818,9 @@
     "svspc": "SV",
     "region": "Leiria",
     "districts": "Alcobaça,Caldas da Rainha,Leiria,Marinha Grande,Nazaré,Óbidos,Peniche,Pombal",
-    "publish": "No",
-    "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-12-01T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -8825,9 +8828,9 @@
     "svspc": "SV",
     "region": "Lisbon",
     "districts": "Alenquer,Amadora,Arruda dos Vinhos,Azambuja,Cadaval,Cascais,Lisbon,Loures,Lourinhã,Mafra,Odivelas,Oeiras,Sintra,Sobral de Monte Agraço,Torres Vedras,Vila Franca de Xira",
-    "publish": "No",
-    "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-12-01T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -8835,9 +8838,9 @@
     "svspc": "SV",
     "region": "Portalegre",
     "districts": "Alter do Chão,Arronches,Avis,Campo Maior,Castelo de Vide,Crato,Elvas,Fronteira,Gavião,Marvão,Monforte,Nisa,Ponte de Sor,Portalegre,Sousel,Summary of vot",
-    "publish": "No",
-    "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-12-01T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -8845,9 +8848,9 @@
     "svspc": "SV",
     "region": "Porto",
     "districts": "Amarante,Baião,Felgueiras,Gondomar,Lousada,Maia,Marco de Canaveses,Matosinhos,Paços de Ferreira,Paredes,Penafiel,Porto,Póvoa de Varzim,Santo Tirso,Trofa,Valongo,Vila do Conde,Vila Nova de Gaia",
-    "publish": "No",
-    "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-12-01T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -8855,9 +8858,9 @@
     "svspc": "SV",
     "region": "Santarém",
     "districts": "Abrantes,Alcanena,Almeirim,Alpiarça,Benavente,Cartaxo,Chamusca,Constância,Coruche,Entroncamento,Ferreira do Zêzere,Golegã,Mação,Ourém,Rio Maior,Salvaterra de Magos,Santarém,Sardoal,Tomar,Torres Novas,Vila Nova da Barquinha",
-    "publish": "No",
-    "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-12-01T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -8865,9 +8868,9 @@
     "svspc": "SV",
     "region": "Setúbal",
     "districts": "Alcochete,Almada,Barreiro,Moita,Montijo,Palmela,Seixal,Sesimbra,Setúbal,Alcácer do Sal,Grândola,Santiago do Cacém,Sines",
-    "publish": "No",
-    "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-12-01T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -8876,8 +8879,8 @@
     "region": "Viana do Castelo",
     "districts": "Arcos de Valdevez,Caminha,Melgaço,Monção,Paredes de Coura,Ponte da Barca,Ponte de Lima,Valença,Viana do Castelo,Vila Nova de Cerveira",
     "publish": "No",
-    "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-12-01T08:00:00.000Z"
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -8885,9 +8888,9 @@
     "svspc": "SV",
     "region": "Vila Real",
     "districts": "Alijó,Boticas,Chaves,Mesão Frio,Mondim de Basto,Montalegre,Murça,Peso da Régua,Ribeira de Pena,Sabrosa,Santa Marta de Penaguião,Valpaços,Vila Pouca de Aguiar,Vila Real",
-    "publish": "No",
-    "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-12-01T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
     "country": "Portugal",
@@ -8895,9 +8898,9 @@
     "svspc": "SV",
     "region": "Viseu",
     "districts": "Armamar,Carregal do Sal,Castro Daire,Cinfães,Lamego,Mangualde,Moimenta da Beira,Mortágua,Nelas,Oliveira de Frades,Penalva do Castelo,Penedono,Resende,Santa Comba Dão,São João da Pesqueira,São Pedro do Sul,Sátão,Sernancelhe,Tabuaço,Tarouca,Tondela,Vila Nova de Paiva,Viseu,Vouzela",
-    "publish": "No",
-    "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-12-01T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -10777,7 +10780,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Taipei",
-    "districts": "Da An Qu, Xi Yi Qu, Zhong Zhang Qu, Da Tong Qu, Wen Shan Qu",
+    "districts": "Da An Qu, Xi Yi Qu, Zhong Zhang Qu, Da Tong Qu, Bei Tou Qu, Shi Lin Qu",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -10787,7 +10790,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "New Taipei",
-    "districts": "Xian Dian Qu, Yong He Qu",
+    "districts": "Yong He Qu, ZHong He Qu",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -10881,7 +10884,7 @@
     "code": "TH",
     "svspc": "SV",
     "region": "Central",
-    "districts": "Phayao, Phetchabun, Udonthani, Khonkean, Yasothon, Amnart Cheroen, Sakaeo, Prachoup Kirikhun",
+    "districts": "Phayao, Phetchabun, Udonthani, Khonkean, Yasothon, Amnart Cheroen, Sakaeo, Prachoup Kirikhun Sakhon Nakhon, Mukdahan",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-03-01T08:00:00.000Z"
@@ -10966,9 +10969,9 @@
     "svspc": "SV",
     "region": "Greater London",
     "districts": "Greater London",
-    "publish": "No",
-    "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -10976,9 +10979,9 @@
     "svspc": "SV",
     "region": "South West",
     "districts": "Poole, Bornemouth, Dorset, Somerset, Torquay, Exeter, Plymouth, Newquay, Weymouth, Poole, Bristol, Bath, Swindon, Gloucester",
-    "publish": "No",
-    "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -10986,9 +10989,9 @@
     "svspc": "SV",
     "region": "South East",
     "districts": "Winchester, Basingstoke, Isle of Wight, Wiltshire, New Forest NP, Brighton, Eastbourne, Canterbury, Folkestone, Newhaven, Portsmouth, Oxford, Dover, Ramsgate, Crawley, Southampton, Maidstone, Rochester",
-    "publish": "No",
-    "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -10996,9 +10999,9 @@
     "svspc": "SV",
     "region": "East",
     "districts": "Lowestoft, Ipswich, Waltham Abbey, Cambridge, Norwich, Kings Lynn, Peterborough, Ely, Colchester, Braintree, Fakenham, Cromer, Chelmsford",
-    "publish": "No",
-    "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -11016,9 +11019,9 @@
     "svspc": "SV",
     "region": "North East",
     "districts": "Newcastle, Middlesbrough, Durham, Corbridge, Sunderland",
-    "publish": "No",
-    "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -11026,9 +11029,9 @@
     "svspc": "SV",
     "region": "North West",
     "districts": "Chester, Manchester, Liverpool, Blackpool, Kendal, Blackburn",
-    "publish": "No",
-    "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -11036,9 +11039,9 @@
     "svspc": "SV",
     "region": "Yorkshire and the Humber",
     "districts": "Leeds, York, Hull, Yorkshire Dales National Park",
-    "publish": "No",
-    "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -11046,9 +11049,9 @@
     "svspc": "SV",
     "region": "Wales",
     "districts": "Swansea, Cardiff, Newport, Llanelli",
-    "publish": "No",
-    "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -11056,9 +11059,9 @@
     "svspc": "SV",
     "region": "Scotland",
     "districts": "Glasgow, Edinburgh, Dumfries, Dundee, Inverness, Aberdeen, Forres, Shetland Islands, Orkney Islands, Isle of Skey, Isle of Mull, Lewis and Harris",
-    "publish": "No",
-    "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -11066,9 +11069,9 @@
     "svspc": "SV",
     "region": "East Midlands",
     "districts": "Derbyshire, Nottinghamshire, Leicestershire",
-    "publish": "No",
-    "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -11086,9 +11089,9 @@
     "svspc": "SV",
     "region": "Northern Ireland",
     "districts": "Belfast, Newry, Omagh, Moygashel, Muckamore",
-    "publish": "No",
-    "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -18139,8 +18142,8 @@
     "region": "Akçakoca",
     "districts": "Akçakoca",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18149,8 +18152,8 @@
     "region": "Akyazı",
     "districts": "Akyazı",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18159,8 +18162,8 @@
     "region": "Batman",
     "districts": "Batman",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18169,8 +18172,8 @@
     "region": "Bingöl",
     "districts": "Bingöl",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18179,8 +18182,8 @@
     "region": "Bismil",
     "districts": "Bismil",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18189,8 +18192,8 @@
     "region": "Bitlis",
     "districts": "Bitlis",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18199,8 +18202,8 @@
     "region": "Bolu",
     "districts": "Bolu",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18209,8 +18212,8 @@
     "region": "Çaldıran",
     "districts": "Çaldıran",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18219,8 +18222,8 @@
     "region": "Çermik",
     "districts": "Çermik",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18229,8 +18232,8 @@
     "region": "Dicle",
     "districts": "Dicle",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18239,8 +18242,8 @@
     "region": "Diyarbakır",
     "districts": "Diyarbakır",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18249,8 +18252,8 @@
     "region": "Düzce",
     "districts": "Düzce",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18259,8 +18262,8 @@
     "region": "Elazığ",
     "districts": "Elazığ",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18269,8 +18272,8 @@
     "region": "Erciş",
     "districts": "Erciş",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18279,8 +18282,8 @@
     "region": "Ergani",
     "districts": "Ergani",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18289,8 +18292,8 @@
     "region": "Gerede",
     "districts": "Gerede",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18299,8 +18302,8 @@
     "region": "Gevaş",
     "districts": "Gevaş",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18309,8 +18312,8 @@
     "region": "Hasköy",
     "districts": "Hasköy",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18319,8 +18322,8 @@
     "region": "Hendek",
     "districts": "Hendek",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18329,8 +18332,8 @@
     "region": "Karasu",
     "districts": "Karasu",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18339,8 +18342,8 @@
     "region": "Kovancılar",
     "districts": "Kovancılar",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18349,8 +18352,8 @@
     "region": "Mardin",
     "districts": "Mardin",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18359,8 +18362,8 @@
     "region": "Midyat",
     "districts": "Midyat",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18369,8 +18372,8 @@
     "region": "Muradiye",
     "districts": "Muradiye",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18379,8 +18382,8 @@
     "region": "Muş",
     "districts": "Muş",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18389,8 +18392,8 @@
     "region": "Sakarya",
     "districts": "Sakarya",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18399,8 +18402,8 @@
     "region": "Tatvan",
     "districts": "Tatvan",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18409,8 +18412,8 @@
     "region": "Van",
     "districts": "Van",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18419,8 +18422,8 @@
     "region": "Adıyaman",
     "districts": "Adıyaman",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18429,8 +18432,8 @@
     "region": "Afşin",
     "districts": "Afşin",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18439,8 +18442,8 @@
     "region": "Araban",
     "districts": "Araban",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18449,8 +18452,8 @@
     "region": "Besni",
     "districts": "Besni",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18459,8 +18462,8 @@
     "region": "Çağlayancerit",
     "districts": "Çağlayancerit",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18469,8 +18472,8 @@
     "region": "Elbistan",
     "districts": "Elbistan",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18479,8 +18482,8 @@
     "region": "Gölbaşı",
     "districts": "Gölbaşı",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18489,8 +18492,8 @@
     "region": "Gölcük",
     "districts": "Gölcük",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18499,8 +18502,8 @@
     "region": "İskenderun",
     "districts": "İskenderun",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18509,8 +18512,8 @@
     "region": "İstanbul",
     "districts": "İstanbul",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18519,8 +18522,8 @@
     "region": "Kahramanmaraş",
     "districts": "Kahramanmaraş",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18529,8 +18532,8 @@
     "region": "Kandıra",
     "districts": "Kandıra",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18539,8 +18542,8 @@
     "region": "Kırıkhan",
     "districts": "Kırıkhan",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Turkey",
@@ -18549,8 +18552,8 @@
     "region": "Reyhanlı",
     "districts": "Reyhanlı",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18559,8 +18562,8 @@
     "region": "Malacca",
     "districts": "Malacca District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18569,8 +18572,8 @@
     "region": "Negeri Sembilan",
     "districts": "Alor Gajah District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18579,8 +18582,8 @@
     "region": "Negeri Sembilan",
     "districts": "Jempol District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18589,8 +18592,8 @@
     "region": "Negeri Sembilan",
     "districts": "Port Dickson District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18599,8 +18602,8 @@
     "region": "Negeri Sembilan",
     "districts": "Rompin District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18609,8 +18612,8 @@
     "region": "Negeri Sembilan",
     "districts": "Seremban District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18619,8 +18622,8 @@
     "region": "Pahang",
     "districts": "Jerantut District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18629,8 +18632,8 @@
     "region": "Sabah",
     "districts": "Beaufort District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18639,8 +18642,8 @@
     "region": "Sabah",
     "districts": "Beluran District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18649,8 +18652,8 @@
     "region": "Sabah",
     "districts": "Keningau District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18659,8 +18662,8 @@
     "region": "Sabah",
     "districts": "Kinabatangan District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18669,8 +18672,8 @@
     "region": "Sabah",
     "districts": "Kudat District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18679,8 +18682,8 @@
     "region": "Sabah",
     "districts": "Labuan District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18689,8 +18692,8 @@
     "region": "Sabah",
     "districts": "Sandakan District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18699,8 +18702,8 @@
     "region": "Sabah",
     "districts": "Sipitang District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18709,8 +18712,8 @@
     "region": "Sabah",
     "districts": "Tenom District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18719,8 +18722,8 @@
     "region": "Sarawak",
     "districts": "Bintulu District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18729,8 +18732,8 @@
     "region": "Sarawak",
     "districts": "Julau District District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18739,8 +18742,8 @@
     "region": "Sarawak",
     "districts": "Lubok Antu District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18749,8 +18752,8 @@
     "region": "Sarawak",
     "districts": "Mukah District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18759,8 +18762,8 @@
     "region": "Sarawak",
     "districts": "Saratok District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18769,8 +18772,8 @@
     "region": "Sarawak",
     "districts": "Sarikei District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18779,8 +18782,8 @@
     "region": "Sarawak",
     "districts": "Sebauh District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18789,8 +18792,8 @@
     "region": "Sarawak",
     "districts": "Selangau District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18799,8 +18802,8 @@
     "region": "Sarawak",
     "districts": "Sibu District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18809,8 +18812,8 @@
     "region": "Sarawak",
     "districts": "Sri Aman District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18819,8 +18822,8 @@
     "region": "Sarawak",
     "districts": "Tatau District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18829,8 +18832,8 @@
     "region": "Selangor",
     "districts": "Kuala Langat District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18839,8 +18842,8 @@
     "region": "Selangor",
     "districts": "Kuala Selangor District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18849,8 +18852,8 @@
     "region": "Selangor",
     "districts": "Sabak Bernam District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
@@ -18859,8 +18862,8 @@
     "region": "Selangor",
     "districts": "Kuala Selangor District",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Ecuador",
@@ -18869,8 +18872,8 @@
     "region": "Santo Domingo de los Tsachilas",
     "districts": "Santo Domingo",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Ecuador",
@@ -18879,8 +18882,8 @@
     "region": "Tungurahua",
     "districts": "Ambato",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Ecuador",
@@ -18889,8 +18892,8 @@
     "region": "Imbabura",
     "districts": "Ibarra",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Ecuador",
@@ -18899,8 +18902,8 @@
     "region": "Imbabura",
     "districts": "Otavalo",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Ecuador",
@@ -18909,8 +18912,8 @@
     "region": "Cotopaxi",
     "districts": "Saquisilí",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Ecuador",
@@ -18919,8 +18922,8 @@
     "region": "Cotopaxi",
     "districts": "Salcedo",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Ecuador",
@@ -18929,8 +18932,8 @@
     "region": "Tungurahua",
     "districts": "Pillaro",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Ecuador",
@@ -18939,8 +18942,8 @@
     "region": "Imbabura",
     "districts": "San Antonio de Ibarra",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Ecuador",
@@ -18949,8 +18952,8 @@
     "region": "Imbabura",
     "districts": "Atuntaqui",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Ecuador",
@@ -18959,8 +18962,8 @@
     "region": "Imbabura",
     "districts": "Cotacachi",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Ecuador",
@@ -18969,8 +18972,8 @@
     "region": "Imbabura",
     "districts": "Iluman",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Ecuador",
@@ -18979,8 +18982,8 @@
     "region": "Cotopaxi",
     "districts": "Pujili",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Ecuador",
@@ -18989,8 +18992,8 @@
     "region": "Pichincha",
     "districts": "Tabacundo",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Ecuador",
@@ -18999,8 +19002,8 @@
     "region": "Pichincha",
     "districts": "La Tola",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Ecuador",
@@ -19009,8 +19012,8 @@
     "region": "Pichincha",
     "districts": "Aloag",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Ecuador",
@@ -19019,8 +19022,8 @@
     "region": "Pichincha",
     "districts": "Machachi",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Ecuador",
@@ -19029,8 +19032,8 @@
     "region": "Pichincha",
     "districts": "Pintag",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Ecuador",
@@ -19039,8 +19042,8 @@
     "region": "Cotopaxi",
     "districts": "Latacunga",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Ecuador",
@@ -19049,8 +19052,8 @@
     "region": "Guayas",
     "districts": "Duran",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Ecuador",
@@ -19059,8 +19062,8 @@
     "region": "Guayas",
     "districts": "Guayaquil",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Ecuador",
@@ -19069,8 +19072,8 @@
     "region": "Guayas",
     "districts": "Samborondón",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Ecuador",
@@ -19079,8 +19082,8 @@
     "region": "Guayas",
     "districts": "Milagro",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Ecuador",
@@ -19089,8 +19092,8 @@
     "region": "Guayas",
     "districts": "Yaguachi",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Ecuador",
@@ -19099,8 +19102,8 @@
     "region": "Guayas",
     "districts": "Virgen de Fatima",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Costa Rica",
@@ -19109,8 +19112,8 @@
     "region": "Limon",
     "districts": "Cariari",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Costa Rica",
@@ -19119,8 +19122,8 @@
     "region": "Limon",
     "districts": "Rita",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Costa Rica",
@@ -19129,8 +19132,8 @@
     "region": "Limon",
     "districts": "Guapiles",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Costa Rica",
@@ -19139,8 +19142,8 @@
     "region": "Limon",
     "districts": "Guacimo",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Costa Rica",
@@ -19149,8 +19152,8 @@
     "region": "Limon",
     "districts": "Pocora",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Costa Rica",
@@ -19159,8 +19162,8 @@
     "region": "Limon",
     "districts": "Siquirres",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Costa Rica",
@@ -19169,8 +19172,8 @@
     "region": "Limon",
     "districts": "Cairo",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Costa Rica",
@@ -19179,8 +19182,8 @@
     "region": "Limon",
     "districts": "Batan",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Costa Rica",
@@ -19189,8 +19192,8 @@
     "region": "Limon",
     "districts": "Matina",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Costa Rica",
@@ -19199,8 +19202,8 @@
     "region": "Limon",
     "districts": "Limon_2000",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Costa Rica",
@@ -19209,8 +19212,8 @@
     "region": "Limon",
     "districts": "Moin",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Costa Rica",
@@ -19219,8 +19222,8 @@
     "region": "Limon",
     "districts": "Villa_del_Mar",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Costa Rica",
@@ -19229,8 +19232,8 @@
     "region": "Limon",
     "districts": "Cahuita",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Costa Rica",
@@ -19239,8 +19242,8 @@
     "region": "Limon",
     "districts": "Pto_Viejo_Talamanca",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Costa Rica",
@@ -19249,8 +19252,8 @@
     "region": "Limon",
     "districts": "Punta_Uva",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Costa Rica",
@@ -19259,8 +19262,8 @@
     "region": "Limon",
     "districts": "Manzanillo",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Costa Rica",
@@ -19269,8 +19272,8 @@
     "region": "Limon",
     "districts": "Sixaola",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Costa Rica",
@@ -19279,8 +19282,8 @@
     "region": "Limon",
     "districts": "Bribri",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Costa Rica",
@@ -19289,8 +19292,8 @@
     "region": "Limon",
     "districts": "Hone_Creek",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19299,8 +19302,8 @@
     "region": "Alto Parana",
     "districts": "Tavapy",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19309,8 +19312,8 @@
     "region": "Alto Parana",
     "districts": "Santa Rita",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19319,8 +19322,8 @@
     "region": "Alto Parana",
     "districts": "Santa Rosa del Monday",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19329,8 +19332,8 @@
     "region": "Alto Parana",
     "districts": "Curupayty",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19339,8 +19342,8 @@
     "region": "Amambay",
     "districts": "Karapai",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19349,8 +19352,8 @@
     "region": "Boqueron",
     "districts": "Filadelfia",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19359,8 +19362,8 @@
     "region": "Boqueron",
     "districts": "Loma Plata",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19369,8 +19372,8 @@
     "region": "Caaguazu",
     "districts": "Carayao",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19379,8 +19382,8 @@
     "region": "Caazapa",
     "districts": "Yuty",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19389,8 +19392,8 @@
     "region": "Caazapa",
     "districts": "Yegros",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19399,8 +19402,8 @@
     "region": "Caazapa",
     "districts": "Caazapa",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19409,8 +19412,8 @@
     "region": "Caazapa",
     "districts": "Maciel",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19419,8 +19422,8 @@
     "region": "Caazapa",
     "districts": "San Juan Nepomuceno",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19429,8 +19432,8 @@
     "region": "Caazapa",
     "districts": "General Higinio Morínigo",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19439,8 +19442,8 @@
     "region": "Concepcion",
     "districts": "Belen",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19449,8 +19452,8 @@
     "region": "Concepcion",
     "districts": "Puerto Valle-Mi",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19459,8 +19462,8 @@
     "region": "Concepcion",
     "districts": "Loreto",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19469,8 +19472,8 @@
     "region": "Concepcion",
     "districts": "Horqueta",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19479,8 +19482,8 @@
     "region": "Concepcion",
     "districts": "Yby Yau",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19489,8 +19492,8 @@
     "region": "Guaira",
     "districts": "Tebicuary",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19499,8 +19502,8 @@
     "region": "Guaira",
     "districts": "Coronel_Martinez",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19509,8 +19512,8 @@
     "region": "Guaira",
     "districts": "Villarrica",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19519,8 +19522,8 @@
     "region": "Guaira",
     "districts": "Mbocayaty",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19529,8 +19532,8 @@
     "region": "Guaira",
     "districts": "Iturbe",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19539,8 +19542,8 @@
     "region": "Guaira",
     "districts": "Numi",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19549,8 +19552,8 @@
     "region": "Guaira",
     "districts": "General Eugenio Alejandrino Garay",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19559,8 +19562,8 @@
     "region": "Itapua",
     "districts": "San Cosme y Damian",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19569,8 +19572,8 @@
     "region": "Itapua",
     "districts": "General Artigas",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19579,8 +19582,8 @@
     "region": "Itapua",
     "districts": "San Pedro del Parana",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19589,8 +19592,8 @@
     "region": "Itapua",
     "districts": "Naranjito",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19599,8 +19602,8 @@
     "region": "Itapua",
     "districts": "Santa Maria Auxiliadora",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19609,8 +19612,8 @@
     "region": "Itapua",
     "districts": "Edelira",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19619,8 +19622,8 @@
     "region": "Itapua",
     "districts": "Bella Vista Sur",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19629,8 +19632,8 @@
     "region": "Itapua",
     "districts": "Hohenau",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19639,8 +19642,8 @@
     "region": "Itapua",
     "districts": "Obligado",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19649,8 +19652,8 @@
     "region": "Itapua",
     "districts": "Trinidad",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19659,8 +19662,8 @@
     "region": "Itapua",
     "districts": "Capitán Miranda",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19669,8 +19672,8 @@
     "region": "Itapua",
     "districts": "Jesus_de_Tavarangue",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19679,8 +19682,8 @@
     "region": "Itapua",
     "districts": "Mayor Otaño",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19689,8 +19692,8 @@
     "region": "Paraguari",
     "districts": "Sapucai",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19699,8 +19702,8 @@
     "region": "Paraguari",
     "districts": "General Bernardino Cabellero",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19709,8 +19712,8 @@
     "region": "Paraguari",
     "districts": "Ybytimi",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19719,8 +19722,8 @@
     "region": "Paraguari",
     "districts": "Acahay",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19729,8 +19732,8 @@
     "region": "Paraguari",
     "districts": "La Colmena",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19739,8 +19742,8 @@
     "region": "Paraguari",
     "districts": "Ybycui",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19749,8 +19752,8 @@
     "region": "San Pedro",
     "districts": "San Pedro Lima",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19759,8 +19762,8 @@
     "region": "San Pedro",
     "districts": "Santa Rosa del Aguaray",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19769,8 +19772,8 @@
     "region": "San Pedro",
     "districts": "Yataity del Norte",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19779,8 +19782,8 @@
     "region": "San Pedro",
     "districts": "Guayaibi",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19789,8 +19792,8 @@
     "region": "San Pedro",
     "districts": "General Isidoro Resquin",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19799,8 +19802,8 @@
     "region": "San Pedro",
     "districts": "San Pedro de Ycuamandyyu",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19809,8 +19812,8 @@
     "region": "San Pedro",
     "districts": "Puerto Antequera",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19819,8 +19822,8 @@
     "region": "San Pedro",
     "districts": "Villa del Rosario",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19829,8 +19832,8 @@
     "region": "San Pedro",
     "districts": "General Elizardo Aquino",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Paraguay",
@@ -19839,8 +19842,8 @@
     "region": "San Pedro",
     "districts": "Itacurubi del Rosario",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -19849,8 +19852,8 @@
     "region": "Metro",
     "districts": "Guaynabo",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -19859,8 +19862,8 @@
     "region": "Metro",
     "districts": "Bayamon",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -19869,8 +19872,8 @@
     "region": "Metro",
     "districts": "San Juan",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -19879,8 +19882,8 @@
     "region": "Metro",
     "districts": "Toa Baja",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -19889,8 +19892,8 @@
     "region": "Metro",
     "districts": "Carolina",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -19899,8 +19902,8 @@
     "region": "Metro",
     "districts": "Catano",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -19909,8 +19912,8 @@
     "region": "Metro",
     "districts": "Cataño",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -19919,8 +19922,8 @@
     "region": "Metro",
     "districts": "Trujillo Alto",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -19929,8 +19932,8 @@
     "region": "North",
     "districts": "Toa Alta",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -19939,8 +19942,8 @@
     "region": "North",
     "districts": "Dorado",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -19949,8 +19952,8 @@
     "region": "East",
     "districts": "Loiza",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -19959,8 +19962,8 @@
     "region": "East",
     "districts": "San_Lorenzo",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -19969,8 +19972,8 @@
     "region": "East",
     "districts": "Las_Piedras",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -19979,8 +19982,8 @@
     "region": "East",
     "districts": "Humacao",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Uruguay",
@@ -19989,8 +19992,8 @@
     "region": "Montevideo",
     "districts": "Montevideo",
     "publish": "Yes",
-    "datestart": "February '25",
-    "dateend": "March '25"
+    "datestart": "2025-02-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Oman",
@@ -19999,8 +20002,8 @@
     "region": "Ad Dakhliyah",
     "districts": "Adam",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Oman",
@@ -20009,8 +20012,8 @@
     "region": "Ad Dakhliyah",
     "districts": "Al Mudaybi",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Oman",
@@ -20019,8 +20022,8 @@
     "region": "Ad Dakhliyah",
     "districts": "Ar Rustaq",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Oman",
@@ -20029,8 +20032,8 @@
     "region": "Ad Dakhliyah",
     "districts": "Bahla",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Oman",
@@ -20039,8 +20042,8 @@
     "region": "Ad Dakhliyah",
     "districts": "Ibri",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Oman",
@@ -20049,8 +20052,8 @@
     "region": "Ad Dakhliyah",
     "districts": "Muhut",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Oman",
@@ -20059,8 +20062,8 @@
     "region": "Ad Dakhliyah",
     "districts": "Nakhal",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Oman",
@@ -20069,8 +20072,8 @@
     "region": "Adh Dhahirah",
     "districts": "Adam",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Oman",
@@ -20079,8 +20082,8 @@
     "region": "Adh Dhahirah",
     "districts": "As Sunaynah",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Oman",
@@ -20089,8 +20092,8 @@
     "region": "Adh Dhahirah",
     "districts": "Ibri",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Oman",
@@ -20099,8 +20102,8 @@
     "region": "Al Batinah South",
     "districts": "Ar Rustaq",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Oman",
@@ -20109,8 +20112,8 @@
     "region": "Al Wusta",
     "districts": "Ad Duqm",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Oman",
@@ -20119,8 +20122,8 @@
     "region": "Al Wusta",
     "districts": "Al Jazir",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Oman",
@@ -20129,8 +20132,8 @@
     "region": "Al Wusta",
     "districts": "Al Wusta",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Oman",
@@ -20139,8 +20142,8 @@
     "region": "Al Wusta",
     "districts": "Muhut",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Oman",
@@ -20149,8 +20152,8 @@
     "region": "Al Wusta",
     "districts": "Shalim Wa Juzor Al Hallaniyat",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Oman",
@@ -20159,8 +20162,8 @@
     "region": "Ash Sharqiyah North",
     "districts": "Muhut",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Oman",
@@ -20169,8 +20172,8 @@
     "region": "Ash Sharqiyah North",
     "districts": "Wadi Bani Khalid",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Oman",
@@ -20179,8 +20182,8 @@
     "region": "Ash Sharqiyah South",
     "districts": "Masirah",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Oman",
@@ -20189,8 +20192,8 @@
     "region": "Ash Sharqiyah South",
     "districts": "Muhut",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Oman",
@@ -20199,8 +20202,8 @@
     "region": "Ash Sharqiyah South",
     "districts": "Sur",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Oman",
@@ -20209,8 +20212,8 @@
     "region": "Dhofar",
     "districts": "Muqshin",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Oman",
@@ -20219,8 +20222,8 @@
     "region": "Dhofar",
     "districts": "Shalim Wa Juzor Al Hallaniyat",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Oman",
@@ -20229,8 +20232,8 @@
     "region": "Dhofar",
     "districts": "Thumrayt",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Nepal",
@@ -20239,28 +20242,28 @@
     "region": "Lumbini",
     "districts": "Bhumikasthan",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Nepal",
     "code": "NP",
     "svspc": "SV",
     "region": "Lumbini",
-    "districts": "Chhatradev",
+    "districts": " Chhatradev",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Nepal",
     "code": "NP",
     "svspc": "SV",
     "region": "Lumbini",
-    "districts": "Malarani",
+    "districts": " Malarani",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Nepal",
@@ -20269,8 +20272,8 @@
     "region": "Lumbini",
     "districts": "Sandhikharka",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Nepal",
@@ -20279,8 +20282,8 @@
     "region": "Sudur Paschim",
     "districts": "Dasharathchand",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Nepal",
@@ -20289,28 +20292,28 @@
     "region": "Sudur Paschim",
     "districts": "Dilasaini",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Nepal",
     "code": "NP",
     "svspc": "SV",
     "region": "Sudur Paschim",
-    "districts": "Dogada Kedar",
+    "districts": " Dogada Kedar",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Nepal",
     "code": "NP",
     "svspc": "SV",
     "region": "Sudur Paschim",
-    "districts": "Melauli",
+    "districts": " Melauli",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Nepal",
@@ -20319,8 +20322,8 @@
     "region": "Sudur Paschim",
     "districts": "Pancheshwor",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Nepal",
@@ -20329,8 +20332,8 @@
     "region": "Sudur Paschim",
     "districts": "Shivanath",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Nepal",
@@ -20339,8 +20342,8 @@
     "region": "Sudur Paschim",
     "districts": "Malikarjun",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Nepal",
@@ -20349,8 +20352,8 @@
     "region": "Sudur Paschim",
     "districts": "Shailyashikhar",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Ghana",
@@ -20359,8 +20362,8 @@
     "region": "Accra",
     "districts": "Accra",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Ghana",
@@ -20369,8 +20372,8 @@
     "region": "Tema",
     "districts": "Tema",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20379,8 +20382,8 @@
     "region": "Homa Bay County",
     "districts": "Homa Bay Town",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20389,8 +20392,8 @@
     "region": "Homa Bay County",
     "districts": "Karachuonyo",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20399,8 +20402,8 @@
     "region": "Homa Bay County",
     "districts": "Kasipul",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20409,8 +20412,8 @@
     "region": "Homa Bay County",
     "districts": "Mbita",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20419,8 +20422,8 @@
     "region": "Homa Bay County",
     "districts": "Ndhiwa",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20429,8 +20432,8 @@
     "region": "Homa Bay County",
     "districts": "Rangwe",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20439,8 +20442,8 @@
     "region": "Homa Bay County",
     "districts": "Suba",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20449,8 +20452,8 @@
     "region": "Kakamega County",
     "districts": "Butere",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20459,8 +20462,8 @@
     "region": "Kakamega County",
     "districts": "Khwisero",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20469,8 +20472,8 @@
     "region": "Kakamega County",
     "districts": "Lugari",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20479,8 +20482,8 @@
     "region": "Kakamega County",
     "districts": "Lurambi",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20489,8 +20492,8 @@
     "region": "Kakamega County",
     "districts": "Malava",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20499,8 +20502,8 @@
     "region": "Kakamega County",
     "districts": "Mumias West",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20509,8 +20512,8 @@
     "region": "Kakamega County",
     "districts": "Navakholo",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20519,8 +20522,8 @@
     "region": "Kakamega County",
     "districts": "Turbo",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20529,8 +20532,8 @@
     "region": "Kericho County",
     "districts": "Ainamoi",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20539,8 +20542,8 @@
     "region": "Kericho County",
     "districts": "Bureti",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20549,8 +20552,8 @@
     "region": "Kericho County",
     "districts": "Sigowet/Soin",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20559,8 +20562,8 @@
     "region": "Kisumu County",
     "districts": "Kisumu West",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20569,8 +20572,8 @@
     "region": "Kisumu County",
     "districts": "Nyakach",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20579,8 +20582,8 @@
     "region": "Kisumu County",
     "districts": "Nyando",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20589,8 +20592,8 @@
     "region": "Kisumu County",
     "districts": "Seme",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20599,8 +20602,8 @@
     "region": "Kitui County",
     "districts": "Kitui Central",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20609,8 +20612,8 @@
     "region": "Kitui County",
     "districts": "Kitui Rural",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20619,8 +20622,8 @@
     "region": "Kitui County",
     "districts": "Kitui West",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20629,8 +20632,8 @@
     "region": "Kitui County",
     "districts": "Mwingi Central",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20639,8 +20642,8 @@
     "region": "Kitui County",
     "districts": "Mwingi West",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20649,8 +20652,8 @@
     "region": "Meru County",
     "districts": "Igembe Central",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20659,8 +20662,8 @@
     "region": "Meru County",
     "districts": "Igembe North",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20669,8 +20672,8 @@
     "region": "Meru County",
     "districts": "Igembe South",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20679,8 +20682,8 @@
     "region": "Homa Bay County",
     "districts": "Kabondo Kasipul",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20689,8 +20692,8 @@
     "region": "Homa Bay County",
     "districts": "Karachuonyo",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20699,8 +20702,8 @@
     "region": "Homa Bay County",
     "districts": "Kasipul",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20709,8 +20712,8 @@
     "region": "Kericho County",
     "districts": "Ainamoi",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20719,8 +20722,8 @@
     "region": "Kericho County",
     "districts": "Belgut",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20729,8 +20732,8 @@
     "region": "Kericho County",
     "districts": "Bureti",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20739,8 +20742,8 @@
     "region": "Kericho County",
     "districts": "Kipkelion East",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20749,8 +20752,8 @@
     "region": "Kericho County",
     "districts": "Kipkelion West",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20759,8 +20762,8 @@
     "region": "Makueni County",
     "districts": "Kibwezi West",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20769,8 +20772,8 @@
     "region": "Makueni County",
     "districts": "Makueni",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20779,8 +20782,8 @@
     "region": "Uasin Gishu County",
     "districts": "Ainabkoi",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20789,8 +20792,8 @@
     "region": "Uasin Gishu County",
     "districts": "Kapseret",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20799,8 +20802,8 @@
     "region": "Uasin Gishu County",
     "districts": "Kesses",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20809,8 +20812,8 @@
     "region": "Uasin Gishu County",
     "districts": "Mosop",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20819,8 +20822,8 @@
     "region": "Uasin Gishu County",
     "districts": "Soy",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Kenya",
@@ -20829,8 +20832,8 @@
     "region": "Uasin Gishu County",
     "districts": "Turbo",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Cyprus",
@@ -20839,8 +20842,8 @@
     "region": "Nicosia",
     "districts": "Potami",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Cyprus",
@@ -20849,8 +20852,8 @@
     "region": "Nicosia",
     "districts": "Polistipos",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Cyprus",
@@ -20859,8 +20862,8 @@
     "region": "Nicosia",
     "districts": "AgiaMarina",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Cyprus",
@@ -20869,8 +20872,8 @@
     "region": "Nicosia",
     "districts": "Agrokipia",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Cyprus",
@@ -20879,8 +20882,8 @@
     "region": "Nicosia",
     "districts": "Vavatsinia",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Cyprus",
@@ -20889,8 +20892,8 @@
     "region": "Nicosia",
     "districts": "Farmakas",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Cyprus",
@@ -20899,8 +20902,8 @@
     "region": "Nicosia",
     "districts": "Gourri",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Cyprus",
@@ -20909,8 +20912,8 @@
     "region": "Nicosia",
     "districts": "Kapedes",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Cyprus",
@@ -20919,8 +20922,8 @@
     "region": "Nicosia",
     "districts": "Mylikouri",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Cyprus",
@@ -20929,8 +20932,8 @@
     "region": "Nicosia",
     "districts": "AgiosEpifanios",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Cyprus",
@@ -20939,8 +20942,8 @@
     "region": "Larnaca",
     "districts": "Anafotia",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Cyprus",
@@ -20949,8 +20952,8 @@
     "region": "Larnaca",
     "districts": "Klavdia",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Cyprus",
@@ -20959,8 +20962,8 @@
     "region": "Larnaca",
     "districts": "Delikipos",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Cyprus",
@@ -20969,8 +20972,8 @@
     "region": "Limassol",
     "districts": "VasaKoilaniou",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Cyprus",
@@ -20979,8 +20982,8 @@
     "region": "Limassol",
     "districts": "Alassa",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Cyprus",
@@ -20989,8 +20992,8 @@
     "region": "Limassol",
     "districts": "Prastio",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Cyprus",
@@ -20999,8 +21002,8 @@
     "region": "Limassol",
     "districts": "AgiosTherapon",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Cyprus",
@@ -21009,8 +21012,8 @@
     "region": "Limassol",
     "districts": "Mandria",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Cyprus",
@@ -21019,8 +21022,8 @@
     "region": "Limassol",
     "districts": "AgiosAmvrosios",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Cyprus",
@@ -21029,8 +21032,8 @@
     "region": "Limassol",
     "districts": "AgiosThomas",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Cyprus",
@@ -21039,8 +21042,8 @@
     "region": "Limassol",
     "districts": "Mandria",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Cyprus",
@@ -21049,8 +21052,8 @@
     "region": "Paphos",
     "districts": "Mesana",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Cyprus",
@@ -21059,8 +21062,8 @@
     "region": "Paphos",
     "districts": "Vretsia",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Cyprus",
@@ -21069,8 +21072,8 @@
     "region": "Paphos",
     "districts": "Salamiou",
     "publish": "Yes",
-    "datestart": "January '25",
-    "dateend": "March '25"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Bangladesh",
@@ -21079,8 +21082,8 @@
     "region": "Dhaka Division",
     "districts": "Gazipur",
     "publish": "Yes",
-    "datestart": "February '25",
-    "dateend": "March '25"
+    "datestart": "2025-02-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Bangladesh",
@@ -21089,8 +21092,8 @@
     "region": "Dhaka Division",
     "districts": "Kishoreganj",
     "publish": "Yes",
-    "datestart": "February '25",
-    "dateend": "March '25"
+    "datestart": "2025-02-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Bangladesh",
@@ -21099,8 +21102,8 @@
     "region": "Dhaka Division",
     "districts": "Tangail",
     "publish": "Yes",
-    "datestart": "February '25",
-    "dateend": "March '25"
+    "datestart": "2025-02-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Bangladesh",
@@ -21109,8 +21112,8 @@
     "region": "Mymensingh Division",
     "districts": "Jamalpur",
     "publish": "Yes",
-    "datestart": "February '25",
-    "dateend": "March '25"
+    "datestart": "2025-02-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Bangladesh",
@@ -21119,8 +21122,8 @@
     "region": "Mymensingh Division",
     "districts": "Mymensingh",
     "publish": "Yes",
-    "datestart": "February '25",
-    "dateend": "March '25"
+    "datestart": "2025-02-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Bangladesh",
@@ -21129,8 +21132,8 @@
     "region": "Mymensingh Division",
     "districts": "Netrokona",
     "publish": "Yes",
-    "datestart": "February '25",
-    "dateend": "March '25"
+    "datestart": "2025-02-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Bangladesh",
@@ -21139,8 +21142,8 @@
     "region": "Mymensingh Division",
     "districts": "Sherpur",
     "publish": "Yes",
-    "datestart": "February '25",
-    "dateend": "March '25"
+    "datestart": "2025-02-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Bangladesh",
@@ -21149,8 +21152,8 @@
     "region": "Mymensingh Division",
     "districts": "Jamalpur",
     "publish": "Yes",
-    "datestart": "February '25",
-    "dateend": "March '25"
+    "datestart": "2025-02-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Bangladesh",
@@ -21159,8 +21162,8 @@
     "region": "Sylhet Division",
     "districts": "Sylhet",
     "publish": "Yes",
-    "datestart": "February '25",
-    "dateend": "March '25"
+    "datestart": "2025-02-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Bangladesh",
@@ -21169,8 +21172,8 @@
     "region": "Sylhet Division",
     "districts": "Sunamganj",
     "publish": "Yes",
-    "datestart": "February '25",
-    "dateend": "March '25"
+    "datestart": "2025-02-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Bangladesh",
@@ -21179,8 +21182,8 @@
     "region": "Sylhet Division",
     "districts": "Habiganj",
     "publish": "Yes",
-    "datestart": "February '25",
-    "dateend": "March '25"
+    "datestart": "2025-02-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   },
   {
     "country": "Bangladesh",
@@ -21189,7 +21192,7 @@
     "region": "Sylhet Division",
     "districts": "Maulvibazar",
     "publish": "Yes",
-    "datestart": "February '25",
-    "dateend": "March '25"
+    "datestart": "2025-02-01T08:00:00.000Z",
+    "dateend": "2025-03-01T08:00:00.000Z"
   }
 ]
