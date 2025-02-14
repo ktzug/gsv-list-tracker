@@ -1174,7 +1174,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Chaco",
-    "districts": "Charata,Concepción del Bermejo,Corrientes,El Espinillo,Fuerte Esperanza,Juan José Castelli,Machagai,Makallé,Miraflores,Misión Nueva Pompeya,Pampa del Infierno,Presidencia Roque Sáenz Peña,Quitilipi,Resistencia,Rivadavia,Santa Sylvina,Tres Isletas,Villa Ángela",
+    "districts": "Charata,Concepción del Bermejo,Corrientes,El Espinillo,Fuerte Esperanza,Juan José Castelli,Machagai,Miraflores,Misión Nueva Pompeya,Pampa del Infierno,Presidencia Roque Sáenz Peña,Quitilipi,Santa Sylvina,Tres Isletas,Villa Ángela",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1354,7 +1354,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Tucumán",
-    "districts": "Concepción,Monteros,San Miguel de Tucumán,Santa María,Termas de Río Hondo",
+    "districts": "Concepción,Monteros,Santa María,Termas de Río Hondo",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1664,7 +1664,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Bahia",
-    "districts": "Amargosa,Andaraí,Banzaê,Barra,Barreiras,Belo Campo,Boquira,Brotas de Macaúbas,Caculé,Caetité,Camamu,Cândido Sales,Cansanção,Capim Grosso,Cícero Dantas,Cristinápolis,Curaçá,Eunapolis,Formosa do Rio Preto,Ibiassucê,Ibotirama,Ipiaú,Ipupiara,Irecê,Itamaraju,Itapetinga,Ituberá,Jeremoabo,Lagoa Real,Lençóis,Livramento do Brumado,Luis Eduardo Magalhães,Mulungu do Morro,Mutuípe,Ninheira,Oliveira dos Brejinhos,Paramirim,Paratinga,Petrolina,Piatã,Ponte Alta do Bom Jesus,Porto Seguro,Ribeira do Pombal,Rio Real,Salvador,Santa Helena de Minas,Santo Antônio de Jesus,São Desidério,Seabra,Senhor do Bonfim,Serrinha,Teixeira de Freitas,Trancoso,Uauá,Uibaí,Umburaninha,unknown,Valença,Vermelho,Vila do Café,Vitória da Conquista,Xique Xique",
+    "districts": "Andaraí,Banzaê,Barra,Barreiras,Belo Campo,Boquira,Brotas de Macaúbas,Caculé,Caetité,Camamu,Cândido Sales,Cansanção,Capim Grosso,Cícero Dantas,Cristinápolis,Curaçá,Eunapolis,Formosa do Rio Preto,Ibiassucê,Ibotirama,Ipiaú,Ipupiara,Irecê,Itamaraju,Itapetinga,Ituberá,Jeremoabo,Lagoa Real,Lençóis,Livramento do Brumado,Luis Eduardo Magalhães,Mulungu do Morro,Ninheira,Oliveira dos Brejinhos,Paramirim,Paratinga,Petrolina,Piatã,Ponte Alta do Bom Jesus,Porto Seguro,Ribeira do Pombal,Rio Real,Salvador,Santa Helena de Minas,Santo Antônio de Jesus,São Desidério,Seabra,Senhor do Bonfim,Serrinha,Teixeira de Freitas,Trancoso,Uauá,Uibaí,Umburaninha,unknown,Vermelho,Vila do Café,Vitória da Conquista,Xique Xique",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1724,7 +1724,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Mato Grosso",
-    "districts": "Água Boa,Alta Floresta,Alto Boa Vista,Alto Garças,Alto Taquari,Barra do Garças,Boa Vista do Pacarana,Cáceres,Campo Novo do Parecis,Campo Verde,Canabrava do Norte,Canarana,Colniza,Figueirópolis D'Oeste,General Carneiro,Guarantã do Norte,Lambari D'Oeste,Lucas do Rio Verde,Mirassol D'Oeste,Nova Brasilândia,Nova Colina,Nova Maringá,Nova Mutum,Nova Xavantina,Novo Mundo,Novo São Joaquim,Paranatinga,Peixoto de Azevedo,Planalto da Serra,Pontes e Lacerda,Primavera do Leste,Ribeirãozinho,Rio Branco,Santa Rita do Trivelato,São Félix do Araguaia,São Miguel do Araguaia,Tangará da Serra,unknown",
+    "districts": "Água Boa,Alta Floresta,Alto Boa Vista,Alto Garças,Alto Taquari,Barra do Garças,Boa Vista do Pacarana,Cáceres,Campo Novo do Parecis,Canabrava do Norte,Canarana,Colniza,Figueirópolis D'Oeste,General Carneiro,Guarantã do Norte,Lambari D'Oeste,Lucas do Rio Verde,Mirassol D'Oeste,Nova Brasilândia,Nova Colina,Nova Maringá,Nova Mutum,Nova Xavantina,Novo Mundo,Novo São Joaquim,Paranatinga,Peixoto de Azevedo,Planalto da Serra,Pontes e Lacerda,Primavera do Leste,Ribeirãozinho,Rio Branco,Santa Rita do Trivelato,São Félix do Araguaia,São Miguel do Araguaia,Tangará da Serra,unknown",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1864,7 +1864,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "São Paulo",
-    "districts": "Águas de Santa Bárbara,Andirá,Araçatuba,Assis,Barretos,Bauru,Bebedouro,Bertioga,Birigui,Botucatu,Campinas,Caraguatatuba,Catanduva,Cerquilho,Cruzeiro,Franca,Fronteira,Guaíra,Guararapes,Guaratinguetá,Guarujá,Itanhaém,Itapagipe,Itirapina,Ituverava,Jales,Jaú,José Bonifácio,Jundiaí,Juquiá,Juquitiba,Lençóis Paulista,Lins,Marília,Microregion of Votuporanga,Miguelópolis,Mirandópolis,Ourinhos,Penápolis,Pereira Barreto,Peruíbe,Pindamonhangaba,Piracicaba,Praia Grande,Presidente Prudente,Ribeirao Preto,Rio Claro,Riolândia,Salto,Santa Fé do Sul,Santo André,São Bernardo do Campo,São Francisco de Sales,São José do Rio Preto,São José dos Campos,São Paulo,São Sebastião,Sarapuí,Sorocaba,Suzano,Tatuí,Tupã",
+    "districts": "Águas de Santa Bárbara,Andirá,Araçatuba,Assis,Barretos,Bauru,Bebedouro,Bertioga,Birigui,Botucatu,Campinas,Caraguatatuba,Catanduva,Cerquilho,Cruzeiro,Franca,Fronteira,Guaíra,Guararapes,Guaratinguetá,Guarujá,Itanhaém,Itapagipe,Itirapina,Ituverava,Jales,Jaú,José Bonifácio,Jundiaí,Juquiá,Juquitiba,Lençóis Paulista,Lins,Marília,Microregion of Votuporanga,Miguelópolis,Mirandópolis,Ourinhos,Penápolis,Pereira Barreto,Peruíbe,Pindamonhangaba,Piracicaba,Praia Grande,Presidente Prudente,Ribeirao Preto,Rio Claro,Salto,Santa Fé do Sul,Santo André,São Bernardo do Campo,São Francisco de Sales,São José do Rio Preto,São José dos Campos,São Paulo,São Sebastião,Sarapuí,Sorocaba,Suzano,Tatuí,Tupã",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -2094,7 +2094,7 @@
     "code": "CL",
     "svspc": "SV",
     "region": "Los Rios",
-    "districts": "La Unión,Loncoche,Osorno,Paillaco,Río Bueno",
+    "districts": "Loncoche,Osorno",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -2414,7 +2414,7 @@
     "code": "CO",
     "svspc": "SV",
     "region": "Tolima",
-    "districts": "Chaparral,El Espinal,Girardot,Guamo,Honda,Ibagué,Líbano,Manizales,Neiva",
+    "districts": "Chaparral,Guamo,Honda,Ibagué,Líbano,Manizales,Neiva",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -2524,7 +2524,7 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Guerrero",
-    "districts": "Petatlan, Tecpan de Galeana",
+    "districts": "Tecpan de Galeana",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -2534,7 +2534,7 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Hidalgo",
-    "districts": "Actopan, Ixmiquilpan, Tula de Allende",
+    "districts": "Actopan, Tula de Allende",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -2634,7 +2634,7 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Tabasco",
-    "districts": "Frontera, Huimanguillo, Villahermosa",
+    "districts": "Frontera, Villahermosa",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -2674,7 +2674,7 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Yucatán",
-    "districts": "Merida, Tizimin, Valladolid",
+    "districts": "Tizimin, Valladolid",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -7757,9 +7757,9 @@
     "svspc": "SV",
     "region": "Drenthe",
     "districts": "Aa en Hunze, Assen, Borger-Odoorn, Coevorden, De Wolden, Emmen, Hoogeveen, Meppel, Midden-Drenthe, Noordenveld, Tynaarlo, Westerveld.",
-    "publish": "No",
-    "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-10-16T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-16T07:00:00.000Z"
   },
   {
     "country": "Netherlands",
@@ -7767,9 +7767,9 @@
     "svspc": "SV",
     "region": "Flevoland",
     "districts": "Almere, Dronten, Lelystad, Noordoostpolder, Urk, Zeewolde.",
-    "publish": "No",
-    "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-10-16T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-16T07:00:00.000Z"
   },
   {
     "country": "Netherlands",
@@ -7777,9 +7777,9 @@
     "svspc": "SV",
     "region": "Friesland",
     "districts": "Achtkarspelen, Ameland, Dantumadiel, De Fryske Marren, Dongeradeel, Ferwerderadiel, Harlingen, Heerenveen, Kollumerland en Nieuwkruisland, Leeuwarden, Leeuwarderadeel, Littenseradiel, Menameradiel, Ooststellingwerf, Opsterland, Schiermonnikoog, Smallingerland, Súdwest-Fryslân, Terschelling, Tytsjerksteradiel, Vlieland, Weststellingwerf.",
-    "publish": "No",
-    "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-10-16T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-16T07:00:00.000Z"
   },
   {
     "country": "Netherlands",
@@ -7787,9 +7787,9 @@
     "svspc": "SV",
     "region": "Gelderland",
     "districts": "Aalten, Apeldoorn, Arnhem, Barneveld, Berg en Dal, Berkelland, Beuningen, Bronckhorst, Brummen, Buren, Culemborg, Doesburg, Doetinchem, Druten, Duiven, Ede, Elburg, Epe, Ermelo, Harderwijk, Hattem, Heerde, Heumen, Lingewaard, Lochem, Maasdriel, Montferland, Neder-Betuwe, Nijkerk, Nijmegen, Nunspeet, Oldebroek, Oost Gelre, Oude IJsselstreek, Overbetuwe, Putten, Renkum, Rheden, Rozendaal, Scherpenzeel, Tiel, Voorst, Wageningen, West Betuwe, West Maas en Waal, Westervoort, Wijchen, Winterswijk, Zaltbommel, Zevenaar, Zutphen.",
-    "publish": "No",
-    "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-10-16T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-16T07:00:00.000Z"
   },
   {
     "country": "Netherlands",
@@ -7807,9 +7807,9 @@
     "svspc": "SV",
     "region": "Limburg",
     "districts": "Beek, Beekdaelen, Beesel, Bergen, Brunssum, Echt-Susteren, Eijsden-Margraten, Gennep, Gulpen-Wittem, Heerlen, Horst aan de Maas, Kerkrade, Landgraaf, Leudal, Maasgouw, Maastricht, Meerssen, Mook en Middelaar, Nederweert, Peel en Maas, Roerdalen, Roermond, Simpelveld, Sittard-Geleen, Stein, Vaals, Valkenburg aan de Geul, Venlo, Venray, Voerendaal, Weert.",
-    "publish": "No",
-    "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-10-16T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-16T07:00:00.000Z"
   },
   {
     "country": "Netherlands",
@@ -7817,9 +7817,9 @@
     "svspc": "SV",
     "region": "North Brabant (Noord-Brabant)",
     "districts": "Aalburg, Alphen-Chaam, Altena, Asten, Baarle-Nassau, Bergeijk, Bergen op Zoom, Bernheze, Best, Bladel, Boekel, Boxmeer, Boxtel, Breda, Cranendonck, Cuijk, Deurne, Dongen, Drimmelen, Eersel, Eindhoven, Etten-Leur, Geertruidenberg, Geldrop-Mierlo, Gemert-Bakel, Gilze en Rijen, Goirle, Grave, Haaren, Halderberge, Heeze-Leende, Helmond, 's-Hertogenbosch (Den Bosch), Heusden, Hilvarenbeek, Laarbeek, Landerd, Loon op Zand, Meierijstad, Mill en Sint Hubert, Moerdijk, Nuenen, Gerwen en Nederwetten, Oirschot, Oisterwijk, Oosterhout, Oss, Reusel-De Mierden, Roosendaal, Rucphen, Sint Anthonis, Sint-Michielsgestel, Someren, Son en Breugel, Steenbergen, Tilburg, Uden, Valkenswaard, Veldhoven, Vught, Waalre, Waalwijk, Woensdrecht, Zundert.",
-    "publish": "No",
-    "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-16T07:00:00.000Z"
   },
   {
     "country": "Netherlands",
@@ -7827,9 +7827,9 @@
     "svspc": "SV",
     "region": "North Holland (Noord-Holland)",
     "districts": "Aalsmeer, Alkmaar, Amstelveen, Amsterdam, Beemster, Bergen, Beverwijk, Blaricum, Bloemendaal, Castricum, Diemen, Drechterland, Edam-Volendam, Enkhuizen, Gooise Meren, Haarlem, Haarlemmermeer, Heemskerk, Heemstede, Heerhugowaard, Heiloo, Hilversum, Hollands Kroon, Hoorn, Huizen, Koggenland, Landsmeer, Langedijk, Laren, Medemblik, Oostzaan, Opmeer, Ouder-Amstel, Purmerend, Schagen, Stede Broec, Texel, Uitgeest, Uithoorn, Velsen, Waterland, Weesp, Wijdemeren, Wormerland, Zaanstad, Zandvoort.",
-    "publish": "No",
-    "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-16T07:00:00.000Z"
   },
   {
     "country": "Netherlands",
@@ -7837,9 +7837,9 @@
     "svspc": "SV",
     "region": "Overijssel",
     "districts": "Almelo, Borne, Dalfsen, Deventer, Dinkelland, Enschede, Haaksbergen, Hardenberg, Hellendoorn, Hengelo, Hof van Twente, Kampen, Losser, Oldenzaal, Olst-Wijhe, Ommen, Raalte, Rijssen-Holten, Staphorst, Steenwijkerland, Tubbergen, Twenterand, Wierden, Zwartewaterland, Zwolle.",
-    "publish": "No",
-    "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-10-16T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-16T07:00:00.000Z"
   },
   {
     "country": "Netherlands",
@@ -7847,9 +7847,9 @@
     "svspc": "SV",
     "region": "South Holland (Zuid-Holland)",
     "districts": "Alblasserdam, Albrandswaard, Alphen aan den Rijn, Barendrecht, Bodegraven-Reeuwijk, Brielle, Capelle aan den IJssel, Delft, Den Haag (The Hague), Dordrecht, Goeree-Overflakkee, Gorinchem, Gouda, Hardinxveld-Giessendam, Hellevoetsluis, Hendrik-Ido-Ambacht, Hillegom, Kaag en Braassem, Katwijk, Krimpen aan den IJssel, Krimpenerwaard, Lansingerland, Leiden, Leiderdorp, Leidschendam-Voorburg, Lisse, Maassluis, Midden-Delfland, Molenlanden, Nieuwkoop, Nissewaard, Noordwijk, Oegstgeest, Papendrecht, Pijnacker-Nootdorp, Ridderkerk, Rijswijk, Rotterdam, Schiedam, Sliedrecht, Teylingen, Vlaardingen, Voorschoten, Waddinxveen, Wassenaar, Westland, Westvoorne, Zoetermeer, Zoeterwoude, Zuidplas, Zwijndrecht.",
-    "publish": "No",
-    "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-16T07:00:00.000Z"
   },
   {
     "country": "Netherlands",
@@ -7867,9 +7867,9 @@
     "svspc": "SV",
     "region": "Zeeland",
     "districts": "Borsele, Goes, Hulst, Kapelle, Middelburg, Noord-Beveland, Reimerswaal, Schouwen-Duiveland, Sluis, Terneuzen, Tholen, Veere, Vlissingen.",
-    "publish": "No",
-    "datestart": "2024-03-01T08:00:00.000Z",
-    "dateend": "2024-10-16T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-10-16T07:00:00.000Z"
   },
   {
     "country": "New Zealand",
@@ -17522,8 +17522,8 @@
     "region": "Caguas",
     "districts": "Caguas",
     "publish": "No",
-    "datestart": "November '24",
-    "dateend": "November '24"
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -17532,8 +17532,8 @@
     "region": "Caguas",
     "districts": "Bairoa",
     "publish": "No",
-    "datestart": "November '24",
-    "dateend": "November '24"
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -17542,8 +17542,8 @@
     "region": "Caguas",
     "districts": "Bairoa la 25",
     "publish": "No",
-    "datestart": "November '24",
-    "dateend": "November '24"
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -17552,8 +17552,8 @@
     "region": "Caguas",
     "districts": "Beatriz",
     "publish": "No",
-    "datestart": "November '24",
-    "dateend": "November '24"
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -17562,8 +17562,8 @@
     "region": "Caguas",
     "districts": "Borinquen",
     "publish": "No",
-    "datestart": "November '24",
-    "dateend": "November '24"
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -17572,8 +17572,8 @@
     "region": "Caguas",
     "districts": "Cañabón",
     "publish": "No",
-    "datestart": "November '24",
-    "dateend": "November '24"
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -17582,8 +17582,8 @@
     "region": "Caguas",
     "districts": "Cañaboncito",
     "publish": "No",
-    "datestart": "November '24",
-    "dateend": "November '24"
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -17592,8 +17592,8 @@
     "region": "Caguas",
     "districts": "Río Cañas",
     "publish": "No",
-    "datestart": "November '24",
-    "dateend": "November '24"
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -17602,8 +17602,8 @@
     "region": "Caguas",
     "districts": "San Antonio",
     "publish": "No",
-    "datestart": "November '24",
-    "dateend": "November '24"
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -17612,8 +17612,8 @@
     "region": "Caguas",
     "districts": "San Salvador",
     "publish": "No",
-    "datestart": "November '24",
-    "dateend": "November '24"
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -17622,8 +17622,8 @@
     "region": "Caguas",
     "districts": "Tomás de Castro",
     "publish": "No",
-    "datestart": "November '24",
-    "dateend": "November '24"
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -17632,8 +17632,8 @@
     "region": "Caguas",
     "districts": "Turabo",
     "publish": "No",
-    "datestart": "November '24",
-    "dateend": "November '24"
+    "datestart": "2024-11-01T07:00:00.000Z",
+    "dateend": "2024-11-01T07:00:00.000Z"
   },
   {
     "country": "Puerto Rico",
@@ -17642,8 +17642,8 @@
     "region": "San Juán",
     "districts": "San Juán",
     "publish": "No",
-    "datestart": "December ' 24",
-    "dateend": "February '24"
+    "datestart": "2024-12-01T08:00:00.000Z",
+    "dateend": "2024-02-01T08:00:00.000Z"
   },
   {
     "country": "Albania",
