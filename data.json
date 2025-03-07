@@ -324,7 +324,7 @@
     "region": "Kärnten",
     "districts": "Feldkirchen ,Hermagor, Klagenfurt-Land, Klagenfurt (the city of Klagenfurt), Spittal an der Drau, Villach-Land, Villach (the city of Villach), Völkermarkt, Wolfsberg.",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
+    "datestart": "2025-03-01T08:00:00.000Z",
     "dateend": "2025-11-13T08:00:00.000Z"
   },
   {
@@ -334,7 +334,7 @@
     "region": "Oberösterreich",
     "districts": "Braunau am Inn, Eferding, Freistadt, Gmunden, Grieskirchen, Kirchdorf an der Krems ,Linz-Land ,Linz (the city of Linz) ,Perg ,Ried im Innkreis ,Rohrbach ,Schärding ,Steyr-Land ,Steyr (the city of Steyr) ,Urfahr-Umgebung ,Vöcklabruck ,Wels-Land ,Wels (the city of Wels),Ybbs ,Zell am Permber.",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
+    "datestart": "2025-03-01T08:00:00.000Z",
     "dateend": "2025-11-13T08:00:00.000Z"
   },
   {
@@ -344,7 +344,7 @@
     "region": "Salzburg",
     "districts": "Hallein, Salzburg-Umgebung, Salzburg Stadt (City of Salzburg), Sankt Johann im Pongau, Tamsweg, Zell am See.",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
+    "datestart": "2025-03-01T08:00:00.000Z",
     "dateend": "2025-11-13T08:00:00.000Z"
   },
   {
@@ -354,7 +354,7 @@
     "region": "Steiermark",
     "districts": "Bruck-Mürzzuschlag, Deutschlandsberg, Graz, Graz-Umgebung, Graz-Land, Hartberg-Fürstenfeld, Leibnitz, Leoben, Liezen, Murau, Murtal, Neunkirchen, Obersteiermark, Oststeiermark, Pöls-Kapfenberg, Südoststeiermark, Voitsberg, Weiz, Wolfsberg, Bruck an der Mur.",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
+    "datestart": "2025-03-01T08:00:00.000Z",
     "dateend": "2025-11-13T08:00:00.000Z"
   },
   {
@@ -364,7 +364,7 @@
     "region": "Tirol",
     "districts": "Imst, Innsbruck-Land, Innsbruck Stadt (City of Innsbruck), Kitzbühel, Kufstein, Landeck, Lienz, Reutte, Schwaz, Spittal an der Drau.",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
+    "datestart": "2025-03-01T08:00:00.000Z",
     "dateend": "2025-11-13T08:00:00.000Z"
   },
   {
@@ -384,7 +384,7 @@
     "region": "Burgenland",
     "districts": "Eisenstadt, Eisenstadt-Umgebung, Güssing, Jennersdorf, Mattersburg, Neusiedl am See, Oberpullendorf, Oberwart.",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
+    "datestart": "2025-03-01T08:00:00.000Z",
     "dateend": "2025-11-13T08:00:00.000Z"
   },
   {
@@ -394,7 +394,7 @@
     "region": "Niederösterreich",
     "districts": "Amstetten, Baden, Bruck an der Leitha, Gänserndorf, Gmünd, Hollabrunn, Horn, Korneuburg, Krems-Land, Lilienfeld, Melk, Mistelbach, Mödling, Neunkirchen, St. Pölten-Land, Scheibbs, Tulln, Waidhofen an der Thaya, Wiener Neustadt-Land, Zwettl.",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
+    "datestart": "2025-03-01T08:00:00.000Z",
     "dateend": "2025-11-13T08:00:00.000Z"
   },
   {
@@ -3462,9 +3462,9 @@
     "svspc": "SV",
     "region": "Central Bohemian",
     "districts": "Prague, Mělník, Benesov, Příbram, Kladno, Kutná Hora, Rakovnik,Mladá Boleslav, Nymburk, Kolín, Beroun",
-    "publish": "No",
-    "datestart": "2024-04-04T07:00:00.000Z",
-    "dateend": "2024-10-23T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-03T07:00:00.000Z",
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "Czech Republic",
@@ -3472,9 +3472,9 @@
     "svspc": "SV",
     "region": "South Bohemian",
     "districts": "Český Krumlov, Kaplice, Lipno nad Vltavou",
-    "publish": "No",
-    "datestart": "2024-04-04T07:00:00.000Z",
-    "dateend": "2024-10-23T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-03T07:00:00.000Z",
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "Czech Republic",
@@ -3482,9 +3482,9 @@
     "svspc": "SV",
     "region": "Plzeň",
     "districts": "Domažlice, Klatovy, Holýšov, Horšovský Týn, Přeštice",
-    "publish": "No",
-    "datestart": "2024-04-04T07:00:00.000Z",
-    "dateend": "2024-10-23T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-03T07:00:00.000Z",
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "Czech Republic",
@@ -3492,9 +3492,9 @@
     "svspc": "SV",
     "region": "Karlovy Vary",
     "districts": "Karlovy Vary, Cheb, Sokolov, Jáchymov",
-    "publish": "No",
-    "datestart": "2024-04-04T07:00:00.000Z",
-    "dateend": "2024-10-23T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-03T07:00:00.000Z",
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "Czech Republic",
@@ -3502,9 +3502,9 @@
     "svspc": "SV",
     "region": "Ústí nad Labem",
     "districts": "Ústí nad Labem, Louny, Děčín, Most, Litoměřice",
-    "publish": "No",
-    "datestart": "2024-04-04T07:00:00.000Z",
-    "dateend": "2024-10-23T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-03T07:00:00.000Z",
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "Czech Republic",
@@ -3512,9 +3512,9 @@
     "svspc": "SV",
     "region": "Liberec",
     "districts": "Harrachov, Rokytnice nad Jizerou",
-    "publish": "No",
-    "datestart": "2024-04-04T07:00:00.000Z",
-    "dateend": "2024-10-23T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-03T07:00:00.000Z",
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "Czech Republic",
@@ -3532,9 +3532,9 @@
     "svspc": "SV",
     "region": "Pardubice",
     "districts": "Ústí Nad Orlicí, Svitavy,  Chrudim",
-    "publish": "No",
-    "datestart": "2024-04-04T07:00:00.000Z",
-    "dateend": "2024-10-23T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-03T07:00:00.000Z",
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "Czech Republic",
@@ -3542,9 +3542,9 @@
     "svspc": "SV",
     "region": "Vysočina",
     "districts": "Jihlava, Třebíč, Žďár Nad Sázavou",
-    "publish": "No",
-    "datestart": "2024-04-04T07:00:00.000Z",
-    "dateend": "2024-10-23T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-03T07:00:00.000Z",
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "Czech Republic",
@@ -3552,9 +3552,9 @@
     "svspc": "SV",
     "region": "South Moravian",
     "districts": "Blansko, Znojmo, Chvalovice",
-    "publish": "No",
-    "datestart": "2024-04-04T07:00:00.000Z",
-    "dateend": "2024-10-23T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-03T07:00:00.000Z",
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "Czech Republic",
@@ -3562,9 +3562,9 @@
     "svspc": "SV",
     "region": "Olomouc",
     "districts": "Olomouc, Prostějov, Jeseník, Přerov, Šumperk",
-    "publish": "No",
-    "datestart": "2024-04-04T07:00:00.000Z",
-    "dateend": "2024-10-23T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-03T07:00:00.000Z",
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "Czech Republic",
@@ -3572,9 +3572,9 @@
     "svspc": "SV",
     "region": "Zlín",
     "districts": "Zlín, Uherské Hradiště, Kroměříž, Vsetín",
-    "publish": "No",
-    "datestart": "2024-04-04T07:00:00.000Z",
-    "dateend": "2024-10-23T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-03T07:00:00.000Z",
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "Czech Republic",
@@ -3582,9 +3582,9 @@
     "svspc": "SV",
     "region": "Moravian-Silesian",
     "districts": "Ostrava, Frýdek-Místek, Nový Jičín, Bruntál, Karviná, Opava",
-    "publish": "No",
-    "datestart": "2024-04-04T07:00:00.000Z",
-    "dateend": "2024-10-23T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-03T07:00:00.000Z",
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "Denmark",
@@ -4640,9 +4640,9 @@
     "svspc": "SV",
     "region": "Bjelovar-Bilogora",
     "districts": "Bjelovar, Daruvar, Čazma, Garešnica",
-    "publish": "No",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-02T07:00:00.000Z",
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4790,9 +4790,9 @@
     "svspc": "SV",
     "region": "Karlovac",
     "districts": "Karlovac County",
-    "publish": "No",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-02T07:00:00.000Z",
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5010,9 +5010,9 @@
     "svspc": "SV",
     "region": "Požega",
     "districts": "Požega-Slavonia County, Brod-Posavina County",
-    "publish": "No",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-02T07:00:00.000Z",
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5190,9 +5190,9 @@
     "svspc": "SV",
     "region": "Varaždin",
     "districts": "Varaždin County, Međimurje County",
-    "publish": "No",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-02T07:00:00.000Z",
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5370,9 +5370,9 @@
     "svspc": "SV",
     "region": "Brod-Posavina",
     "districts": "Slavonski Brod, Nova Gradiška",
-    "publish": "No",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-02T07:00:00.000Z",
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5390,9 +5390,9 @@
     "svspc": "SV",
     "region": "Karlovac",
     "districts": "Ogulin, Karlovac, Duga Resa",
-    "publish": "No",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-02T07:00:00.000Z",
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5410,9 +5410,9 @@
     "svspc": "SV",
     "region": "Lika-Senj",
     "districts": "Senj, Gospic, Otočac",
-    "publish": "No",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-02T07:00:00.000Z",
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5440,9 +5440,9 @@
     "svspc": "SV",
     "region": "Primorje-Gorski Kotar",
     "districts": "Rijeka",
-    "publish": "No",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-02T07:00:00.000Z",
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5450,9 +5450,9 @@
     "svspc": "SV",
     "region": "Koprivnica-Križevci",
     "districts": "Koprivnica",
-    "publish": "No",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-02T07:00:00.000Z",
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5460,9 +5460,9 @@
     "svspc": "SV",
     "region": "Krapina-Zagorje",
     "districts": "Krapina",
-    "publish": "No",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-02T07:00:00.000Z",
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5470,9 +5470,9 @@
     "svspc": "SV",
     "region": "Međimurje",
     "districts": "Čakovec",
-    "publish": "No",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-02T07:00:00.000Z",
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5490,9 +5490,9 @@
     "svspc": "SV",
     "region": "Šibenik-Knin",
     "districts": "Šibenik, Knin",
-    "publish": "No",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-02T07:00:00.000Z",
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5500,9 +5500,9 @@
     "svspc": "SV",
     "region": "Sisak-Moslavina",
     "districts": "Sisak",
-    "publish": "No",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-02T07:00:00.000Z",
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5510,9 +5510,9 @@
     "svspc": "SV",
     "region": "Virovitica-Podravina",
     "districts": "Slatina, Orahovica, Virovitica",
-    "publish": "No",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-02T07:00:00.000Z",
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5530,9 +5530,9 @@
     "svspc": "SV",
     "region": "Zadar",
     "districts": "Zadar, Benkovac, Bibinje, Biograd, Nin, Obrovac and Pag.",
-    "publish": "No",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-02T07:00:00.000Z",
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5540,9 +5540,9 @@
     "svspc": "SV",
     "region": "Zagreb county",
     "districts": "Zaprešić,  Samobor, Velika Gorica",
-    "publish": "No",
-    "datestart": "2024-10-01T07:00:00.000Z",
-    "dateend": "2024-11-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-04-02T07:00:00.000Z",
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -11854,7 +11854,7 @@
     "svspc": "SV",
     "region": "Варна",
     "districts": "Варна",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-02T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
@@ -11904,7 +11904,7 @@
     "svspc": "SV",
     "region": "Добрич",
     "districts": "Добрич",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-02T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
@@ -11964,7 +11964,7 @@
     "svspc": "SV",
     "region": "Перник",
     "districts": "Перник",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-02T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
@@ -12014,7 +12014,7 @@
     "svspc": "SV",
     "region": "Силистра",
     "districts": "Силистра",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-02T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
@@ -12044,7 +12044,7 @@
     "svspc": "SV",
     "region": "София",
     "districts": "София",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-02T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
@@ -12053,8 +12053,8 @@
     "code": "BG",
     "svspc": "SV",
     "region": "Софийска",
-    "districts": "Елин Пелин, Равно поле, Костинброд, Ихтиман",
-    "publish": "No",
+    "districts": "Равно поле, Костинброд, Герман, Божурище, Панчарево, Бистрица, Владая, Елин Пелин, Нови Хан",
+    "publish": "Yes",
     "datestart": "2025-04-02T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
@@ -12074,7 +12074,7 @@
     "svspc": "SV",
     "region": "Търговище",
     "districts": "Търговище",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-02T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
@@ -12094,7 +12094,7 @@
     "svspc": "SV",
     "region": "Шумен",
     "districts": "Шумен",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-02T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
