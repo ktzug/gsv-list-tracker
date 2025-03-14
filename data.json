@@ -5599,7 +5599,7 @@
     "districts": "Pontianak, Palangkaraya, Singkawang, Ketapang, Sambas",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
-    "dateend": "2025-12-02T08:00:00.000Z"
+    "dateend": "2025-06-01T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -5619,7 +5619,7 @@
     "districts": "Sampit, Palangkaraya, Pangkalan Bun",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
-    "dateend": "2025-12-02T08:00:00.000Z"
+    "dateend": "2025-06-01T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -5629,7 +5629,7 @@
     "districts": "Balikpapan, Banjarmasin",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
-    "dateend": "2025-12-02T08:00:00.000Z"
+    "dateend": "2025-06-01T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -5639,7 +5639,7 @@
     "districts": "Makassar, Pare-pare, Toraja, Maros, Polewali, Palopo",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
-    "dateend": "2025-12-02T08:00:00.000Z"
+    "dateend": "2025-06-01T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -5689,7 +5689,7 @@
     "districts": "South Tangerang, Tangerang, Balaraja, Kotabumi",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
-    "dateend": "2025-12-02T08:00:00.000Z"
+    "dateend": "2025-04-01T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -5738,7 +5738,7 @@
     "region": "East Nusa Tenggara",
     "districts": "Flores, Sumba, Rote, Timoe, Kupang",
     "publish": "Yes",
-    "datestart": "2025-01-02T08:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-12-02T08:00:00.000Z"
   },
   {
@@ -5748,7 +5748,7 @@
     "region": "West Nusa Tenggara",
     "districts": "Mataram, Praya, Labuhan Badjo, Sumbawa",
     "publish": "Yes",
-    "datestart": "2025-01-02T08:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-12-02T08:00:00.000Z"
   },
   {
@@ -5758,7 +5758,7 @@
     "region": "Bali",
     "districts": "Denpasar, Tabanan, Mengwi, Kuta, Ubud, Karangasem, Amlapura, Petjcatu",
     "publish": "Yes",
-    "datestart": "2025-01-02T08:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-12-02T08:00:00.000Z"
   },
   {
@@ -5768,7 +5768,7 @@
     "region": "North Sulawesi",
     "districts": "Manado, Airmadidi, Tomohon, Tondano",
     "publish": "Yes",
-    "datestart": "2025-01-02T08:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-12-02T08:00:00.000Z"
   },
   {
@@ -5778,7 +5778,7 @@
     "region": "Southeast Sulawesi",
     "districts": "Kendari, Ampana, Malili",
     "publish": "Yes",
-    "datestart": "2025-01-02T08:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-12-02T08:00:00.000Z"
   },
   {
@@ -7128,7 +7128,7 @@
     "region": "Ventspils",
     "districts": "Ventspils, Ance, Dundaga, Tārgale, Piltene, Ugāle, Kuldīga",
     "publish": "Yes",
-    "datestart": "2025-04-04T07:00:00.000Z",
+    "datestart": "2025-05-21T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -7152,9 +7152,9 @@
     "code": "LT",
     "svspc": "SV",
     "region": "Panevėžys County",
-    "districts": "Kalneliškiai",
-    "publish": "No",
-    "datestart": "2025-04-04T07:00:00.000Z",
+    "districts": "Panevėžys, Molainiai, Velžys, Upytė, Naujamiestis",
+    "publish": "Yes",
+    "datestart": "2025-03-13T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -7173,8 +7173,8 @@
     "svspc": "SV",
     "region": "Šiauliai",
     "districts": "Joniškis",
-    "publish": "Yes",
-    "datestart": "2025-03-01T08:00:00.000Z",
+    "publish": "No",
+    "datestart": "2025-04-04T07:00:00.000Z",
     "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
@@ -7252,9 +7252,9 @@
     "code": "LT",
     "svspc": "SV",
     "region": "Šiauliai County",
-    "districts": "Radviliškis-",
-    "publish": "Yes",
-    "datestart": "2025-03-01T08:00:00.000Z",
+    "districts": "Radviliškis",
+    "publish": "No",
+    "datestart": "2025-04-04T07:00:00.000Z",
     "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
@@ -10951,8 +10951,9 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Zhanghua County",
-    "districts": "Fang Yuan Xiang, Fu Xing Xiang",
-    "publish": "No",
+    "districts": "Ren Lin Xiang, Da Cheng Xiang",
+    "publish": "Yes",
+    "datestart": "2025-03-10T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
@@ -10970,7 +10971,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Chaiyi County",
-    "districts": "Xi Qu, Shui Shang Xiang",
+    "districts": "Fan Lu Xiang",
     "publish": "Yes",
     "datestart": "2025-02-03T08:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -10980,7 +10981,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Tainan",
-    "districts": "An Ding Qu, An Nan Qu",
+    "districts": "Guan Mian Qu",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -10990,7 +10991,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Kaohsiung",
-    "districts": "Qi Shan Qu, Mei Nang Qu",
+    "districts": "Ai Lian Qu",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -12049,7 +12050,7 @@
     "region": "Силистра",
     "districts": "Силистра",
     "publish": "Yes",
-    "datestart": "2025-04-02T07:00:00.000Z",
+    "datestart": "2025-05-08T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -12109,7 +12110,7 @@
     "region": "Търговище",
     "districts": "Търговище",
     "publish": "Yes",
-    "datestart": "2025-04-02T07:00:00.000Z",
+    "datestart": "2025-05-08T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -12129,7 +12130,7 @@
     "region": "Шумен",
     "districts": "Шумен",
     "publish": "Yes",
-    "datestart": "2025-04-02T07:00:00.000Z",
+    "datestart": "2025-05-08T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -12492,10 +12493,6 @@
     "publish": "No",
     "datestart": "2020-03-05T08:00:00.000Z",
     "dateend": "2020-03-20T07:00:00.000Z"
-  },
-  {
-    "region": "Võru",
-    "districts": "Võru"
   },
   {
     "country": "Bosnia and Herzegovina",
