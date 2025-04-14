@@ -250,7 +250,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "Western Australia",
-    "districts": "Yanchep, Guilderton, Toodyay, wannamal, dowerin, Wyankatchem, Wattoning, Yealering, Southen Cross",
+    "districts": "Yanchep, Guilderton, Toodyay, wannamal, dowerin, Wyankatchem, Wattoning, Yealering, Southen Cross, Karridale, Darradup, Hamelin Bay, Toodyay, Beacon",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z"
   },
@@ -288,7 +288,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "New South Wales",
-    "districts": "Leeton, Darlington point, Springwood, Oakdale, wagga wagga, Inner West, Parramatta, North Sydney, Eastern Suburbs, Northern Beaches, Hills District, City of Sydney",
+    "districts": "Leeton, Darlington point, Springwood, Oakdale, wagga wagga, Inner West, Parramatta, North Sydney, Eastern Suburbs, Northern Beaches, Hills District, City of Sydney, Darlington",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-01T08:00:00.000Z"
@@ -308,16 +308,17 @@
     "code": "AU",
     "svspc": "SV",
     "region": "Tasmania",
-    "districts": "Port Arthur, Elizabeth Town, Parattah, Lileah",
+    "districts": "Port Arthur, Elizabeth Town, Parattah, Lileah, Latrobe, Hobert, Lake saint clair, Lake Margaret, Trial Harbour, Weat Coast, waratah, Stanley, Campbell town, Corinna, Savage River",
     "publish": "No",
-    "datestart": "2025-01-01T08:00:00.000Z"
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-04-01T07:00:00.000Z"
   },
   {
     "country": "Australia",
     "code": "AU",
     "svspc": "SV",
-    "region": "Cairns",
-    "districts": "Mount Carbine",
+    "region": "Cairns ",
+    "districts": "Mount Carbine, Palm Cove, Hurricane",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z"
   },
@@ -378,8 +379,8 @@
     "region": "Wien",
     "districts": "Innere Stadt, Leopoldstadt, Landstraße, Wieden, Margareten, Mariahilf, Neubau, Josefstadt, Alsergrund, Favoriten, Simmering, Meidling, Hietzing, Penzing, Rudolfsheim-Fünfhaus, Ottakring, Hernals, Währing, Döbling, Brigittenau, Floridsdorf, Donaustadt, Liesing.",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-11-13T08:00:00.000Z"
   },
   {
     "country": "Austria",
@@ -408,8 +409,8 @@
     "region": "Vorarlberg",
     "districts": "Bludenz, Bregenz, Dornbirn, Feldkirch, Hohenems. ",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-11-13T08:00:00.000Z"
   },
   {
     "country": "Bangladesh",
@@ -1714,7 +1715,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Alagoas",
-    "districts": "Ipojuca",
+    "districts": "Ipojuca,Barreiros",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1724,7 +1725,17 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Distrito Federal",
-    "districts": "Brasilia",
+    "districts": "Brasilia,Planaltina",
+    "publish": "Yes",
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-12-31T08:00:00.000Z"
+  },
+  {
+    "country": "Brasil",
+    "code": "BR",
+    "svspc": "SV",
+    "region": "Goias",
+    "districts": "Cocalzinho de Goiás,Barreiros,Niquelandia",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1764,7 +1775,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Mato Grosso",
-    "districts": "Campo Verde",
+    "districts": "Campo Novo do Parecis,Campo Verde,Nova Mutum",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1784,7 +1795,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Minas Gerais",
-    "districts": "Governador Valadares,Ouro Preto,Uberlandia",
+    "districts": "Governador Valadares,Ouro Preto,Tupaciguara,Uberlandia",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1824,7 +1835,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Paraná",
-    "districts": "Curitiba",
+    "districts": "Campo Largo,Curitiba,Paranaguá",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -3815,8 +3826,8 @@
     "region": "Islas Canarias",
     "districts": "Santa Cruz de Tenerife, Lanzarote, Fuerteventura, Arrecife, El Golfo, Puerto de Rosario, Morro Jable, Jandia, Telde, Maspalomas, Gáldar",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "datestart": "2025-01-16T08:00:00.000Z",
+    "dateend": "2025-12-20T08:00:00.000Z"
   },
   {
     "country": "España",
@@ -3885,8 +3896,8 @@
     "region": "Islas Baleares",
     "districts": "Mallorca, Palma, Campos, Llucmajor, Calviá, Alaró, Palma de nova",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "datestart": "2025-01-16T08:00:00.000Z",
+    "dateend": "2025-12-20T08:00:00.000Z"
   },
   {
     "country": "Estonia",
@@ -4175,8 +4186,8 @@
     "region": "Uusimaa",
     "districts": "Helsinki, Espoo, Vantaa, Kauniainen, Hyvinkää, Lohja, Porvoo, Raasepori, Järvenpää, Tuusula, Kerava, Kirkkonummi, Nurmijärvi, Mäntsälä, Pornainen, Sipoo, Vihti, Inkoo, Hanko, Siuntio, Lapinjärvi",
     "publish": "Yes",
-    "datestart": "2024-04-09T07:00:00.000Z",
-    "dateend": "2024-10-23T07:00:00.000Z"
+    "datestart": "2025-04-09T07:00:00.000Z",
+    "dateend": "2025-10-23T07:00:00.000Z"
   },
   {
     "country": "Finland",
@@ -4185,8 +4196,8 @@
     "region": "Päijänne Tavastia",
     "districts": "Asikkala, Hartola, Heinola, Hollola, Kärkölä, Lahti, Orimattila, Padasjoki",
     "publish": "Yes",
-    "datestart": "2024-04-09T07:00:00.000Z",
-    "dateend": "2024-10-23T07:00:00.000Z"
+    "datestart": "2025-04-09T07:00:00.000Z",
+    "dateend": "2025-10-23T07:00:00.000Z"
   },
   {
     "country": "Finland",
@@ -4195,8 +4206,8 @@
     "region": "Pohjanmaa",
     "districts": "Ikaalinen, Ilmajoki, Isojoki, Jalasjärvi, Jurva, Kankaanpää, Karvia, Kauhajoki, Kauhava, Kuortane, Kurikka, Laihia, Lappajärvi, Lapua, Lavia, Luoto, Merikarvia, Närpiö, Pedersöre, Pietarsaari, Seinäjoki, Soini, Teuva, Vaasa, Veteli, Vimpeli, Ähtäri",
     "publish": "Yes",
-    "datestart": "2024-04-09T07:00:00.000Z",
-    "dateend": "2024-10-23T07:00:00.000Z"
+    "datestart": "2025-04-09T07:00:00.000Z",
+    "dateend": "2025-10-23T07:00:00.000Z"
   },
   {
     "country": "France",
@@ -4325,8 +4336,8 @@
     "region": "Corsica",
     "districts": "Corsica",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "datestart": "2025-02-11T08:00:00.000Z",
+    "dateend": "2025-12-12T08:00:00.000Z"
   },
   {
     "country": "France",
@@ -4334,8 +4345,8 @@
     "region": "Var",
     "districts": "Provence-Alpes-Côte d'Azur",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "datestart": "2025-02-11T08:00:00.000Z",
+    "dateend": "2025-12-12T08:00:00.000Z"
   },
   {
     "country": "France",
@@ -4343,8 +4354,8 @@
     "region": "Vaucluse",
     "districts": "Provence-Alpes-Côte d'Azur",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "datestart": "2025-02-11T08:00:00.000Z",
+    "dateend": "2025-12-12T08:00:00.000Z"
   },
   {
     "country": "FYROM",
@@ -4379,7 +4390,7 @@
     "region": "Brandenburg",
     "districts": "Barnim, Brandenburg an der Havel, Cottbus, Dahme-Spreewald, Elbe-Elster, Frankfurt an der Oder, Havelland, Märkisch-Oderland, Oberhavel, Oberspreewald-Lausitz, Oder-Spree, Ostprignitz-Ruppin, Potsdam, Potsdam-Mittelmark, Prignitz, Spree-Neiße, Teltow-Fläming, Uckermark",
     "publish": "Yes",
-    "datestart": "2025-04-03T07:00:00.000Z",
+    "datestart": "2025-04-02T07:00:00.000Z",
     "dateend": "2025-10-03T07:00:00.000Z"
   },
   {
@@ -4686,7 +4697,7 @@
     "districts": "Šibenik-Knin County , Zadar County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4706,7 +4717,7 @@
     "districts": "Dubrovnik-Neretva, Split-Dalmatia",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4716,7 +4727,7 @@
     "districts": " Sisak-Moslavina",
     "publish": "Yes",
     "datestart": "2025-04-02T07:00:00.000Z",
-    "dateend": "2025-10-02T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4726,7 +4737,7 @@
     "districts": "Lika-Senj",
     "publish": "Yes",
     "datestart": "2025-04-03T07:00:00.000Z",
-    "dateend": "2025-10-03T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4736,7 +4747,7 @@
     "districts": "Primorje-Gorski Kotar ",
     "publish": "Yes",
     "datestart": "2025-04-04T07:00:00.000Z",
-    "dateend": "2025-10-04T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4746,7 +4757,7 @@
     "districts": "Lika-Senj , Primorje-Gorski Kotar, Lika-Senj ",
     "publish": "Yes",
     "datestart": "2025-04-05T07:00:00.000Z",
-    "dateend": "2025-10-05T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4756,7 +4767,7 @@
     "districts": "Šibenik-Knin ",
     "publish": "Yes",
     "datestart": "2025-04-06T07:00:00.000Z",
-    "dateend": "2025-10-06T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4766,7 +4777,7 @@
     "districts": "Dubrovnik-Neretva, Split-Dalmatia",
     "publish": "Yes",
     "datestart": "2025-04-07T07:00:00.000Z",
-    "dateend": "2025-10-07T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4776,7 +4787,7 @@
     "districts": "Sisak-Moslavina",
     "publish": "Yes",
     "datestart": "2025-04-08T07:00:00.000Z",
-    "dateend": "2025-10-08T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4786,7 +4797,7 @@
     "districts": "Lika-Senj County ",
     "publish": "Yes",
     "datestart": "2025-04-09T07:00:00.000Z",
-    "dateend": "2025-10-09T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4796,7 +4807,7 @@
     "districts": "Dubrovnik-Neretva ",
     "publish": "Yes",
     "datestart": "2025-04-10T07:00:00.000Z",
-    "dateend": "2025-10-10T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4806,7 +4817,7 @@
     "districts": "Lika-Senj County,  Zadar County ",
     "publish": "Yes",
     "datestart": "2025-04-11T07:00:00.000Z",
-    "dateend": "2025-10-11T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4816,7 +4827,7 @@
     "districts": "Split-Dalmatia County",
     "publish": "Yes",
     "datestart": "2025-04-12T07:00:00.000Z",
-    "dateend": "2025-10-12T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4826,7 +4837,7 @@
     "districts": "Primorje-Gorski Kotar County",
     "publish": "Yes",
     "datestart": "2025-04-13T07:00:00.000Z",
-    "dateend": "2025-10-13T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4836,14 +4847,14 @@
     "districts": "Sisak-Moslavina County",
     "publish": "Yes",
     "datestart": "2025-04-14T07:00:00.000Z",
-    "dateend": "2025-10-14T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
     "code": "HR",
     "svspc": "SV",
     "region": "Karlovac",
-    "districts": "Karlovac County",
+    "districts": "Karlovac County ",
     "publish": "Yes",
     "datestart": "2025-04-02T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -4856,7 +4867,7 @@
     "districts": "Šibenik-Knin County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4866,7 +4877,7 @@
     "districts": "Split-Dalmatia County ",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4876,7 +4887,7 @@
     "districts": "Koprivnica-Križevci Count",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4886,7 +4897,7 @@
     "districts": "Šibenik-Knin County ",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4896,7 +4907,7 @@
     "districts": "Zagreb County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4906,7 +4917,7 @@
     "districts": "Primorje-Gorski Kotar County ",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4916,7 +4927,7 @@
     "districts": "Bjelovar-Bilogora County, Sisak-Moslavina County, Bjelovar-Bilogora County ",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4926,7 +4937,7 @@
     "districts": "Split-Dalmatia County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4936,7 +4947,7 @@
     "districts": "Primorje-Gorski Kotar County ",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4946,7 +4957,7 @@
     "districts": "Dubrovnik-Neretva County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4956,7 +4967,7 @@
     "districts": "Lika-Senj County, Primorje-Gorski Kotar County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4966,7 +4977,7 @@
     "districts": "Karlovac County, Primorje-Gorski Kotar County ",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4976,7 +4987,7 @@
     "districts": "Osijek-Baranja County ",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4986,7 +4997,7 @@
     "districts": "Osijek-Baranja County ",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -4996,7 +5007,7 @@
     "districts": "Zadar County, Lika-Senj County ",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5006,7 +5017,7 @@
     "districts": "Požega-Slavonia County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5016,7 +5027,7 @@
     "districts": "Istria County ",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5026,7 +5037,7 @@
     "districts": "Sisak-Moslavina County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5036,7 +5047,7 @@
     "districts": "Koprivnica-Križevci County ",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5046,7 +5057,7 @@
     "districts": "Zadar County ",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5056,7 +5067,7 @@
     "districts": "Istria County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5076,7 +5087,7 @@
     "districts": "Istria County ",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5086,7 +5097,7 @@
     "districts": "Primorje-Gorski Kotar County, Istria County",
     "publish": "Yes",
     "datestart": "2025-04-02T07:00:00.000Z",
-    "dateend": "2025-10-02T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5096,7 +5107,7 @@
     "districts": "Istria County ",
     "publish": "Yes",
     "datestart": "2025-04-03T07:00:00.000Z",
-    "dateend": "2025-10-03T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5106,7 +5117,7 @@
     "districts": "Lika-Senj County",
     "publish": "Yes",
     "datestart": "2025-04-04T07:00:00.000Z",
-    "dateend": "2025-10-04T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5116,7 +5127,7 @@
     "districts": "Zadar County",
     "publish": "Yes",
     "datestart": "2025-04-05T07:00:00.000Z",
-    "dateend": "2025-10-05T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5126,7 +5137,7 @@
     "districts": "Šibenik-Knin County ",
     "publish": "Yes",
     "datestart": "2025-04-06T07:00:00.000Z",
-    "dateend": "2025-10-06T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5136,7 +5147,7 @@
     "districts": "Zadar County",
     "publish": "Yes",
     "datestart": "2025-04-07T07:00:00.000Z",
-    "dateend": "2025-10-07T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5146,7 +5157,7 @@
     "districts": "Split-Dalmatia",
     "publish": "Yes",
     "datestart": "2025-04-08T07:00:00.000Z",
-    "dateend": "2025-10-08T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5156,7 +5167,7 @@
     "districts": "Sisak-Moslavina County",
     "publish": "Yes",
     "datestart": "2025-04-09T07:00:00.000Z",
-    "dateend": "2025-10-09T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5166,7 +5177,7 @@
     "districts": "Virovitica-Podravina County",
     "publish": "Yes",
     "datestart": "2025-04-10T07:00:00.000Z",
-    "dateend": "2025-10-10T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5176,7 +5187,7 @@
     "districts": "Brod-Posavina County, Osijek-Baranja County",
     "publish": "Yes",
     "datestart": "2025-04-11T07:00:00.000Z",
-    "dateend": "2025-10-11T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5186,7 +5197,7 @@
     "districts": "Karlovac County ",
     "publish": "Yes",
     "datestart": "2025-04-12T07:00:00.000Z",
-    "dateend": "2025-10-12T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5196,7 +5207,7 @@
     "districts": "Karlovac County ",
     "publish": "Yes",
     "datestart": "2025-04-13T07:00:00.000Z",
-    "dateend": "2025-10-13T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5206,7 +5217,7 @@
     "districts": "Split-Dalmatia County, Šibenik-Knin County",
     "publish": "Yes",
     "datestart": "2025-04-14T07:00:00.000Z",
-    "dateend": "2025-10-14T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5216,7 +5227,7 @@
     "districts": "Split-Dalmatia County",
     "publish": "Yes",
     "datestart": "2025-04-15T07:00:00.000Z",
-    "dateend": "2025-10-15T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5226,7 +5237,7 @@
     "districts": "Primorje-Gorski Kotar County",
     "publish": "Yes",
     "datestart": "2025-04-16T07:00:00.000Z",
-    "dateend": "2025-10-16T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5236,7 +5247,7 @@
     "districts": "Osijek-Baranja County ",
     "publish": "Yes",
     "datestart": "2025-04-17T07:00:00.000Z",
-    "dateend": "2025-10-17T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5256,7 +5267,7 @@
     "districts": "Split-Dalmatia County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5266,7 +5277,7 @@
     "districts": "Osijek-Baranja County, Vukovar-Srijem County ",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5276,7 +5287,7 @@
     "districts": "Zadar County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5286,7 +5297,7 @@
     "districts": "Bjelovar-Bilogora County, Virovitica-Podravina County ",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5296,7 +5307,7 @@
     "districts": "Split-Dalmatia County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5306,7 +5317,7 @@
     "districts": "Šibenik-Knin County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5316,7 +5327,7 @@
     "districts": "Vukovar-Srijem County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5326,7 +5337,7 @@
     "districts": "Krapina-Zagorje County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5336,7 +5347,7 @@
     "districts": "Zadar County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5346,7 +5357,7 @@
     "districts": "Varaždin County, Zagreb County, Krapina-Zagorje County, Varaždin County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5356,7 +5367,7 @@
     "districts": "Osijek-Baranja County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5366,7 +5377,7 @@
     "districts": "Vukovar-Srijem County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5376,7 +5387,7 @@
     "districts": "Pazin, Pula, Poreč",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5386,7 +5397,7 @@
     "districts": "Brod-Posavina, Osijek-Baranja, Požega-Slavonia, Virovitica-Podravina, Vukovar-Syrmia",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5396,7 +5407,7 @@
     "districts": "Split, Šibenik, Zadar, Dubrovnik",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5406,7 +5417,7 @@
     "districts": "Zagreb,  Lika, Gorski Kotar, Zagorje, Međimurje, the Croatian Littoral, Podravina, Posavina, Kordun, Banovina, Prigorje, Turopolje, Moslavina, Žumberak",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5416,7 +5427,7 @@
     "districts": "Bjelovar, Daruvar, Čazma, Garešnica",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5436,7 +5447,7 @@
     "districts": "Dubrovnik, Metković",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5456,7 +5467,7 @@
     "districts": "Hvar, Split, Kaštela, Sinj, Omiš, Trogir",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5476,7 +5487,7 @@
     "districts": "Varaždin",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5486,7 +5497,7 @@
     "districts": "Osijek, Đakovo, Beli Manastir",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5536,7 +5547,7 @@
     "districts": "Požega",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5576,7 +5587,7 @@
     "districts": "Vukovar, Vinkovci",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Hrvatska",
@@ -5606,7 +5617,7 @@
     "districts": "Zagreb city",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Iceland",
@@ -6524,7 +6535,7 @@
     "districts": "Sendai",
     "publish": "Yes",
     "datestart": "2025-02-01T08:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "dateend": "2025-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6541,7 +6552,7 @@
     "districts": "Maebashi, Tomioka, Ota",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "dateend": "2025-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6551,14 +6562,17 @@
     "districts": "Mito, Ibaraki",
     "publish": "Yes",
     "datestart": "2025-03-31T07:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "dateend": "2025-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Tochigi",
-    "publish": "No"
+    "districts": "Ashikaga",
+    "publish": "Yes",
+    "datestart": "2025-04-01T07:00:00.000Z",
+    "dateend": "2025-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6568,7 +6582,7 @@
     "districts": "Kofu, Hokuto, Fujiyoshida",
     "publish": "Yes",
     "datestart": "2025-03-31T07:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "dateend": "2025-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6578,7 +6592,7 @@
     "districts": "Asaka, Niza, Kazo, Hanyu",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "dateend": "2025-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6588,7 +6602,7 @@
     "districts": "Chiba, Funabashi, Matsudo, Narashino",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "dateend": "2025-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6598,7 +6612,7 @@
     "districts": "NishiTokyo, Kunitachi, Tachikawa, Hachioji",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "dateend": "2025-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6608,7 +6622,7 @@
     "districts": "Yokohama, Kawasaki, Sagamihara, Yokosuka, Kamakura",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "dateend": "2025-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6618,7 +6632,7 @@
     "districts": "Numazu, Izu, Gotenba, Iwata,",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "dateend": "2025-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6628,7 +6642,7 @@
     "districts": "Okaya, Suwa",
     "publish": "Yes",
     "datestart": "2025-02-13T08:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "dateend": "2025-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6663,10 +6677,10 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Gifu",
-    "districts": "Gifu, Mizuho",
+    "districts": "Gifu, Ogaki, Mizuho",
     "publish": "Yes",
     "datestart": "2025-02-01T08:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "dateend": "2025-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6676,7 +6690,7 @@
     "districts": "Nagoya, Seto, Kasugai, Komaki",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "dateend": "2025-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6697,7 +6711,10 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Kyoto",
-    "publish": "No"
+    "districts": "Kameoka, Kyotamba, Nantan",
+    "publish": "Yes",
+    "datestart": "2025-04-01T07:00:00.000Z",
+    "dateend": "2025-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6707,7 +6724,7 @@
     "districts": "Nara, Yamatokoriyama",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "dateend": "2025-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6717,7 +6734,7 @@
     "districts": "Osaka, HigashiOsaka, Takatsuki",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "dateend": "2025-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6727,7 +6744,7 @@
     "districts": "Kobe, Nishinomiya, Amagasaki",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "dateend": "2025-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6737,7 +6754,7 @@
     "districts": "Wakayama, Aritagawa",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "dateend": "2025-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6747,7 +6764,7 @@
     "districts": "Okayama",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "dateend": "2025-04-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6757,7 +6774,7 @@
     "districts": "Tokushima, Anan, Mima",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "dateend": "2025-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6767,7 +6784,7 @@
     "districts": "Marugame, Zentsuji, Kannonji",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "dateend": "2025-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6784,7 +6801,7 @@
     "districts": "Matsuyama, Ozu",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "dateend": "2025-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6808,7 +6825,7 @@
     "districts": "Yamaguchi, Hofu, Shunan",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "dateend": "2025-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6818,7 +6835,7 @@
     "districts": "Fukuyama, Hiroshima",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "dateend": "2025-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6842,7 +6859,7 @@
     "districts": "Nagasaki, Isahaya, Unzen",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "dateend": "2025-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6859,7 +6876,7 @@
     "districts": "Kunisaki",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-03-31T07:00:00.000Z"
+    "dateend": "2025-04-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7164,7 +7181,7 @@
     "region": "Ventspils",
     "districts": "Ventspils, Ance, Dundaga, Tārgale, Piltene, Ugāle, Kuldīga",
     "publish": "Yes",
-    "datestart": "2025-05-21T07:00:00.000Z",
+    "datestart": "2025-04-04T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -7180,7 +7197,7 @@
     "region": "Utena County",
     "districts": "Dusetos, Zarasai, Bekelniškė",
     "publish": "Yes",
-    "datestart": "2025-04-04T07:00:00.000Z",
+    "datestart": "2025-03-13T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -7200,7 +7217,7 @@
     "region": "Vilnius County",
     "districts": "Vilnius",
     "publish": "Yes",
-    "datestart": "2025-04-04T07:00:00.000Z",
+    "datestart": "2025-03-13T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -7210,7 +7227,7 @@
     "region": "Šiauliai ",
     "districts": "Joniškis",
     "publish": "Yes",
-    "datestart": "2025-04-04T07:00:00.000Z",
+    "datestart": "2025-03-13T07:00:00.000Z",
     "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
@@ -7220,7 +7237,7 @@
     "region": "Tauragė County , Marijampolė county",
     "districts": "Kryžkalnis, Skaudvilė, Kazlų Rūda, Marijampolė, Vilkaviškis",
     "publish": "Yes",
-    "datestart": "2025-04-04T07:00:00.000Z",
+    "datestart": "2025-03-13T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -7230,7 +7247,7 @@
     "region": "Šiauliai County ",
     "districts": "Maliai, Kuršėnai, Gruzdžiai",
     "publish": "Yes",
-    "datestart": "2025-04-04T07:00:00.000Z",
+    "datestart": "2025-03-13T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -7240,7 +7257,7 @@
     "region": "Klaipėda County",
     "districts": "Klaipėda,     Palanga,     Plungė,     Skuodas,     Šilutė",
     "publish": "Yes",
-    "datestart": "2025-04-04T07:00:00.000Z",
+    "datestart": "2025-03-13T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -7250,7 +7267,7 @@
     "region": "Marijampolė",
     "districts": "Marijampolė, Vilkaviškis",
     "publish": "Yes",
-    "datestart": "2025-04-04T07:00:00.000Z",
+    "datestart": "2025-03-13T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -7260,7 +7277,7 @@
     "region": "Telšiai County",
     "districts": "Mažeikiai,     Plungė, Telšiai",
     "publish": "Yes",
-    "datestart": "2025-04-04T07:00:00.000Z",
+    "datestart": "2025-03-13T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -7270,7 +7287,7 @@
     "region": "Utena County",
     "districts": "Daugailiai, Aliai",
     "publish": "Yes",
-    "datestart": "2025-04-04T07:00:00.000Z",
+    "datestart": "2025-03-13T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -7280,7 +7297,7 @@
     "region": "Panevėžys",
     "districts": "Rokiškis",
     "publish": "Yes",
-    "datestart": "2025-04-04T07:00:00.000Z",
+    "datestart": "2025-03-13T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -7290,7 +7307,7 @@
     "region": "Šiauliai County",
     "districts": "Radviliškis",
     "publish": "Yes",
-    "datestart": "2025-04-04T07:00:00.000Z",
+    "datestart": "2025-03-13T07:00:00.000Z",
     "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
@@ -7300,7 +7317,7 @@
     "region": "Tauragė",
     "districts": "Tauragė, Šilalė",
     "publish": "Yes",
-    "datestart": "2025-04-04T07:00:00.000Z",
+    "datestart": "2025-03-13T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -7310,7 +7327,7 @@
     "region": "Utena",
     "districts": "Utena, Visaginas",
     "publish": "Yes",
-    "datestart": "2025-04-04T07:00:00.000Z",
+    "datestart": "2025-03-13T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -7319,7 +7336,7 @@
     "svspc": "SV",
     "districts": "Alytus, Druskininkai, Marijampolė, Palanga",
     "publish": "Yes",
-    "datestart": "2025-04-04T07:00:00.000Z",
+    "datestart": "2025-03-13T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -7329,7 +7346,7 @@
     "region": "Kaunas County",
     "districts": "Raseiniai, Garliava, Rumšiškės, Antakalnis, Kazlų Rūda",
     "publish": "Yes",
-    "datestart": "2025-04-04T07:00:00.000Z",
+    "datestart": "2025-03-13T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -7350,7 +7367,7 @@
     "districts": "Borsod-Abaúj-Zemplén, Heves, Nógrád.",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-12-01T08:00:00.000Z"
   },
   {
     "country": "Magyarország",
@@ -7360,7 +7377,7 @@
     "districts": "Hajdú-Bihar, Jász-Nagykun-Szolnok, Szabolcs-Szatmár-Bereg.",
     "publish": "Yes",
     "datestart": "2025-04-02T07:00:00.000Z",
-    "dateend": "2025-10-02T07:00:00.000Z"
+    "dateend": "2025-12-01T08:00:00.000Z"
   },
   {
     "country": "Magyarország",
@@ -7370,7 +7387,7 @@
     "districts": "Bács-Kiskun megye, Csongrád-Csanád megye, Békés megye.",
     "publish": "Yes",
     "datestart": "2025-04-03T07:00:00.000Z",
-    "dateend": "2025-10-03T07:00:00.000Z"
+    "dateend": "2025-12-01T08:00:00.000Z"
   },
   {
     "country": "Magyarország",
@@ -7380,7 +7397,7 @@
     "districts": "Budapest, Pest megye.\n",
     "publish": "Yes",
     "datestart": "2025-04-04T07:00:00.000Z",
-    "dateend": "2025-10-04T07:00:00.000Z"
+    "dateend": "2025-12-01T08:00:00.000Z"
   },
   {
     "country": "Magyarország",
@@ -7390,7 +7407,7 @@
     "districts": "Fejér megye, Komárom-Esztergom megye, Veszprém megye.",
     "publish": "Yes",
     "datestart": "2025-04-05T07:00:00.000Z",
-    "dateend": "2025-10-05T07:00:00.000Z"
+    "dateend": "2025-12-01T08:00:00.000Z"
   },
   {
     "country": "Magyarország",
@@ -7400,7 +7417,7 @@
     "districts": "Győr-Moson-Sopron megye, Vas megye, Zala megye.",
     "publish": "Yes",
     "datestart": "2025-04-06T07:00:00.000Z",
-    "dateend": "2025-10-06T07:00:00.000Z"
+    "dateend": "2025-12-01T08:00:00.000Z"
   },
   {
     "country": "Magyarország",
@@ -7410,14 +7427,14 @@
     "districts": "Baranya megye, Somogy megye, Tolna megye.",
     "publish": "Yes",
     "datestart": "2025-04-07T07:00:00.000Z",
-    "dateend": "2025-10-07T07:00:00.000Z"
+    "dateend": "2025-12-01T08:00:00.000Z"
   },
   {
     "country": "Malaysia",
     "code": "my",
     "svspc": "SV-spc",
     "region": "Kuala Lampur",
-    "districts": "Kuala Lumpur",
+    "districts": " Kuala Lumpur ",
     "publish": "No",
     "datestart": "2020-01-01T08:00:00.000Z",
     "dateend": "2020-12-31T08:00:00.000Z"
@@ -7946,7 +7963,7 @@
     "region": "Groningen",
     "districts": "Appingedam, Delfzijl, Groningen, Het Hogeland, Loppersum, Midden-Groningen, Oldambt, Pekela, Stadskanaal, Veendam, Westerkwartier, Westerwolde.",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
+    "datestart": "2025-03-12T07:00:00.000Z",
     "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
@@ -8006,7 +8023,7 @@
     "region": "Utrecht",
     "districts": "Amersfoort, Baarn, Bunnik, Bunschoten, De Bilt, De Ronde Venen, Eemnes, Houten, IJsselstein, Leusden, Lopik, Montfoort, Nieuwegein, Oudewater, Renswoude, Rhenen, Soest, Stichtse Vecht, Utrecht, Utrechtse Heuvelrug, Veenendaal, Vianen, Wijk bij Duurstede, Woerden, Woudenberg, Zeist.",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
+    "datestart": "2025-03-12T07:00:00.000Z",
     "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
@@ -8051,7 +8068,7 @@
     "region": "Rogaland",
     "districts": "Stavanger, Sandnes, Haugesund, Bryne, Egersund, Sola, Karmøy, Sauda, Åkrehamn, Kopervik, Sirdal, Jørpeland, Randaberg, Bokn, Rennesøy, Hjelmeland, Kvitsøy, Skudeneshavn, Vikeså, Langevåg",
     "publish": "Yes",
-    "datestart": "2025-05-01T07:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
@@ -8061,7 +8078,7 @@
     "region": "Agder",
     "districts": "Kristiansand, Arendal, Grimstad, Lillesand, Mandal, Flekkefjord, Vennesla, Risør, Froland, Birkeland, Evje, Lyngdal, Tvedestrand, Søgne, Åmli, Gjerstad, Iveland, Kvinesdal, Sirdal, Hovden",
     "publish": "Yes",
-    "datestart": "2025-05-01T07:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
@@ -8071,7 +8088,7 @@
     "region": "Telemark",
     "districts": "Porsgrunn, Skien, Drangedal, Treungen, Kragero, Langesund, Stathelle, Dalen, Notodden",
     "publish": "Yes",
-    "datestart": "2025-05-01T07:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
@@ -8081,7 +8098,7 @@
     "region": "Innlandet",
     "districts": "Hamar, Lillehammer, Gjøvik, Elverum, Kongsvinger, Brumunddal, Moelv, Raufoss, Fagernes, Trysil, Tynset, Otta, Vågåmo, Vinstra, Dokka, Rena, Gran, Alvdal, Lom, Skjåk",
     "publish": "Yes",
-    "datestart": "2025-05-01T07:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
@@ -8091,7 +8108,7 @@
     "region": "Vestland",
     "districts": "Bergen, Førde, Florø, Måløy, Sogndal, Leikanger, Sandane, Nordfjordeid, Odda, Voss, Stord, Husnes, Rosendal, Øystese, Ulvik, Eidfjord, Stryn, Årdalstangen, Lærdal, Fosnavåg",
     "publish": "Yes",
-    "datestart": "2025-05-01T07:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
@@ -8101,7 +8118,7 @@
     "region": "Trøndelag",
     "districts": "Trondheim, Steinkjer, Stjørdal, Levanger, Verdal, Namsos, Orkanger, Røros, Brekstad, Malvik, Melhus, Oppdal, Tydal, Meråker, Frosta, Inderøy, Snåsa, Rissa, Bjugn, Hitra",
     "publish": "Yes",
-    "datestart": "2025-05-01T07:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
@@ -8111,7 +8128,7 @@
     "region": "Nordland",
     "districts": "Bodø, Narvik, Mo i Rana, Sandnessjøen, Mosjøen, Brønnøysund, Sortland, Svolvær, Leknes, Stokmarknes, Fauske, Rognan, Lødingen, Ørnes, Andenes, Ballangen, Kjøpsvik, Hamarøy, Røst, Værøy",
     "publish": "Yes",
-    "datestart": "2025-05-01T07:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
@@ -8121,7 +8138,7 @@
     "region": "Troms",
     "districts": "Tromsø, Harstad, Finnsnes, Bardufoss, Setermoen, Sjøvegan, Skjervøy, Lyngseidet, Storslett, Sørreisa, Moen, Hansnes, Olderdalen, Burfjord, Nordkjosbotn, Botnhamn, Gryllefjord, Tennevoll, Straumsbukta, Vangsvik",
     "publish": "Yes",
-    "datestart": "2025-05-01T07:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
@@ -8131,7 +8148,7 @@
     "region": "Finnmark",
     "districts": "Alta, Vadsø, Vardø, Hammerfest, Kirkenes, Honningsvåg, Lakselv, Kautokeino, Karasjok, Tana, Båtsfjord, Berlevåg, Mehamn, Kjøllefjord, Havøysund, Øksfjord, Skjånes, Kokelv, Nervei, Bugøynes",
     "publish": "Yes",
-    "datestart": "2025-05-01T07:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
@@ -8141,7 +8158,7 @@
     "region": "Møre og Romsdal",
     "districts": "Ålesund, Molde, Kristiansund, Volda, Ørsta, Ulsteinvik, Fosnavåg, Hareid, Surnadal, Sunndalsøra, Elnesvågen, Midsund, Vestnes, Åndalsnes, Eidsvåg, Sykkylven, Stranda, Stordal, Giske, Rauma",
     "publish": "Yes",
-    "datestart": "2025-05-01T07:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
@@ -8151,7 +8168,7 @@
     "region": "Akershus",
     "districts": "Oslo, Lillestrøm, Ski, Drøbak, Jessheim, Ås, Eidsvoll, Strømmen, Årnes, Kolbotn, Nittedal, Fetsund, Fet, Lørenskog, Kløfta, Nannestad, Gjerdrum, Sørumsand, Rælingen, Fjerdingby",
     "publish": "Yes",
-    "datestart": "2025-05-01T07:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
@@ -8238,9 +8255,9 @@
     "country": "Österreich",
     "code": "at",
     "districts": "Landesweit keine Fahrten",
-    "publish": "Yes",
-    "datestart": "2025-04-08T07:00:00.000Z",
-    "dateend": "2025-10-08T07:00:00.000Z"
+    "publish": "No",
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "México",
@@ -8626,30 +8643,30 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Calabarzon",
-    "districts": "Tabaco",
+    "region": "Cetral Visayas",
+    "districts": "Cebu",
     "publish": "Yes",
-    "datestart": "2025-02-17T08:00:00.000Z",
-    "dateend": "2025-03-31T07:00:00.000Z"
+    "datestart": "2025-03-31T07:00:00.000Z",
+    "dateend": "2025-04-01T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Calabarzon",
-    "districts": "Tabaco",
+    "region": "Cetral Visayas",
+    "districts": "Mactan",
     "publish": "Yes",
-    "datestart": "2025-02-17T08:00:00.000Z",
-    "dateend": "2025-03-31T07:00:00.000Z"
+    "datestart": "2025-03-31T07:00:00.000Z",
+    "dateend": "2025-04-01T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Central Luzon",
-    "districts": "Nueva Ecija",
+    "region": "Cetral Visayas",
+    "districts": "Cebu City",
     "publish": "Yes",
-    "datestart": "2025-02-17T08:00:00.000Z",
+    "datestart": "2025-03-31T07:00:00.000Z",
     "dateend": "2025-04-01T07:00:00.000Z"
   },
   {
@@ -8659,15 +8676,15 @@
     "region": "Central Luzon",
     "districts": "Nueva Ecija",
     "publish": "Yes",
-    "datestart": "2025-01-07T08:00:00.000Z",
+    "datestart": "2025-03-31T07:00:00.000Z",
     "dateend": "2025-04-01T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Central Visayas",
-    "districts": "Toledo, Cebu",
+    "region": "Central Luzon",
+    "districts": "Nueva Ecija",
     "publish": "Yes",
     "datestart": "2025-02-28T08:00:00.000Z",
     "dateend": "2025-03-31T07:00:00.000Z"
@@ -8679,7 +8696,7 @@
     "region": "Central Luzon",
     "districts": "Nueva Ecija",
     "publish": "Yes",
-    "datestart": "2025-02-28T08:00:00.000Z",
+    "datestart": "2025-03-31T07:00:00.000Z",
     "dateend": "2025-04-01T07:00:00.000Z"
   },
   {
@@ -8709,7 +8726,7 @@
     "region": "kujawsko-pomorskie",
     "districts": "Bydgoszcz, Inowrocław, Nakło nad Notecią, Sępólno Krajeńskie, Żnin, Tuchola",
     "publish": "Yes",
-    "datestart": "2025-05-14T07:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -8719,7 +8736,7 @@
     "region": "łódzkie",
     "districts": "Zduńska Wola, Sieradz, Buczek, Burzenin, Zelów, Łask",
     "publish": "Yes",
-    "datestart": "2025-05-14T07:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -8729,7 +8746,7 @@
     "region": "śląskie",
     "districts": "Rybnik, Żory, Tychy, Dąbrowa Górnicza, Sosnowiec, Jastrzębie-Zdrój, Pszczyna, Skoczów",
     "publish": "Yes",
-    "datestart": "2025-05-14T07:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -8739,7 +8756,7 @@
     "region": "dolnośląskie",
     "districts": "Wrocław, , Bolesławiec, Bielany Wrocławskie, Środa Śląska, Bolesławiec, Głogów, Polkowice",
     "publish": "Yes",
-    "datestart": "2025-05-14T07:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -8749,7 +8766,7 @@
     "region": "lubelskie",
     "districts": "Lublin, Chełm, Łęczna, Lubartów, Ostrów Lubelski, Zawieprzyce, Cyców, Hańsk Pierwszy",
     "publish": "Yes",
-    "datestart": "2025-05-14T07:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -8759,7 +8776,7 @@
     "region": "lubuskie",
     "districts": "Nowa Sól, Żagań, Sława",
     "publish": "Yes",
-    "datestart": "2025-05-14T07:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -8769,7 +8786,7 @@
     "region": "małopolskie",
     "districts": "Olkusz, Gorlice, Wadowice, Slomniki, Opatkowice, Proszowice, Wolbrom, Kalwaria Zebrzydowska",
     "publish": "Yes",
-    "datestart": "2025-05-14T07:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -8779,7 +8796,7 @@
     "region": "mazowieckie",
     "districts": "Płock, Sochaczew, Żyrardów, Pułtusk, Grójec, Ostrołęka, Przasnysz, Mława",
     "publish": "Yes",
-    "datestart": "2025-05-14T07:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -8789,7 +8806,7 @@
     "region": "opolskie",
     "districts": "Opole, Kędzierzyn-Koźle, Nysa, Brzeg, Kluczbork, Prudnik, Strzelce Opolskie, Krapkowice",
     "publish": "Yes",
-    "datestart": "2025-05-14T07:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -8799,7 +8816,7 @@
     "region": "podkarpackie",
     "districts": "Sanok, Solina, Przemyśl, Cisna, Ustrzyki Dolne, Lutowiska",
     "publish": "Yes",
-    "datestart": "2025-05-14T07:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -8809,7 +8826,7 @@
     "region": "podlaskie",
     "districts": "Suwałki, Sejny, Kalinowo, Suwalki, Dubowo Drugie",
     "publish": "Yes",
-    "datestart": "2025-05-14T07:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -8819,7 +8836,7 @@
     "region": "pomorskie",
     "districts": "Chojnice, Kielpino, Szymbark, Sierakowice, Dziemiany, Kościerzyna, Tuchomie, Brusy, Bytów",
     "publish": "Yes",
-    "datestart": "2025-05-14T07:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -8829,7 +8846,7 @@
     "region": "świętokrzyskie",
     "districts": "Kielce, Piekoszów, Łopuszno, Miedziana Góra, Radoszyce, Końskie, Stąporków, Skarżysko-Kamienna",
     "publish": "Yes",
-    "datestart": "2025-05-14T07:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -8839,7 +8856,7 @@
     "region": "warmińsko-mazurskie",
     "districts": "Lidzbark Warmiński, Bisztynek, Łankiejmy, Sątopy-Samulewo",
     "publish": "Yes",
-    "datestart": "2025-05-14T07:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -8849,7 +8866,7 @@
     "region": "wielkopolskie",
     "districts": "Poznań, Szamotuły, Wronki, Chrzypsko Wielkie, Pniewy",
     "publish": "Yes",
-    "datestart": "2025-05-14T07:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -8859,7 +8876,7 @@
     "region": "zachodniopomorskie",
     "districts": "Łobez, Świdwin, Drawsko Pomorskie, Resko, Dobra",
     "publish": "Yes",
-    "datestart": "2025-05-14T07:00:00.000Z",
+    "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -9436,7 +9453,7 @@
     "districts": "Bucharest",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9466,7 +9483,7 @@
     "districts": "Brăila ",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "Ocotber 2025"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9476,7 +9493,7 @@
     "districts": "Câmpulung Moldovenesc, Fălticeni, Rădăuți, Suceava, Vatra Dornei",
     "publish": "Yes",
     "datestart": "2025-04-02T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9486,7 +9503,7 @@
     "districts": "Hârlău, Pașcani, Iasi, Valea Lupului",
     "publish": "Yes",
     "datestart": "2025-04-03T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9506,7 +9523,7 @@
     "districts": "Botoșani, Darabani, Dorohoi",
     "publish": "Yes",
     "datestart": "2025-04-02T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9516,7 +9533,7 @@
     "districts": "Bârlad, Huși, Vaslui",
     "publish": "Yes",
     "datestart": "2025-04-03T07:00:00.000Z",
-    "dateend": "2025-10-02T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9526,7 +9543,7 @@
     "districts": "Bistrița",
     "publish": "Yes",
     "datestart": "2025-04-04T07:00:00.000Z",
-    "dateend": "2025-10-03T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9576,7 +9593,7 @@
     "districts": "Călărași, Oltenița",
     "publish": "Yes",
     "datestart": "2025-04-02T07:00:00.000Z",
-    "dateend": "2025-10-03T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9596,7 +9613,7 @@
     "districts": "Galați, Tecuci ",
     "publish": "Yes",
     "datestart": "2025-04-02T07:00:00.000Z",
-    "dateend": "2025-10-03T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9606,7 +9623,7 @@
     "districts": "Târgu Jiu, Motru ",
     "publish": "Yes",
     "datestart": "2025-04-03T07:00:00.000Z",
-    "dateend": "2025-10-03T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9636,7 +9653,7 @@
     "districts": "Miercurea Ciuc, Gheorgheni, Odorheiu Secuiesc, Toplița",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-03T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9676,7 +9693,7 @@
     "districts": "Cluj-Napoca, Câmpia Turzii, Dej, Gherla, Turda",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-03T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9726,7 +9743,7 @@
     "districts": "Slatina, Caracal",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-03T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9736,7 +9753,7 @@
     "districts": "Adjud, Focșani",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-03T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9746,7 +9763,7 @@
     "districts": "Hârlău,     Pașcani",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-03T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9765,8 +9782,8 @@
     "region": "Argeș County",
     "districts": "Pitești, Câmpulung, Curtea de Argeș",
     "publish": "Yes",
-    "datestart": "2023-03-27T07:00:00.000Z",
-    "dateend": "2025-10-03T07:00:00.000Z"
+    "datestart": "2025-04-01T07:00:00.000Z",
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9786,7 +9803,7 @@
     "districts": "Piatra Neamț, Roman",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-03T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9796,7 +9813,7 @@
     "districts": "Zalău",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-03T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Romania",
@@ -9826,7 +9843,7 @@
     "districts": "Tulcea - border with Ukraine ",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-03T07:00:00.000Z"
+    "dateend": "2025-11-01T07:00:00.000Z"
   },
   {
     "country": "Russia",
@@ -9877,7 +9894,7 @@
     "svspc": "SV",
     "region": "Singapore",
     "districts": "Singapore",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-03-03T08:00:00.000Z",
     "dateend": "2025-04-02T07:00:00.000Z"
   },
@@ -10117,7 +10134,7 @@
     "districts": "Bratislava",
     "publish": "Yes",
     "datestart": "2025-03-12T07:00:00.000Z",
-    "dateend": "2025-09-04T07:00:00.000Z"
+    "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
     "country": "Slovensko",
@@ -10127,7 +10144,7 @@
     "districts": "Trnava, Skalica, Dunajská Streda, Senica",
     "publish": "Yes",
     "datestart": "2025-03-12T07:00:00.000Z",
-    "dateend": "2025-09-04T07:00:00.000Z"
+    "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
     "country": "Slovensko",
@@ -10137,7 +10154,7 @@
     "districts": "Trenčín, Bánovce nad Bebravou, Považská Bystrica",
     "publish": "Yes",
     "datestart": "2025-03-13T07:00:00.000Z",
-    "dateend": "2025-09-04T07:00:00.000Z"
+    "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
     "country": "Slovensko",
@@ -10147,7 +10164,7 @@
     "districts": "Nitra",
     "publish": "Yes",
     "datestart": "2025-03-14T07:00:00.000Z",
-    "dateend": "2025-09-04T07:00:00.000Z"
+    "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
     "country": "Slovensko",
@@ -10157,7 +10174,7 @@
     "districts": "Žilina, Bytča, Čadca",
     "publish": "Yes",
     "datestart": "2025-03-12T07:00:00.000Z",
-    "dateend": "2025-09-04T07:00:00.000Z"
+    "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
     "country": "Slovensko",
@@ -10166,7 +10183,7 @@
     "region": "Banská Bystrica",
     "districts": "Banská Bystrica, Banská Štiavnica",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
+    "datestart": "2025-03-12T07:00:00.000Z",
     "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
@@ -10176,7 +10193,7 @@
     "region": "Prešov",
     "districts": "Prešov",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
+    "datestart": "2025-03-12T07:00:00.000Z",
     "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
@@ -10186,7 +10203,7 @@
     "region": "Bratislava",
     "districts": "Bratislava",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
+    "datestart": "2025-03-12T07:00:00.000Z",
     "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
@@ -10196,7 +10213,7 @@
     "region": "Žilina",
     "districts": "Žilina, Bytča, Čadca, Ružomberok",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
+    "datestart": "2025-03-12T07:00:00.000Z",
     "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
@@ -10206,7 +10223,7 @@
     "region": "Banská Bystrica",
     "districts": "Banská Bystrica, Banská Štiavnica, Zvolen, Brezno",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
+    "datestart": "2025-03-12T07:00:00.000Z",
     "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
@@ -10217,7 +10234,7 @@
     "districts": "Nitra, Šaľa, Nové Zámky, Levice, Komárno",
     "publish": "Yes",
     "datestart": "2025-03-12T07:00:00.000Z",
-    "dateend": "2025-09-04T07:00:00.000Z"
+    "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
     "country": "Slovensko",
@@ -10227,7 +10244,7 @@
     "districts": "Spišská Nová Ves, Rožňava, Gelnica, Michalovce",
     "publish": "Yes",
     "datestart": "2025-03-12T07:00:00.000Z",
-    "dateend": "2025-09-04T07:00:00.000Z"
+    "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
     "country": "Slovensko",
@@ -10236,7 +10253,7 @@
     "region": "Prešov",
     "districts": "Levoča,  Kezmarok, Snina",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
+    "datestart": "2025-03-12T07:00:00.000Z",
     "dateend": "2025-10-01T07:00:00.000Z"
   },
   {
@@ -10962,7 +10979,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Taipei",
-    "districts": "Nei Hu Qu, Wan Hua Qu",
+    "districts": "SHi Lin Qu, Da Tong Qu",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -10972,7 +10989,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "New Taipei",
-    "districts": "Xia Dian Qu",
+    "districts": "Lou Zhou Qu",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -11011,7 +11028,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Yun Lin County",
-    "districts": "Dou Liu Zhen, Da Pi Xiang, Tai Xi Xiang,",
+    "districts": "Dou Liu Zhen, Da Pi Xiang, Tai Xi Xiang, ",
     "publish": "No",
     "datestart": "2025-02-03T08:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -11021,7 +11038,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Chaiyi County",
-    "districts": "Zhang Pu Xiang, Fan Lu Xiang",
+    "districts": "Zhang Pu Xiang, Meu Shan Xiang",
     "publish": "Yes",
     "datestart": "2025-02-03T08:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -11193,8 +11210,8 @@
     "region": "Cornwall",
     "districts": "Penzance, Truro, St Austell, Redruth, Newquay, Padstow",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -11263,8 +11280,8 @@
     "region": "West Midlands",
     "districts": "Stoke-on-trent, Wolverhampton, Coventry, Hereford, Shrewsbury, Worcester, Birmingham",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -11779,9 +11796,20 @@
     "code": "US",
     "svspc": "SV",
     "region": "Hawaii",
+    "districts": "7 islands",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-06-30T07:00:00.000Z"
+  },
+  {
+    "country": "United States",
+    "code": "US",
+    "svspc": "SV",
+    "region": "Alaska",
+    "districts": "Anchorage, Fairbanks",
+    "publish": "Yes",
+    "datestart": "2025-05-01T07:00:00.000Z",
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
@@ -11800,8 +11828,8 @@
     "region": "Στερεά Ελλάδα",
     "districts": "Θήβα, Λιβαδειά, Τανάγρα, Σχηματάρι, Ορχομενός, Οινόφυτα, Αλίαρτος, Πλαταιές, Θήβες, Βαγία, Δίστομο, Αράχωβα, Κορωνεία, Θίσβη, Κυριάκι Χαλκίδας, Καρύστου, Νέα Αρτάκη, Βασιλικό, Ερέτρια, Ψαχνά, Δροσιά, Ιστιαία, Αλιβέρι, Καρύστου, Λουτρά Αιδηψού, Βαθύ, Αμαρυνθός, Άγιος Νικόλαος, Παραλία Αυλίδας, Κύμη, Νέα Λάμψακος, Λίμνη, Γυμνό, Καρπενήσι, Αγρνά, Αμφισσα, Ιτέα, Λιδωρίκι, Τολόφων, Γαλαξίδι, Λαμία, Στυλίδα, Δομοκός, Αταλάντη, Μαλεσίνα, Μώλος, Υπάτη, Ροδίτσα, Αμφίκλεια, Άγιος Κωνσταντίνος, Καμένα Βούρλα, Σπερχειάδα, Λιβανατές, Σταυρός, Ελάτεια, Μακρακώμη",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "datestart": "2025-02-04T08:00:00.000Z",
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
@@ -11810,8 +11838,8 @@
     "region": "Κεντρική Μακεδονία",
     "districts": "Αλεξάνδρεια, Αριδαία, Έδεσσα, Γιαννιτσά, Κατερίνη, Κιλκίς, Κουφάλια, Λαγκαδάς, Λιτόχωρο, Νάουσα, Νέα Καλλικράτεια, Νέα Μουδανιά, Πολύγυρος, Πολύκαστρο, Σέρρες, Σκύδρα, Μητροπολιτική περιοχή Θεσσαλονίκης, Επανομή, Ευόσμος, Δέλτα, Καλαμαριά, Ωραιόκαστρο, Πανόραμα, Πολίχνη, Πυλαία, Σταυρούπολη, Συκιές, Θέρμη, Θεσσαλονίκη, Βέροια",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "datestart": "2025-02-04T08:00:00.000Z",
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
@@ -11850,8 +11878,8 @@
     "region": "Ιόνιοι Νήσοι",
     "districts": "Κέρκυρα, Ιθάκη, Κεφαλονιά, Λευκάδα, Ζάκυνθος",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "datestart": "2025-02-04T08:00:00.000Z",
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
@@ -11860,8 +11888,8 @@
     "region": "Βορείου Αιγαίου",
     "districts": "Χίος, Καλλονή, Καρλόβασι, Μύρινα, Μυτιλήνη, Ομηρούπολη, Πυθαγόρειο, Σάμος",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "datestart": "2025-02-04T08:00:00.000Z",
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
@@ -11880,8 +11908,8 @@
     "region": "Νοτίου Αιγαίου / Νησιά Αιγαίου",
     "districts": "Άνδρος, Ιαλυσός, Καλλιθέα, Κάλυμνος, Κάρπαθος, Κως, Λέρος, Μήλος, Μύκονος, Νάξος, Πάρος, Πεταλούδες, Ρόδος, Σαντορίνη, Θήρα, Σύρος, Ερμούπολη",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "datestart": "2025-02-04T08:00:00.000Z",
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
@@ -11900,8 +11928,8 @@
     "region": "Δυτική Ελλάδα",
     "districts": "Αγρίνιο, Αίγιο, Αμαλιάδα, Αμφιλοχία, Αρχαία Ολυμπία, Φαρρές, Γαστούνη, Καλάβρυτα, Κάτω Αχαΐα, Μεσολόγγι, Ναύπακτος, Πάτρα, Πύργος, Βουπρασία, Ζαχάρω",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "datestart": "2025-02-04T08:00:00.000Z",
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
@@ -11910,8 +11938,8 @@
     "region": "Δυτική Μακεδονία",
     "districts": "Κοζάνη, Εορδαία, Βοΐο, Σερβία-Βελβεντό, Δεσκάτη, Γρεβενά, Νεστόριο, Άργος Ορεστικό, Καστοριά, Πρέσπες, Φλώρινα, Αμύνταιο",
     "publish": "Yes",
-    "datestart": "2024-02-01T08:00:00.000Z",
-    "dateend": "2024-08-10T07:00:00.000Z"
+    "datestart": "2025-02-04T08:00:00.000Z",
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "България",
@@ -12100,7 +12128,7 @@
     "region": "Силистра",
     "districts": "Силистра",
     "publish": "Yes",
-    "datestart": "2025-05-08T07:00:00.000Z",
+    "datestart": "2025-04-02T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -12160,7 +12188,7 @@
     "region": "Търговище",
     "districts": "Търговище",
     "publish": "Yes",
-    "datestart": "2025-05-08T07:00:00.000Z",
+    "datestart": "2025-04-02T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -12180,7 +12208,7 @@
     "region": "Шумен",
     "districts": "Шумен",
     "publish": "Yes",
-    "datestart": "2025-05-08T07:00:00.000Z",
+    "datestart": "2025-04-02T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
@@ -17900,7 +17928,7 @@
     "svspc": "SV",
     "region": "Koili",
     "districts": "Paphos",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-01T07:00:00.000Z"
   },
@@ -17910,7 +17938,7 @@
     "svspc": "SV",
     "region": "Paphos",
     "districts": "Paphos",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-02T07:00:00.000Z",
     "dateend": "2025-10-02T07:00:00.000Z"
   },
@@ -17920,7 +17948,7 @@
     "svspc": "SV",
     "region": "Lakatamia",
     "districts": "Nicosia",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-03T07:00:00.000Z",
     "dateend": "2025-10-03T07:00:00.000Z"
   },
@@ -17930,7 +17958,7 @@
     "svspc": "SV",
     "region": "Larnaca",
     "districts": "Larnaca",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-04T07:00:00.000Z",
     "dateend": "2025-10-04T07:00:00.000Z"
   },
@@ -17940,7 +17968,7 @@
     "svspc": "SV",
     "region": "Aradippou",
     "districts": "Nicosia",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-05T07:00:00.000Z",
     "dateend": "2025-10-05T07:00:00.000Z"
   },
@@ -17950,7 +17978,7 @@
     "svspc": "SV",
     "region": "Dali",
     "districts": "Nicosia",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-06T07:00:00.000Z",
     "dateend": "2025-10-06T07:00:00.000Z"
   },
@@ -17960,7 +17988,7 @@
     "svspc": "SV",
     "region": "Geri",
     "districts": "Nicosia",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-07T07:00:00.000Z",
     "dateend": "2025-10-07T07:00:00.000Z"
   },
@@ -17970,7 +17998,7 @@
     "svspc": "SV",
     "region": "Latsia",
     "districts": "Nicosia",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-08T07:00:00.000Z",
     "dateend": "2025-10-08T07:00:00.000Z"
   },
@@ -17980,7 +18008,7 @@
     "svspc": "SV",
     "region": "Aglantzia",
     "districts": "Nicosia",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-09T07:00:00.000Z",
     "dateend": "2025-10-09T07:00:00.000Z"
   },
@@ -17990,7 +18018,7 @@
     "svspc": "SV",
     "region": "KatoPolemidia",
     "districts": "Limassol",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-10T07:00:00.000Z",
     "dateend": "2025-10-10T07:00:00.000Z"
   },
@@ -18000,7 +18028,7 @@
     "svspc": "SV",
     "region": "Laneia",
     "districts": "Limassol",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-11T07:00:00.000Z",
     "dateend": "2025-10-11T07:00:00.000Z"
   },
@@ -18010,7 +18038,7 @@
     "svspc": "SV",
     "region": "Lofou",
     "districts": "Limassol",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-12T07:00:00.000Z",
     "dateend": "2025-10-12T07:00:00.000Z"
   },
@@ -18020,7 +18048,7 @@
     "svspc": "SV",
     "region": "Souni-Zanakia",
     "districts": "Limassol",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-13T07:00:00.000Z",
     "dateend": "2025-10-13T07:00:00.000Z"
   },
@@ -18030,7 +18058,7 @@
     "svspc": "SV",
     "region": "Kakopetria",
     "districts": "Nicosia",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-14T07:00:00.000Z",
     "dateend": "2025-10-14T07:00:00.000Z"
   },
@@ -18040,7 +18068,7 @@
     "svspc": "SV",
     "region": "Troodos",
     "districts": "Limassol",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-15T07:00:00.000Z",
     "dateend": "2025-10-15T07:00:00.000Z"
   },
@@ -18050,7 +18078,7 @@
     "svspc": "SV",
     "region": "Kyperounta",
     "districts": "Limassol",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-16T07:00:00.000Z",
     "dateend": "2025-10-16T07:00:00.000Z"
   },
@@ -18060,7 +18088,7 @@
     "svspc": "SV",
     "region": "Pareklisia",
     "districts": "Limassol",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-17T07:00:00.000Z",
     "dateend": "2025-10-17T07:00:00.000Z"
   },
@@ -18070,7 +18098,7 @@
     "svspc": "SV",
     "region": "AgiosTychon",
     "districts": "Limassol",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-18T07:00:00.000Z",
     "dateend": "2025-10-18T07:00:00.000Z"
   },
@@ -18080,7 +18108,7 @@
     "svspc": "SV",
     "region": "Mouttagiaka",
     "districts": "Limassol",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-19T07:00:00.000Z",
     "dateend": "2025-10-19T07:00:00.000Z"
   },
@@ -18090,7 +18118,7 @@
     "svspc": "SV",
     "region": "AgiosAthanasios",
     "districts": "Limassol",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-20T07:00:00.000Z",
     "dateend": "2025-10-20T07:00:00.000Z"
   },
@@ -18100,7 +18128,7 @@
     "svspc": "SV",
     "region": "MesaGeitonia",
     "districts": "Limassol",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-21T07:00:00.000Z",
     "dateend": "2025-10-21T07:00:00.000Z"
   },
@@ -21020,7 +21048,7 @@
     "svspc": "SV",
     "region": "Nicosia",
     "districts": "Potami",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-03-01T08:00:00.000Z"
   },
@@ -21030,7 +21058,7 @@
     "svspc": "SV",
     "region": "Nicosia",
     "districts": "Polistipos",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-03-01T08:00:00.000Z"
   },
@@ -21040,7 +21068,7 @@
     "svspc": "SV",
     "region": "Nicosia",
     "districts": "AgiaMarina",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-03-01T08:00:00.000Z"
   },
@@ -21050,7 +21078,7 @@
     "svspc": "SV",
     "region": "Nicosia",
     "districts": "Agrokipia",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-03-01T08:00:00.000Z"
   },
@@ -21060,7 +21088,7 @@
     "svspc": "SV",
     "region": "Nicosia",
     "districts": "Vavatsinia",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-03-01T08:00:00.000Z"
   },
@@ -21070,7 +21098,7 @@
     "svspc": "SV",
     "region": "Nicosia",
     "districts": "Farmakas",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-03-01T08:00:00.000Z"
   },
@@ -21080,7 +21108,7 @@
     "svspc": "SV",
     "region": "Nicosia",
     "districts": "Gourri",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-03-01T08:00:00.000Z"
   },
@@ -21090,7 +21118,7 @@
     "svspc": "SV",
     "region": "Nicosia",
     "districts": "Kapedes",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-03-01T08:00:00.000Z"
   },
@@ -21100,7 +21128,7 @@
     "svspc": "SV",
     "region": "Nicosia",
     "districts": "Mylikouri",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-03-01T08:00:00.000Z"
   },
@@ -21110,7 +21138,7 @@
     "svspc": "SV",
     "region": "Nicosia",
     "districts": "AgiosEpifanios",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-03-01T08:00:00.000Z"
   },
@@ -21120,7 +21148,7 @@
     "svspc": "SV",
     "region": "Larnaca",
     "districts": "Anafotia",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-03-01T08:00:00.000Z"
   },
@@ -21130,7 +21158,7 @@
     "svspc": "SV",
     "region": "Larnaca",
     "districts": "Klavdia",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-03-01T08:00:00.000Z"
   },
@@ -21140,7 +21168,7 @@
     "svspc": "SV",
     "region": "Larnaca",
     "districts": "Delikipos",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-03-01T08:00:00.000Z"
   },
@@ -21150,7 +21178,7 @@
     "svspc": "SV",
     "region": "Limassol",
     "districts": "VasaKoilaniou",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-03-01T08:00:00.000Z"
   },
@@ -21160,7 +21188,7 @@
     "svspc": "SV",
     "region": "Limassol",
     "districts": "Alassa",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-03-01T08:00:00.000Z"
   },
@@ -21170,7 +21198,7 @@
     "svspc": "SV",
     "region": "Limassol",
     "districts": "Prastio",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-03-01T08:00:00.000Z"
   },
@@ -21180,7 +21208,7 @@
     "svspc": "SV",
     "region": "Limassol",
     "districts": "AgiosTherapon",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-03-01T08:00:00.000Z"
   },
@@ -21190,7 +21218,7 @@
     "svspc": "SV",
     "region": "Limassol",
     "districts": "Mandria",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-03-01T08:00:00.000Z"
   },
@@ -21200,7 +21228,7 @@
     "svspc": "SV",
     "region": "Limassol",
     "districts": "AgiosAmvrosios",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-03-01T08:00:00.000Z"
   },
@@ -21210,7 +21238,7 @@
     "svspc": "SV",
     "region": "Limassol",
     "districts": "AgiosThomas",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-03-01T08:00:00.000Z"
   },
@@ -21220,7 +21248,7 @@
     "svspc": "SV",
     "region": "Limassol",
     "districts": "Mandria",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-03-01T08:00:00.000Z"
   },
@@ -21230,7 +21258,7 @@
     "svspc": "SV",
     "region": "Paphos",
     "districts": "Mesana",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-03-01T08:00:00.000Z"
   },
@@ -21240,7 +21268,7 @@
     "svspc": "SV",
     "region": "Paphos",
     "districts": "Vretsia",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-03-01T08:00:00.000Z"
   },
@@ -21250,7 +21278,7 @@
     "svspc": "SV",
     "region": "Paphos",
     "districts": "Salamiou",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-03-01T08:00:00.000Z"
   },
