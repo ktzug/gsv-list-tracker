@@ -1726,7 +1726,7 @@
     "svspc": "SV",
     "region": "Ceará",
     "districts": "Antonina do Norte,Aracati,Bela Cruz,Campo Grande,Flamengo,Guassussê,Horizonte,Icapuí,Icó,Iguatu,Independência,Jaguaribe,Juazeiro do Norte,Ocara,Quixelô,Senador Pompeu,Sítio Alegre,Sobral,Solonópole,Tauá,Tianguá,Viçosa do Ceará",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -1766,7 +1766,7 @@
     "svspc": "SV",
     "region": "Espírito Santo",
     "districts": "Cachoeiro de Itapemirim,Colatina,Guaçuí,Jetibá,Linhares,Serra",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -1776,7 +1776,7 @@
     "svspc": "SV",
     "region": "Goiás",
     "districts": "Acreúna,Águas Lindas de Goiás,Alexânia,Alto Paraíso de Goiás,Alto Taquari,Anápolis,Aparecida de Goiânia,Araguapaz,Arraias,Brasília,Cassilândia,Cavalcante,Chapadão do Céu,Chapadão do Sul,Cocalzinho de Goiás,Colinas do Sul,Combinado,Crixás,Davinópolis,Doverlândia,Faina,Formosa,Goianésia,Goiânia,Goiatuba,Hidrolândia,Itarumã,Itumbiara,Jandaia,Jaraguá,Luziânia,Matrinchã,Minaçu,Monte Alegre de Goiás,Mundo Novo,Niquelândia,Paranaiguara,Pirenópolis,Planaltina,Portelândia,Santa Helena de Goiás,Santa Rita do Novo Destino,Santa Terezinha de Goiás,Santo Antônio do Descoberto,São Miguel do Araguaia,Uruaçu",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -1786,7 +1786,7 @@
     "svspc": "SV",
     "region": "Maranhão",
     "districts": "Alto Parnaíba,Bacabal,Balsas,Caxias,Central do Maranhão,Codó,Esperantinópolis,Formosa da Serra Negra,Fortaleza dos Nogueiras,Fortuna,Grajaú,Guimarães,Itaipava do Grajaú,Jatobá,Joselândia,Lagoa do Mato,Lajeado Novo,Lima Campos,Matinha,Nova Vida,Novo Bacabal,Paraibano,Pinheiro,Santa Luzia,São Bento,São João do Paraíso,São Luís,São Mateus do Maranhão,São Raimundo das Mangabeiras,Senador La Rocque,Sítio Novo,Sucupira do Norte,Sucupira do Riachão",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -1806,7 +1806,7 @@
     "svspc": "SV",
     "region": "Mato Grosso do Sul",
     "districts": "Alto Taquari,Aquidauana,Bonito,Caracol,Cassilândia,Chapadão do Céu,Chapadão do Sul,Dois Irmãos do Buriti,Dourados,Figueirão,Miranda,Paraíso das Águas,Pedro Gomes,Porto Murtinho",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -1826,7 +1826,7 @@
     "svspc": "SV",
     "region": "Pará",
     "districts": "Abaetetuba,Amapá do Maranhão,Araguacema,Barreira do Campo,Belém,Bragança,Cametá,Canaã dos Carajás,Caseara,Castanhal,Castelo dos Sonhos,Cumaru do Norte,Garrafão do Norte,Guarantã do Norte,Itaituba,Jacareacanga,Laranjal do Jari,Moju,Nova Esperança do Piriá,Ourilândia do Norte,Parauapebas,Piçarra,Redenção,Santa Luzia do Pará,São Pedro da Água Branca,Vigia",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -1836,7 +1836,7 @@
     "svspc": "SV",
     "region": "Paraíba",
     "districts": "Afogados da Ingazeira,Catolé do Rocha,Coremas,Guarabira,Juazeirinho,Patos,Pombal,Santa Terezinha,São Bento,Sousa,Sumé",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -1876,7 +1876,7 @@
     "svspc": "SV",
     "region": "Piauí",
     "districts": "Altos,Barras,Bom Princípio do Piauí,Boqueirão do Piauí,Campo Grande,Campo Maior,Floriano,Jaicós,Marcolândia,Massapê do Piauí,Oeiras,Paquetá,Parnaíba,Pedro II,Pedro Laurentino,Picos,Pimenteiras,Piracuruca,Piripiri,Queimada Nova,São José do Peixe,Teresina,Tianguá,Viçosa do Ceará",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -1896,7 +1896,7 @@
     "svspc": "SV",
     "region": "Rio Grande do Norte",
     "districts": "Acu,Alto do Rodrigues,Mossoró,Parnamirim,Passa e Fica,Upanema",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -1936,7 +1936,7 @@
     "svspc": "SV",
     "region": "Santa Catarina",
     "districts": "Balneário Camboriú,Barracão,Blumenau,Braço do Norte,Brusque,Caçador,Campo Erê,Campos Novos,Canoinhas,Chapecó,Criciúma,Curitibanos,Florianópolis,Fraiburgo,Francisco Beltrão,Imbituba,Indaial,Iporã do Oeste,Itajaí,Jaraguá do Sul,Joaçaba,Joinville,Lages,Mafra,Mondaí,Palhoça,Palma Sola,Papanduva,Passo de Torres,Porto União,Presidente Getúlio,Rancho Queimado,Rio Negrinho,Salete,Santa Cecília,Santa Terezinha,São Bento do Sul,São Joaquim,São José do Cerrito,São Miguel do Oeste,Sombrio,Tubarão,Urubici,Videira",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -1956,7 +1956,7 @@
     "svspc": "SV",
     "region": "Sergipe",
     "districts": "Aracaju,Lagarto,Tobias Barreto",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -1966,7 +1966,7 @@
     "svspc": "SV",
     "region": "Tocantins",
     "districts": "Araguanã,Arraias,Barra do Ouro,Centenário,Colinas do Tocantins,Combinado,Dianópolis,Goiatins,Imperatriz,Itacajá,Itapiratins,Novo Acordo,Paranã",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -11228,7 +11228,7 @@
     "code": "TH",
     "svspc": "SV",
     "region": "Central. Northern, Norteasthern, Eastern ",
-    "districts": "Udonthani, Khonkaen, Roiet, Ubonratchathani, Chanthaburi, Ang Thong, Nongkai, Nong Bua Lam Phu, Pathumthani, Utaradit, Sukhothai, Phitsanulok, Nakhonratchasima",
+    "districts": "Khonkaen, Roiet, Ubonratchathani, Chanthaburi, Ang Thong, Nongkai, Nong Bua Lam Phu, Pathumthani, Utaradit, Sukhothai, Phitsanulok, Nakhonratchasima",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-06-30T07:00:00.000Z"
