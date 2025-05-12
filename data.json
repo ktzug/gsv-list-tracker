@@ -2246,7 +2246,7 @@
     "svspc": "SV",
     "region": "Aysén",
     "districts": "Coyhaique",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -2556,7 +2556,7 @@
     "svspc": "SV",
     "region": "Tolima",
     "districts": "Ibagué,Manizales,Neiva",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -7019,7 +7019,6 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Oita",
-    "districts": "Kunisaki",
     "publish": "No"
   },
   {
@@ -7038,9 +7037,7 @@
     "svspc": "SV",
     "region": "Miyazaki",
     "districts": "Miyakonojo",
-    "publish": "Yes",
-    "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "publish": "No"
   },
   {
     "country": "Japan",
@@ -8791,47 +8788,47 @@
     "districts": "Cebu",
     "publish": "Yes",
     "datestart": "2025-03-31T07:00:00.000Z",
-    "dateend": "2025-04-01T07:00:00.000Z"
+    "dateend": "2025-05-01T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
     "region": "Cetral Visayas",
-    "districts": "Mactan",
+    "districts": "Dalaguete",
     "publish": "Yes",
     "datestart": "2025-03-31T07:00:00.000Z",
-    "dateend": "2025-04-01T07:00:00.000Z"
+    "dateend": "2025-05-01T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
     "region": "Cetral Visayas",
-    "districts": "Cebu City",
+    "districts": "Argao",
     "publish": "Yes",
     "datestart": "2025-03-31T07:00:00.000Z",
-    "dateend": "2025-04-01T07:00:00.000Z"
+    "dateend": "2025-05-01T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Central Luzon",
-    "districts": "Quezon City",
+    "region": "Bicol",
+    "districts": "Aroroy",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-04-01T07:00:00.000Z"
+    "dateend": "2025-05-01T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Central Luzon",
-    "districts": "Nueva Ecija",
+    "region": "Bicol",
+    "districts": "Cawayan",
     "publish": "Yes",
     "datestart": "2025-02-28T08:00:00.000Z",
-    "dateend": "2025-03-31T07:00:00.000Z"
+    "dateend": "2025-05-01T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -10983,7 +10980,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "New Taipei",
-    "districts": "Xian Dian Qu, Yong He Qu",
+    "districts": "Xian Dian Qu, Wu Lai Qu, Ban Qiao Qu",
     "publish": "No",
     "datestart": "2024-01-02T08:00:00.000Z",
     "dateend": "2024-12-31T08:00:00.000Z"
@@ -11133,7 +11130,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "New Taipei",
-    "districts": "Lou Zhou Qu, Xin Zhaung Qu",
+    "districts": "Xian Dian Qu, Wu Lai Qu, Ban Qiao Qu",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -11182,7 +11179,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Chaiyi County",
-    "districts": "Xin Gang Xiang, Tai Bao Xiang",
+    "districts": "Xin Gang Xiang, Bei Pu Xiang",
     "publish": "Yes",
     "datestart": "2025-02-03T08:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -11192,7 +11189,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Tainan",
-    "districts": "Shan Hua Qu",
+    "districts": "An Nan Qu",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -11228,7 +11225,7 @@
     "code": "TH",
     "svspc": "SV",
     "region": "Central. Northern, Norteasthern, Eastern ",
-    "districts": "Khonkaen, Roiet, Ubonratchathani, Chanthaburi, Ang Thong, Nongkai, Nong Bua Lam Phu, Pathumthani, Utaradit, Sukhothai, Phitsanulok, Nakhonratchasima",
+    "districts": "Khonkaen, Mahasarakham, Ubonratchathani, Chanthaburi, Ang Thong, Singburi, Nong Bua Lam Phu, Pathumthani, Utaradit, Sukhothai, Phitsanulok, Nakhonratchasima",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-06-30T07:00:00.000Z"
@@ -11463,9 +11460,9 @@
     "svspc": "SV",
     "region": "Montana",
     "districts": "Beaverhead, Big Horn, Blaine, Broadwater, Carbon, Carter, Cascade, Chouteau, Custer, Daniels, Dawson, Deer Lodge, Fallon, Fergus, Flathead, Gallatin, Garfield, Glacier, Golden Valley, Granite, Hill, Jefferson, Judith Basin, Lake, Lewis and Clark, Liberty, Lincoln, Madison, McCone, Meagher, Mineral, Missoula, Musselshell, Park, Petroleum, Phillips, Pondera, Powder River, Powell, Prairie, Ravalli, Richland, Roosevelt, Rosebud, Sanders, Sheridan, Silver Bow, Stillwater, Sweet Grass, Teton, Toole, Treasure, Valley, Wheatland, Wibaux, Yellowstone, Bozeman, Billings",
-    "publish": "No",
-    "datestart": "2024-05-01T07:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-05-01T07:00:00.000Z",
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11473,8 +11470,8 @@
     "svspc": "SV",
     "region": "New Hampshire",
     "districts": "Rockingham, Strafford, Sullivan, Grafton, Coos, Carroll",
-    "publish": "No",
-    "datestart": "2025-04-01T07:00:00.000Z",
+    "publish": "Yes",
+    "datestart": "2025-05-01T07:00:00.000Z",
     "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
@@ -11565,7 +11562,7 @@
     "districts": "Madison, Limestone, Jackson, Morgan, Marshall, Dekalb, Elmore, Autauga, Lowndes, Montgomery, Macon, Bullock, Pike, Crenshaw, Butler, Franklin, Marion, Lamar, Pickens, Fayette, Tuscaloosa, Winston, Walker, Blount, Etowah, Cherokee, Talladega, Clay, Mobile, Washington, Clarke, Baldwin, Monroe, Conecuh, Coffee, Dale, Henry",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-05-30T07:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11575,7 +11572,7 @@
     "districts": "Coconino, Navajo, Apache, Piunal, Graham, Greenlee, Pima, Santa Cruz, Mohave, La Paz, Yuma, Pinal, Cochise, Apache, Gila",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-05-30T07:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11583,8 +11580,8 @@
     "svspc": "SV",
     "region": "Maine",
     "districts": "York, Cumberland, Sagadahoc, Androscoggin, Oxford, Kennebec, Lincoln, Knox, Waldo, Hancock, Washington, Penobscot, Aroostook, Piscataquis, Somerset",
-    "publish": "No",
-    "datestart": "2025-04-01T07:00:00.000Z",
+    "publish": "Yes",
+    "datestart": "2025-05-01T07:00:00.000Z",
     "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
@@ -11603,9 +11600,9 @@
     "svspc": "SV",
     "region": "Connecticut",
     "districts": "Newhaven, Fairfield, Litchfield, Hartford, Middlesex, New London, Tolland, Windham, Norwich",
-    "publish": "No",
-    "datestart": "2024-05-20T07:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-05-01T07:00:00.000Z",
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11613,9 +11610,9 @@
     "svspc": "SV",
     "region": "Maryland",
     "districts": "Wicomico, Dorchester, Caroline, Baltimore, Carroll, Frederick, Washington, Cecil, Harford",
-    "publish": "No",
-    "datestart": "2024-04-01T07:00:00.000Z",
-    "dateend": "2024-12-31T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-05-01T07:00:00.000Z",
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11643,9 +11640,9 @@
     "svspc": "SV",
     "region": "New Jersey",
     "districts": "Warren, Hunterdon, Mercer, Morris, Sussex, Middlesex, Monmouth, Union, Essex, Bergen, Hudson",
-    "publish": "No",
-    "datestart": "2024-05-20T07:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-05-01T07:00:00.000Z",
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11763,9 +11760,9 @@
     "svspc": "SV",
     "region": "Utah",
     "districts": "Box Elder, Tooele, Juab, Millard, Beaver, Iron, Washington, Kane, Garfield, Piute, Wayne, Sevier, Emery, Sanpete, Carbon, Utah, Wasatch, Duchesne, San Juan, Uintah, Daggett, Summit, Salt Lake, Davis, Morgan, Weber, Cache",
-    "publish": "No",
-    "datestart": "2024-04-01T07:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-05-01T07:00:00.000Z",
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11793,9 +11790,9 @@
     "svspc": "SV",
     "region": "Wyoming",
     "districts": "Albany, Big Horn, Campbell, Carbon, Converse, Crook, Fremont, Goshen, Hot Springs, Johnson, Laramie, Lincoln, Natrona, Niobrara, Park, Platte, Sheridan, Sublette, Sweetwater, Teton, Uinta, Washakie, Weston, Cheyenne",
-    "publish": "No",
-    "datestart": "2024-05-20T07:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-05-01T07:00:00.000Z",
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11892,9 +11889,9 @@
     "code": "US",
     "region": "Kansas",
     "districts": "Cheyenne, Rawlins, Decatur, Norton, Phillips, Jewell, Republic, Washington, Marshall, Nemaha, Brown, Doniphan, Atchison, Jackson, Pottawatomie, Cloud, Osborne, Rooks, Graham, Sheridan, Thomas, Sherman, Wallace, Logan, Grove, Trego, Ellis, Russell, Lincoln, Ottawa, Saline, Ellsworth, McPherson, Marion, Chase, Harvey, Sedwick, Reno, Rice, Barton, Rush, Ness, Lane, Scott, Wichita, Hamilton, Kearny, Finney, Hodgeman, Pawnee, Stafford, Edwards, Kiowa, Ford, Gray, Meade, Seward, Haskell, Grant, Stanton, Comanche, Barber, Harper, Sumner, Cowley, Cherokee, Wilson, Neosho, Crawford, Woodson, Allen, Bourbon, Coffey, Anderson, Linn, Lyon, Osage, Franklin, Miami, Johnson, Douglas, Wabaunsee, Shawnee, Leavenworth, Jefferson, Dickinson",
-    "publish": "No",
-    "datestart": "2024-04-01T07:00:00.000Z",
-    "dateend": "2024-11-30T08:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-05-01T07:00:00.000Z",
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11931,9 +11928,9 @@
     "svspc": "SV",
     "region": "Vermont",
     "districts": "Essex, Orleans, Caledonia, Lamoille, Washington, Orange, Windsor, Windham, Bennington, Rutland",
-    "publish": "No",
-    "datestart": "2024-01-01T08:00:00.000Z",
-    "dateend": "2024-10-01T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-05-01T07:00:00.000Z",
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
