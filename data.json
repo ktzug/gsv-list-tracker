@@ -10551,7 +10551,7 @@
     "svspc": "SV",
     "region": "Halland",
     "districts": "Halmstad, Varberg, Kungsbacka, Falkenberg, Laholm, Hylte, Onsala, Vinberg, Särö, Trönninge, Veddige, Hyltebruk, Åsa, Torup, Källsjö, Oskarström, Steninge, Tvååker, Getinge, Slöinge",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-04T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
   },
@@ -11225,7 +11225,7 @@
     "code": "TH",
     "svspc": "SV",
     "region": "Central. Northern, Norteasthern, Eastern ",
-    "districts": "Khonkaen, Mahasarakham, Ubonratchathani, Chanthaburi, Ang Thong, Singburi, Nong Bua Lam Phu, Pathumthani, Utaradit, Sukhothai, Phitsanulok, Nakhonratchasima",
+    "districts": "Khonkaen, Mahasarakham, Burirum, Chanthaburi, Ang Thong, Singburi, Nong Bua Lam Phu, Pathumthani, Chiang Rai, Chiang Mai, Sukhothai, Phitsanulok, Nakhonratchasima",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-06-30T07:00:00.000Z"
