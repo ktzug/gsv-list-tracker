@@ -10552,9 +10552,9 @@
     "svspc": "SV",
     "region": "Södermanland",
     "districts": "Eskilstuna, Katrineholm, Nyköping, Strängnäs, Trosa, Gnesta, Oxelösund, Vingåker, Flen, Söderköping, Nyköping, Eskilstuna, Strängnäs, Trosa, Gnesta, Oxelösund, Vingåker, Flen, Katrineholm, Flen",
-    "publish": "No",
-    "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-31T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-06-01T07:00:00.000Z",
+    "dateend": "2025-12-01T08:00:00.000Z"
   },
   {
     "country": "Sweden",
