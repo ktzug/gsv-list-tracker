@@ -268,7 +268,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "South Australia",
-    "districts": "Saddleworth, Tarlee, Adelaide , SaddleWorth",
+    "districts": "Saddleworth, Tarlee, Adelaide , SaddleWorth, Lock",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-01T08:00:00.000Z"
@@ -278,7 +278,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "Queensland",
-    "districts": "Kilcoy, Maleny, Gympie, Mackay",
+    "districts": "Kilcoy, Maleny, Gympie, Mackay, Mirani",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-01T08:00:00.000Z"
@@ -288,7 +288,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "New South Wales",
-    "districts": "Leeton, Darlington point, Springwood, Oakdale, wagga wagga, Inner West, Parramatta, North Sydney, Eastern Suburbs, Northern Beaches, Hills District, City of Sydney, Darlington, Blacktown, Cumberland, Blue Mountains, Hawkesbury, Penrith, Camden, Campbelltown, Fairfield, Liverpool, Wollondilly, Georges River, Canterbury-Bankstown, Sutherland, Bayside, Burwood, Canada Bay, Randwick, Strathfield, Waverley, Woollahra, Hornsby, Hunters Hill, Ku-ring-gai, Lane Cove, Mosman, Ryde, Willoughby, Berkeley, Brownsville, Coniston, Corrimal, Cringila, East Corrimal, Fairy Meadow, Figtree, Gwynneville, Kanahooka, Kembla Grange, Lake Heights, Mangerton, Mount Saint Thomas, North Wollongong, Port Kembla, Primbee, Towradgi, Unanderra, Warrawong, West Wollongong, Windang, Wollongong, Wingecarribee, Central Coast, Cessnock, Lake Macquarie, Mount Annan",
+    "districts": "Leeton, Darlington point, Springwood, Oakdale, wagga wagga, Inner West, Parramatta, North Sydney, Eastern Suburbs, Northern Beaches, Hills District, City of Sydney, Darlington, Blacktown, Cumberland, Blue Mountains, Hawkesbury, Penrith, Camden, Campbelltown, Fairfield, Liverpool, Wollondilly, Georges River, Canterbury-Bankstown, Sutherland, Bayside, Burwood, Canada Bay, Randwick, Strathfield, Waverley, Woollahra, Hornsby, Hunters Hill, Ku-ring-gai, Lane Cove, Mosman, Ryde, Willoughby, Berkeley, Brownsville, Coniston, Corrimal, Cringila, East Corrimal, Fairy Meadow, Figtree, Gwynneville, Kanahooka, Kembla Grange, Lake Heights, Mangerton, Mount Saint Thomas, North Wollongong, Port Kembla, Primbee, Towradgi, Unanderra, Warrawong, West Wollongong, Windang, Wollongong, Wingecarribee, Central Coast, Cessnock, Lake Macquarie, Mount Annan, Gilgandra",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-01T08:00:00.000Z"
@@ -298,7 +298,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "Victoria",
-    "districts": "Rosedale, Toongabbie, Noojee",
+    "districts": "Rosedale, Toongabbie, Noojee, Bruthen",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-01T08:00:00.000Z"
@@ -1266,7 +1266,7 @@
     "svspc": "SV",
     "region": "Jujuy",
     "districts": "Abra Pampa, Aguilar, Cusi Cusi, El Angosto, Humahuaca, Iruya, La Quiaca, Mina Pirquitas, Olaroz Chico, Pastos Chicos, Purmamarca, Susques, Tres Cruces",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -1926,7 +1926,7 @@
     "svspc": "SV",
     "region": "Roraima",
     "districts": "Boa Vista",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -2136,7 +2136,7 @@
     "svspc": "SV",
     "region": "Atacama",
     "districts": "Copiapó",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -2576,7 +2576,7 @@
     "svspc": "SV",
     "region": "Aguascalientes",
     "districts": "Villa Juárez",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -2586,7 +2586,7 @@
     "svspc": "SV",
     "region": "Baja California",
     "districts": "Mexicali",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -3104,8 +3104,8 @@
     "code": "PE",
     "svspc": "SV",
     "region": "Arequipa",
-    "districts": "Arequipa, Mollendo",
-    "publish": "No",
+    "districts": "Mollendo",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -5799,7 +5799,7 @@
     "districts": "Sampit, Palangkaraya, Pangkalan Bun",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
-    "dateend": "2025-06-01T07:00:00.000Z"
+    "dateend": "2025-07-01T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -5809,7 +5809,7 @@
     "districts": "Balikpapan, Banjarmasin",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
-    "dateend": "2025-06-01T07:00:00.000Z"
+    "dateend": "2025-07-01T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -5819,7 +5819,7 @@
     "districts": "Makassar, Pare-pare, Toraja, Maros, Polewali, Palopo",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
-    "dateend": "2025-06-01T07:00:00.000Z"
+    "dateend": "2025-07-01T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -5829,7 +5829,7 @@
     "districts": "Kuala Bangka, Perbaungan, Bagan Batu",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
-    "dateend": "2025-06-01T07:00:00.000Z"
+    "dateend": "2025-07-01T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -5839,7 +5839,7 @@
     "districts": "Pekanbaru, Bengkalis, Kampar",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
-    "dateend": "2025-06-01T07:00:00.000Z"
+    "dateend": "2025-07-01T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -5849,7 +5849,7 @@
     "districts": "Padang, Bukittinggi, Payakumbuh, Solok",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
-    "dateend": "2025-06-01T07:00:00.000Z"
+    "dateend": "2025-07-01T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -5879,7 +5879,7 @@
     "districts": "Bandar Lampung, Metro",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
-    "dateend": "2025-06-01T07:00:00.000Z"
+    "dateend": "2025-07-01T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -5989,7 +5989,7 @@
     "districts": "Ennis",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-01T07:00:00.000Z"
+    "dateend": "2025-07-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6007,7 +6007,7 @@
     "svspc": "SV",
     "region": "Donnegal",
     "districts": "Lifford, Letterkenny",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-01T07:00:00.000Z"
   },
@@ -6047,7 +6047,7 @@
     "svspc": "SV",
     "region": "Kildare",
     "districts": "Naas, Newbridge",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-01T07:00:00.000Z"
   },
@@ -6077,7 +6077,7 @@
     "svspc": "SV",
     "region": "Leitrim",
     "districts": "Carrick-on-Shannon",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-01T07:00:00.000Z"
   },
@@ -6087,7 +6087,7 @@
     "svspc": "SV",
     "region": "Limerick",
     "districts": "Limerick",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-01T07:00:00.000Z"
   },
@@ -6107,7 +6107,7 @@
     "svspc": "SV",
     "region": "Louth",
     "districts": "Dundalk, Drogheda",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-01T07:00:00.000Z"
   },
@@ -6117,7 +6117,7 @@
     "svspc": "SV",
     "region": "Mayo",
     "districts": "Castlebar",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-01T07:00:00.000Z"
   },
@@ -6127,7 +6127,7 @@
     "svspc": "SV",
     "region": "Meath",
     "districts": "Navan",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-01T07:00:00.000Z"
   },
@@ -6137,7 +6137,7 @@
     "svspc": "SV",
     "region": "Monaghan",
     "districts": "Monaghan",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
   },
@@ -6167,7 +6167,7 @@
     "svspc": "SV",
     "region": "Sligo",
     "districts": "Sligo",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-01T07:00:00.000Z"
   },
@@ -6646,7 +6646,7 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Aomori",
-    "districts": "Misawa, Mutsh",
+    "districts": "Misawa, Mutsu",
     "publish": "Yes",
     "datestart": "2025-05-01T07:00:00.000Z",
     "dateend": "2025-07-31T07:00:00.000Z"
@@ -6690,7 +6690,7 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Yamagata",
-    "districts": "Kaminoyama, Nanyo",
+    "districts": "Yamagata, Kaminoyama, Nanyo, Sagae",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-07-31T07:00:00.000Z"
@@ -6700,7 +6700,7 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Gunma",
-    "districts": "Tatebayashi",
+    "districts": "Tatebayashi, Shibukawa",
     "publish": "Yes",
     "datestart": "2025-05-01T07:00:00.000Z",
     "dateend": "2025-07-31T07:00:00.000Z"
@@ -6730,7 +6730,6 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Yamanashi",
-    "districts": "Kofu, Hokuto, Fujiyoshida",
     "publish": "No"
   },
   {
@@ -6748,7 +6747,7 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Chiba",
-    "districts": "Chiba, Funabashi, Matsudo, Narashino",
+    "districts": "Chiba, Funabashi, Matsudo, Narashino, Narita",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-07-31T07:00:00.000Z"
@@ -6823,7 +6822,7 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Gifu",
-    "districts": "Gifu, Ogaki, Mizuho, Nakatsugawa",
+    "districts": "Ogaki, Mizuho, Nakatsugawa, Gujo, Takayama",
     "publish": "Yes",
     "datestart": "2025-02-01T08:00:00.000Z",
     "dateend": "2025-07-31T07:00:00.000Z"
@@ -6907,7 +6906,6 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Okayama",
-    "districts": "Okayama",
     "publish": "No"
   },
   {
@@ -6918,7 +6916,7 @@
     "districts": "Tokushima, Anan",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-07-31T07:00:00.000Z"
+    "dateend": "2025-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7018,7 +7016,7 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Kagoshima",
-    "districts": "Kagoshima, Satsumasendai, Kanoya, Shibushi",
+    "districts": "Kagoshima, Satsumasendai, Kanoya",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-07-31T07:00:00.000Z"
@@ -7498,7 +7496,7 @@
     "region": "Észak-Magyarország",
     "districts": "Borsod-Abaúj-Zemplén, Heves, Nógrád.",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
+    "datestart": "2025-05-01T07:00:00.000Z",
     "dateend": "2025-12-01T08:00:00.000Z"
   },
   {
@@ -7508,7 +7506,7 @@
     "region": "Észak-Alföld",
     "districts": "Hajdú-Bihar, Jász-Nagykun-Szolnok, Szabolcs-Szatmár-Bereg.",
     "publish": "Yes",
-    "datestart": "2025-04-02T07:00:00.000Z",
+    "datestart": "2025-05-01T07:00:00.000Z",
     "dateend": "2025-12-01T08:00:00.000Z"
   },
   {
@@ -7518,7 +7516,7 @@
     "region": "Dél-Alföld",
     "districts": "Bács-Kiskun megye, Csongrád-Csanád megye, Békés megye.",
     "publish": "Yes",
-    "datestart": "2025-04-03T07:00:00.000Z",
+    "datestart": "2025-05-01T07:00:00.000Z",
     "dateend": "2025-12-01T08:00:00.000Z"
   },
   {
@@ -7528,7 +7526,7 @@
     "region": "Közép-Magyarország",
     "districts": "Budapest, Pest megye.\n",
     "publish": "Yes",
-    "datestart": "2025-04-04T07:00:00.000Z",
+    "datestart": "2025-05-01T07:00:00.000Z",
     "dateend": "2025-12-01T08:00:00.000Z"
   },
   {
@@ -7538,7 +7536,7 @@
     "region": "Közép-Dunántúl",
     "districts": "Fejér megye, Komárom-Esztergom megye, Veszprém megye.",
     "publish": "Yes",
-    "datestart": "2025-04-05T07:00:00.000Z",
+    "datestart": "2025-05-01T07:00:00.000Z",
     "dateend": "2025-12-01T08:00:00.000Z"
   },
   {
@@ -7548,7 +7546,7 @@
     "region": "Nyugat-Dunántúl",
     "districts": "Győr-Moson-Sopron megye, Vas megye, Zala megye.",
     "publish": "Yes",
-    "datestart": "2025-04-06T07:00:00.000Z",
+    "datestart": "2025-05-01T07:00:00.000Z",
     "dateend": "2025-12-01T08:00:00.000Z"
   },
   {
@@ -7558,7 +7556,7 @@
     "region": "Dél-Dunántúl",
     "districts": "Baranya megye, Somogy megye, Tolna megye.",
     "publish": "Yes",
-    "datestart": "2025-04-07T07:00:00.000Z",
+    "datestart": "2025-05-01T07:00:00.000Z",
     "dateend": "2025-12-01T08:00:00.000Z"
   },
   {
@@ -8173,7 +8171,7 @@
     "code": "NZ",
     "svspc": "SV",
     "region": "North Island",
-    "districts": "Waiuku, Karaka, Herbertville, Cheltenham, Kalkohe, Masterton, Kokatahi",
+    "districts": "Waiuku, Karaka, Herbertville, Cheltenham, Kalkohe, Masterton, Kokatahi, rotorua",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z"
   },
@@ -8796,19 +8794,9 @@
     "code": "PH",
     "svspc": "SV",
     "region": "Davao Region",
-    "districts": "Monkayo",
+    "districts": "Asuncion",
     "publish": "Yes",
     "datestart": "2025-05-20T07:00:00.000Z",
-    "dateend": "2025-05-31T07:00:00.000Z"
-  },
-  {
-    "country": "Philippines",
-    "code": "PH",
-    "svspc": "SV",
-    "region": "Eastern Visayas",
-    "districts": "Calbayog",
-    "publish": "Yes",
-    "datestart": "2025-05-15T07:00:00.000Z",
     "dateend": "2025-06-13T07:00:00.000Z"
   },
   {
@@ -8816,9 +8804,19 @@
     "code": "PH",
     "svspc": "SV",
     "region": "Eastern Visayas",
-    "districts": "Catbalogan",
+    "districts": "Paranas",
     "publish": "Yes",
-    "datestart": "2025-05-15T07:00:00.000Z",
+    "datestart": "2025-06-01T07:00:00.000Z",
+    "dateend": "2025-06-13T07:00:00.000Z"
+  },
+  {
+    "country": "Philippines",
+    "code": "PH",
+    "svspc": "SV",
+    "region": "Eastern Visayas",
+    "districts": "Dolores",
+    "publish": "Yes",
+    "datestart": "2025-06-01T07:00:00.000Z",
     "dateend": "2025-06-13T07:00:00.000Z"
   },
   {
@@ -11121,7 +11119,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "New Taipei",
-    "districts": "San Chong Qu, Ban Qiao Qu, Zhong He Qu",
+    "districts": "Xin Zhung Qu, Ban Qiao Qu",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -11131,9 +11129,9 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Kee Long",
-    "districts": "Ren Ai Qu, Xi Yi Qu",
-    "publish": "No",
-    "datestart": "2025-03-02T08:00:00.000Z",
+    "districts": "Rui Feng Qu",
+    "publish": "Yes",
+    "datestart": "2025-06-02T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
@@ -11160,9 +11158,9 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Yun Lin County",
-    "districts": "Dou Liu Zhen, Da Pi Xiang, Tai Xi Xiang, ",
-    "publish": "No",
-    "datestart": "2025-02-03T08:00:00.000Z",
+    "districts": "Yuan Chung Xiang, ",
+    "publish": "Yes",
+    "datestart": "2025-06-03T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
@@ -11180,7 +11178,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Tainan",
-    "districts": "Yong Kong Qu, Nan Qu",
+    "districts": "Yong Kong Qu, Bei Qu",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -11216,7 +11214,7 @@
     "code": "TH",
     "svspc": "SV",
     "region": "Central. Northern, Norteasthern, Eastern ",
-    "districts": "Khonkaen, Mahasarakham, Burirum, Chanthaburi, Ang Thong, Singburi, Nong Bua Lam Phu, Pathumthani, Chiang Rai, Chiang Mai, Sukhothai, Phitsanulok, Nakhonratchasima",
+    "districts": "Khonkaen, Mahasarakham, Burirum, Chanthaburi, Ang Thong, Singburi, Nong Bua Lam Phu, Pathumthani, Phitsanulok, Nakhonratchasima, Kamphangphet",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-06-30T07:00:00.000Z"
@@ -11423,6 +11421,16 @@
     "districts": "Belfast, Newry, Omagh, Moygashel, Muckamore",
     "publish": "Yes",
     "datestart": "2025-03-01T08:00:00.000Z",
+    "dateend": "2025-11-30T08:00:00.000Z"
+  },
+  {
+    "country": "United Kingdom",
+    "code": "GB",
+    "svspc": "SV",
+    "region": "Isle of man",
+    "districts": "Isle of man",
+    "publish": "Yes",
+    "datestart": "2025-07-01T07:00:00.000Z",
     "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
@@ -11929,7 +11937,7 @@
     "svspc": "SV",
     "region": "Hawaii",
     "districts": "7 islands",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-05-30T07:00:00.000Z"
   },
