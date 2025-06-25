@@ -23104,7 +23104,7 @@
     "svspc": "SV",
     "region": "Ad Dakhliyah",
     "districts": "Ibri",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-04-01T07:00:00.000Z"
   },
@@ -23114,7 +23114,7 @@
     "svspc": "SV",
     "region": "Adh Dhahirah",
     "districts": "Adam",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-04-01T07:00:00.000Z"
   },
@@ -23124,7 +23124,7 @@
     "svspc": "SV",
     "region": "Adh Dhahirah",
     "districts": "Al Khaburah",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-04-01T07:00:00.000Z"
   },
@@ -23134,7 +23134,7 @@
     "svspc": "SV",
     "region": "Adh Dhahirah",
     "districts": "As Sunaynah",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-04-01T07:00:00.000Z"
   },
@@ -23144,7 +23144,7 @@
     "svspc": "SV",
     "region": "Adh Dhahirah",
     "districts": "Hayma",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-04-01T07:00:00.000Z"
   },
@@ -23154,7 +23154,7 @@
     "svspc": "SV",
     "region": "Al Wusta",
     "districts": "Muqshin",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-04-01T07:00:00.000Z"
   },
@@ -23164,7 +23164,7 @@
     "svspc": "SV",
     "region": "Adh Dhahirah",
     "districts": "Ibri",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-05-01T07:00:00.000Z"
   },
@@ -23174,7 +23174,7 @@
     "svspc": "SV",
     "region": "Al Wusta",
     "districts": "Hayma",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-05-01T07:00:00.000Z"
   },
@@ -23184,7 +23184,7 @@
     "svspc": "SV",
     "region": "Madha-Musandam",
     "districts": "Madha",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-05-01T07:00:00.000Z",
     "dateend": "2025-05-01T07:00:00.000Z"
   },
@@ -23194,7 +23194,7 @@
     "svspc": "SV",
     "region": "Musandam",
     "districts": "Bukha",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-05-01T07:00:00.000Z",
     "dateend": "2025-05-01T07:00:00.000Z"
   },
@@ -23204,7 +23204,7 @@
     "svspc": "SV",
     "region": "Musandam",
     "districts": "Khasab",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-05-01T07:00:00.000Z",
     "dateend": "2025-05-01T07:00:00.000Z"
   },
@@ -24627,5 +24627,125 @@
     "publish": "Yes",
     "datestart": "2025-06-01T07:00:00.000Z",
     "dateend": "2025-06-01T07:00:00.000Z"
+  },
+  {
+    "country": "Vietnam",
+    "code": "VN",
+    "svspc": "SV",
+    "region": "Ba Ria",
+    "districts": "Vũng Tàu",
+    "publish": "Yes",
+    "datestart": "2025-07-01T07:00:00.000Z",
+    "dateend": "2025-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Vietnam",
+    "code": "VN",
+    "svspc": "SV",
+    "region": "Bắc Giang",
+    "districts": "Uông Bí",
+    "publish": "Yes",
+    "datestart": "2025-07-01T07:00:00.000Z",
+    "dateend": "2025-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Vietnam",
+    "code": "VN",
+    "svspc": "SV",
+    "region": "Điện Biên",
+    "districts": "Mường Lay",
+    "publish": "Yes",
+    "datestart": "2025-07-01T07:00:00.000Z",
+    "dateend": "2025-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Vietnam",
+    "code": "VN",
+    "svspc": "SV",
+    "region": "Dong Nai",
+    "districts": "Bien Hoa",
+    "publish": "Yes",
+    "datestart": "2025-07-01T07:00:00.000Z",
+    "dateend": "2025-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Vietnam",
+    "code": "VN",
+    "svspc": "SV",
+    "region": "Dong Nai",
+    "districts": "Long Khanh",
+    "publish": "Yes",
+    "datestart": "2025-07-01T07:00:00.000Z",
+    "dateend": "2025-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Vietnam",
+    "code": "VN",
+    "svspc": "SV",
+    "region": "Dong Nai",
+    "districts": "Võ Xu",
+    "publish": "Yes",
+    "datestart": "2025-07-01T07:00:00.000Z",
+    "dateend": "2025-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Vietnam",
+    "code": "VN",
+    "svspc": "SV",
+    "region": "Ho Chi Minh City",
+    "districts": "Ho Chi Minh City",
+    "publish": "Yes",
+    "datestart": "2025-07-01T07:00:00.000Z",
+    "dateend": "2025-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Vietnam",
+    "code": "VN",
+    "svspc": "SV",
+    "region": "Kien Giang",
+    "districts": "Châu Đốc",
+    "publish": "Yes",
+    "datestart": "2025-07-01T07:00:00.000Z",
+    "dateend": "2025-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Vietnam",
+    "code": "VN",
+    "svspc": "SV",
+    "region": "Lai Châu",
+    "districts": "Mường Lay",
+    "publish": "Yes",
+    "datestart": "2025-07-01T07:00:00.000Z",
+    "dateend": "2025-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Vietnam",
+    "code": "VN",
+    "svspc": "SV",
+    "region": "Ninh Bình",
+    "districts": "Bỉm Sơn",
+    "publish": "Yes",
+    "datestart": "2025-07-01T07:00:00.000Z",
+    "dateend": "2025-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Vietnam",
+    "code": "VN",
+    "svspc": "SV",
+    "region": "Thanh Hóa",
+    "districts": "Tam Điệp",
+    "publish": "Yes",
+    "datestart": "2025-07-01T07:00:00.000Z",
+    "dateend": "2025-09-01T07:00:00.000Z"
+  },
+  {
+    "country": "Vietnam",
+    "code": "VN",
+    "svspc": "SV",
+    "region": "Thanh Hóa",
+    "districts": "Thanh Hóa",
+    "publish": "Yes",
+    "datestart": "2025-07-01T07:00:00.000Z",
+    "dateend": "2025-09-01T07:00:00.000Z"
   }
 ]
