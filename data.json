@@ -1185,7 +1185,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Buenos Aires ",
-    "districts": "9 de Julio, Bahía Blanca, Coronel Pringles, Gral. Villegas, Necochea, Olavarría, Pedro Luro, Pergamino, Sierra de la Ventana",
+    "districts": "Bahía Blanca, Coronel Pringles, Necochea, Olavarría,  Pergamino, Sierra de la Ventana",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1215,7 +1215,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Chubut",
-    "districts": "Alto Río Senguer, Camarones, Comodoro Rivadavia, Corcovado, El Maitén, Gan Gan, Garayalde, Gdor. Costa, Lago Puelo, Puerto Madryn, Puerto Pirámides, Punta Delgada, Punta Ninfas, Rawson, Sarmiento, Telsen, Trevelin",
+    "districts": "Alto Río Senguer, Corcovado, El Maitén, Gan Gan, Garayalde, Gdor. Costa, Lago Puelo, Puerto Madryn, Puerto Pirámides, Punta Delgada, Punta Ninfas, Sarmiento, Telsen, Trevelin",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -2226,7 +2226,7 @@
     "svspc": "SV",
     "region": "Los Rios",
     "districts": "Osorno",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -2466,7 +2466,7 @@
     "svspc": "SV",
     "region": "Caquetá",
     "districts": "El Porvenir,Florencia",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -2486,7 +2486,7 @@
     "svspc": "SV",
     "region": "Cundinamarca",
     "districts": "Apulo,La Dorada,La Esperanza",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -3105,7 +3105,7 @@
     "svspc": "SV",
     "region": "Arequipa",
     "districts": "Mollendo",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
