@@ -11335,7 +11335,7 @@
     "districts": "Lowestoft, Ipswich, Waltham Abbey, Cambridge, Norwich, Kings Lynn, Peterborough, Ely, Colchester, Braintree, Fakenham, Cromer, Chelmsford",
     "publish": "Yes",
     "datestart": "2025-03-01T08:00:00.000Z",
-    "dateend": "2025-11-30T08:00:00.000Z"
+    "dateend": "2025-07-31T07:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -11355,7 +11355,7 @@
     "districts": "Newcastle, Middlesbrough, Durham, Corbridge, Sunderland",
     "publish": "Yes",
     "datestart": "2025-03-01T08:00:00.000Z",
-    "dateend": "2025-11-30T08:00:00.000Z"
+    "dateend": "2025-07-31T07:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -11435,7 +11435,7 @@
     "districts": "Isle of man",
     "publish": "Yes",
     "datestart": "2025-07-01T07:00:00.000Z",
-    "dateend": "2025-11-30T08:00:00.000Z"
+    "dateend": "2025-07-31T07:00:00.000Z"
   },
   {
     "country": "United States",
