@@ -288,7 +288,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "New South Wales",
-    "districts": "Leeton, Darlington point, Springwood, Oakdale, wagga wagga, Inner West, Parramatta, North Sydney, Eastern Suburbs, Northern Beaches, Hills District, City of Sydney, Darlington, Blacktown, Cumberland, Blue Mountains, Hawkesbury, Penrith, Camden, Campbelltown, Fairfield, Liverpool, Wollondilly, Georges River, Canterbury-Bankstown, Sutherland, Bayside, Burwood, Canada Bay, Randwick, Strathfield, Waverley, Woollahra, Hornsby, Hunters Hill, Ku-ring-gai, Lane Cove, Mosman, Ryde, Willoughby, Berkeley, Brownsville, Coniston, Corrimal, Cringila, East Corrimal, Fairy Meadow, Figtree, Gwynneville, Kanahooka, Kembla Grange, Lake Heights, Mangerton, Mount Saint Thomas, North Wollongong, Port Kembla, Primbee, Towradgi, Unanderra, Warrawong, West Wollongong, Windang, Wollongong, Wingecarribee, Central Coast, Cessnock, Lake Macquarie, Mount Annan, Gilgandra, Muswellbrook, Tobooburra, White Cuffs",
+    "districts": "Leeton, Darlington point, Springwood, Oakdale, wagga wagga, Inner West, Parramatta, North Sydney, Eastern Suburbs, Northern Beaches, Hills District, City of Sydney, Darlington, Blacktown, Cumberland, Blue Mountains, Hawkesbury, Penrith, Camden, Campbelltown, Fairfield, Liverpool, Wollondilly, Georges River, Canterbury-Bankstown, Sutherland, Bayside, Burwood, Canada Bay, Randwick, Strathfield, Waverley, Woollahra, Hornsby, Hunters Hill, Ku-ring-gai, Lane Cove, Mosman, Ryde, Willoughby, Berkeley, Brownsville, Coniston, Corrimal, Cringila, East Corrimal, Fairy Meadow, Figtree, Gwynneville, Kanahooka, Kembla Grange, Lake Heights, Mangerton, Mount Saint Thomas, North Wollongong, Port Kembla, Primbee, Towradgi, Unanderra, Warrawong, West Wollongong, Windang, Wollongong, Wingecarribee, Central Coast, Cessnock, Lake Macquarie, Mount Annan, Gilgandra, Muswellbrook, Tobooburra, White Cuffs, Moulamein",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-01T08:00:00.000Z"
@@ -298,7 +298,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "Victoria",
-    "districts": "Rosedale, Toongabbie, Noojee, Bruthen, Paynesville",
+    "districts": "Rosedale, Toongabbie, Noojee, Bruthen, Paynesville, Warburton",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-01T08:00:00.000Z"
@@ -1185,7 +1185,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Buenos Aires ",
-    "districts": "Bahía Blanca, Coronel Pringles, Necochea, Olavarría,  Pergamino, Sierra de la Ventana",
+    "districts": "Tigre, San Isidro, Ezeiza, Cañuelas, Abbott, San Miguel del Monte, San Nicolás de los Arroyo, Pergamino, Miramar, Sierra de la Ventana",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1205,8 +1205,8 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Chaco",
-    "districts": "Formosa, Gral. José de San Martín, Pirané",
-    "publish": "No",
+    "districts": "Sáenz Peña",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -1215,7 +1215,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Chubut",
-    "districts": "Alto Río Senguer, Corcovado, El Maitén, Gan Gan, Garayalde, Gdor. Costa, Lago Puelo, Puerto Madryn, Puerto Pirámides, Punta Delgada, Punta Ninfas, Sarmiento, Telsen, Trevelin",
+    "districts": "Gdor. Costa, Garayalde, Río Mayo, Alto Río Senguer, Trevelín, El Maitén, Puerto Madryn, Puerto Piramides",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1225,7 +1225,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Córdoba",
-    "districts": " Brinkmann, Porteña, San José de Las Salinas, Villa Carlos Paz",
+    "districts": "San Francisco, Villa María, Río Segundo",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1235,7 +1235,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Corrientes",
-    "districts": "Bompland, Esquina,  Pueblo Libertador.",
+    "districts": "Esquina",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1245,7 +1245,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Entre Rios",
-    "districts": "Gualeguay , San Salvador, Ubajay",
+    "districts": "Paraná , San Salvador, Ubajay",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1255,7 +1255,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Formosa",
-    "districts": " Formosa, Fortín Cabo 1° Lugones,Guadalcázar,  Posta Cambio A Zalazar, San Martín N° 2, ",
+    "districts": "Fortín Cabo 1° Lugones, San Martín N° 2, Guadalcázar",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1265,8 +1265,8 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Jujuy",
-    "districts": "Abra Pampa, Aguilar, Cusi Cusi, El Angosto, Humahuaca, Iruya, La Quiaca, Mina Pirquitas, Olaroz Chico, Pastos Chicos, Purmamarca, Susques, Tres Cruces",
-    "publish": "No",
+    "districts": "Yuto, Olaroz Chico, Susques, Pastos Chicos, Catua",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -1275,8 +1275,8 @@
     "code": "AR",
     "svspc": "SV",
     "region": "La Pampa",
-    "districts": "Eduardo Castex, Gral. Acha, Gral. Pico, Santa Isabel, Santa Rosa, Victorica",
-    "publish": "No",
+    "districts": "Realico, El Carancho, Cuchillo Có",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -1285,7 +1285,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "La Rioja",
-    "districts": " Chamical, Chepes, Villa Unión",
+    "districts": "Alto Jaguel, Villa San José de Vinchina, Villa Castelli, Villa Unión, Guandacol",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1295,7 +1295,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Mendoza",
-    "districts": " Luján de Cuyo, Malargüe, Real del Padre",
+    "districts": "La Cortadera, Lonco Vaca",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1305,7 +1305,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Misiones",
-    "districts": "Apóstoles, Puerto Iguazú,",
+    "districts": "Cmte. Andresito, Puerto Libertad, Puerto Esperanza, 25 de Mayo, Apóstoles, Santa Ana",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1315,7 +1315,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Neuquén",
-    "districts": "Añelo, Chos Malal, Neuquén, Rincón de los Sauces, San Carlos de Bariloche, San Martín de los Andes, Villa La Angostura",
+    "districts": "Las Cortaderas, Aguada San Roque, Añelo, Neuquén, Aluminé, Junín de los Andes, Piedra del Águila",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1325,7 +1325,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Rio Negro",
-    "districts": "Bahía Creek, Catriel, El Caín, El Cóndor,, Ingeniero Jacobacci, Maquinchao, San Antonio Oeste, Valcheta, Viedma",
+    "districts": "El Caín, Río Colorado, Gral. Conesa, San Antonio Oeste, San Carlos de Bariloche, Maquinchao",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1335,7 +1335,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Salta",
-    "districts": "Payogasta, San Antonio de los Cobres",
+    "districts": "Salta, Salar de Pocitos, Santa Rosa de los Pastos Grandes",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1345,7 +1345,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "San Juan",
-    "districts": "San José de Jachal, Villa San Isidro",
+    "districts": "Mogna, San José de Cachal, Rodeo",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1375,7 +1375,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Santa Fe",
-    "districts": "Calchaquí, San Francisco, San Javier, San Justo, Sunchales",
+    "districts": "Rosario, Sunchales, Santa Fe de la Vera Cruz",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1385,17 +1385,17 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Santiago del Estero",
-    "districts": "Los Juries,",
+    "districts": "Los Juries",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "Argentina",
     "code": "AR",
     "svspc": "SV",
     "region": "Tierra del Fuego",
-    "districts": "Cullen, Estancia José Menéndez, Estancia Harberton, Estancia La Sara, San Sebastián, Tolhuin, Ushuala",
+    "districts": "San Sebastián, Río Grande, Ushuaia",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1408,7 +1408,7 @@
     "districts": "La Cocha, Taco Ralo",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "Brasil",
@@ -1695,7 +1695,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Amapá",
-    "districts": "Macapá,Tessalonica,Sao joaquim do pacui,",
+    "districts": "Macapá, Tessalonica, Sao Joaquim Do Pacui",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1705,7 +1705,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Amazonas",
-    "districts": "Apuí,Itacoatiara,Manaus,Tabatinga",
+    "districts": "Apuí, Itacoatiara, Manaus, Tabatinga",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1715,7 +1715,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Bahia",
-    "districts": "Banzaê,Barra,Barreiras,Belo Campo,Boquira,Brotas de Macaúbas,Caculé,Caetité,Cândido Sales,Cansanção,Capim Grosso,Eunapolis,Formosa do Rio Preto,Ibiassucê,Ibotirama,Ipupiara,Irecê,Itapetinga,Lagoa Real,Lençóis,Livramento do Brumado,Luis Eduardo Magalhães,Mulungu do Morro,Ninheira,Oliveira dos Brejinhos,Paramirim,Paratinga,Piatã,Ponte Alta do Bom Jesus,Salvador,Santa Helena de Minas,São Desidério,Seabra,Teixeira de Freitas,Trancoso,Umburaninha,,Vila do Café,Vitória da Conquista",
+    "districts": "Banzaê, Barra, Barreiras, Belo Campo, Boquira, Brotas de Macaúbas, Caculé, Caetité, Cândido Sales, Cansanção, Capim Grosso, Eunapolis, Formosa do Rio Preto,Ibiassucê, Ibotirama, Ipupiara, Irecê, Itapetinga, Lagoa Real, Lençóis, Livramento do Brumado, Luis Eduardo Magalhães, Mulungu do Morro, Ninheira, Oliveira dos Brejinhos, Paramirim, Paratinga, Piatã, Ponte Alta do Bom Jesus, Salvador, Santa Helena de Minas, São Desidério, Seabra, Teixeira de Freitas, Trancoso, Umburaninha, Vila do Café, Vitória da Conquista",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -2125,8 +2125,18 @@
     "code": "CL",
     "svspc": "SV",
     "region": "Tarapacá",
-    "districts": "Iquique",
-    "publish": "No",
+    "districts": "Pachica",
+    "publish": "Yes",
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-12-31T08:00:00.000Z"
+  },
+  {
+    "country": "Chile",
+    "code": "CL",
+    "svspc": "SV",
+    "region": "Antofagasta",
+    "districts": "Antofagasta, Tacopilla",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -2135,8 +2145,8 @@
     "code": "CL",
     "svspc": "SV",
     "region": "Atacama",
-    "districts": "Copiapó",
-    "publish": "No",
+    "districts": "Vallenar",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -2148,15 +2158,15 @@
     "districts": "Illapel,Monte Patria,Ovalle",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "Chile",
     "code": "CL",
     "svspc": "SV",
     "region": "Valparaíso",
-    "districts": "Valparaíso",
-    "publish": "No",
+    "districts": "San Antonio",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -2165,7 +2175,7 @@
     "code": "CL",
     "svspc": "SV",
     "region": "Santiago",
-    "districts": "Melipilla,Pudahuel",
+    "districts": "Santiago, Puente Alto",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -2178,14 +2188,14 @@
     "districts": "Rancagua",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "Chile",
     "code": "CL",
     "svspc": "SV",
     "region": "Maule",
-    "districts": "Talca",
+    "districts": "Maule, Curicó",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -2195,7 +2205,7 @@
     "code": "CL",
     "svspc": "SV",
     "region": "Ñuble",
-    "districts": "Chillán",
+    "districts": "Diguillín, Itata",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -2208,7 +2218,7 @@
     "districts": "Los Angeles",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "Chile",
@@ -2228,7 +2238,7 @@
     "districts": "Osorno",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "Chile",
@@ -2246,7 +2256,7 @@
     "svspc": "SV",
     "region": "Aysén",
     "districts": "Coyhaique",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -2446,36 +2456,36 @@
     "svspc": "SV",
     "region": "Amazonas",
     "districts": "Leticia",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "Colombia",
     "code": "CO",
     "svspc": "SV",
     "region": "Caldas",
-    "districts": "La Dorada,Manizales",
+    "districts": "La Dorada, Manizales",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "Colombia",
     "code": "CO",
     "svspc": "SV",
     "region": "Caquetá",
-    "districts": "El Porvenir,Florencia",
+    "districts": "El Porvenir, Florencia",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "Colombia",
     "code": "CO",
     "svspc": "SV",
     "region": "Casanare",
-    "districts": "Paratebueno,Pore,Yopal",
+    "districts": "Paratebueno, Pore, Yopal",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -2485,17 +2495,17 @@
     "code": "CO",
     "svspc": "SV",
     "region": "Cundinamarca",
-    "districts": "Apulo,La Dorada,La Esperanza",
+    "districts": "Apulo, La Dorada, La Esperanza",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "Colombia",
     "code": "CO",
     "svspc": "SV",
     "region": "Huila",
-    "districts": "Neiva,Popayán",
+    "districts": "Neiva, Popayán",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -2508,7 +2518,7 @@
     "districts": "Fonseca",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "Colombia",
@@ -2528,7 +2538,7 @@
     "districts": "Altamira",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "Colombia",
@@ -2538,24 +2548,24 @@
     "districts": "Ocaña",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "Colombia",
     "code": "CO",
     "svspc": "SV",
     "region": "Risaralda",
-    "districts": "Manizales,Pereira",
+    "districts": "Manizales, Pereira",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "Colombia",
     "code": "CO",
     "svspc": "SV",
     "region": "Tolima",
-    "districts": "Ibagué,Neiva",
+    "districts": "Ibagué, Neiva",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -2565,7 +2575,7 @@
     "code": "CO",
     "svspc": "SV",
     "region": "Vichada",
-    "districts": "Cumaribo,El Porvenir,Palmarito,Paratebueno",
+    "districts": "Cumaribo, El Porvenir, Palmarito, Paratebueno",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -2628,7 +2638,7 @@
     "districts": "Hidalgo del Parral, Nuevo Casas Grandes",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "México",
@@ -2638,7 +2648,7 @@
     "districts": "Buenavista, Granada, Polanco, Pueblo de San Juan de Aragon, Roma, Tlatelolco, Villa Gustavo A. Madero",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "México",
@@ -2668,7 +2678,7 @@
     "districts": "Santiago Papasquiaro",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "México",
@@ -2678,7 +2688,7 @@
     "districts": "Toluca",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "México",
@@ -2686,16 +2696,16 @@
     "svspc": "SV",
     "region": "Guanajuato",
     "districts": "San Miguel de Allende, Guanajuato, Irapuato, León de los Aldama",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "México",
     "code": "MX",
     "svspc": "SV",
     "region": "Guerrero",
-    "districts": " Chilapa de Alvarez, Copala, Cruz Grande, San Luis Acatlán, Tlapa de Comonfort, Xochistlahuaca, Zumpango del Rio",
+    "districts": "Chilapa de Alvarez, Copala, Cruz Grande, San Luis Acatlán, Tlapa de Comonfort, Xochistlahuaca, Zumpango del Rio",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -2705,8 +2715,8 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Hidalgo",
-    "districts": "Tula de Allende",
-    "publish": "No",
+    "districts": "Pachuca",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -2715,7 +2725,7 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Jalisco",
-    "districts": " Atotonilco El Alto, Ayotlán",
+    "districts": "Atotonilco El Alto, Ayotlán",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -2736,9 +2746,9 @@
     "svspc": "SV",
     "region": "Morelos",
     "districts": "Cuernavaca, Yecapixtla",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "México",
@@ -2778,14 +2788,14 @@
     "districts": "Tecamachalco, Tepeaca, Tlacotepec de Benito Juárez, Quecholac",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "México",
     "code": "MX",
     "svspc": "SV",
     "region": "Querétaro",
-    "districts": "Dolores Cuadrilla de Enmedio",
+    "districts": "San Juan del Río",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -2796,9 +2806,9 @@
     "svspc": "SV",
     "region": "Quintana Roo",
     "districts": "Puerto Morelos",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "México",
@@ -2806,9 +2816,9 @@
     "svspc": "SV",
     "region": "San Luis Potosí",
     "districts": "Tambaca, Tamasopo",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "México",
@@ -2816,16 +2826,16 @@
     "svspc": "SV",
     "region": "Sinaloa",
     "districts": "Culiacan, Eldorado, Los Mochis, Mazatlán",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "México",
     "code": "MX",
     "svspc": "SV",
     "region": "Sonora",
-    "districts": " Altar, Navojoa, Puerto Libertad, San Luis Río Colorado, Sonoyta",
+    "districts": "Altar, Navojoa, Puerto Libertad, San Luis Río Colorado, Sonoyta",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -2838,17 +2848,17 @@
     "districts": "Villahermosa",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "México",
     "code": "MX",
     "svspc": "SV",
     "region": "Tamaulipas",
-    "districts": " Barretán, Heroica Matamoros, Nuevo Laredo, Reynosa, Soto la Marina, , Villagrán",
-    "publish": "Yes",
+    "districts": "Barretán, Heroica Matamoros, Nuevo Laredo, Reynosa, Soto la Marina, Villagrán",
+    "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "México",
@@ -2858,14 +2868,14 @@
     "districts": "Santa Ana Chiautempan, San Martín Texmelucan de Labastida",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "México",
     "code": "MX",
     "svspc": "SV",
     "region": "Veracruz",
-    "districts": " Naranjos, Perote, Túxpam de Rodríguez Cano, Xalapa",
+    "districts": "Naranjos, Perote, Túxpam de Rodríguez Cano, Xalapa",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -2885,7 +2895,7 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Zacatecas",
-    "districts": " Fresnillo, Ojocaliente, Pinos, ",
+    "districts": "Fresnillo, Ojocaliente, Pinos, ",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -3107,7 +3117,7 @@
     "districts": "Mollendo",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "Peru",
@@ -3125,7 +3135,7 @@
     "svspc": "SV",
     "region": "Chiclayo",
     "districts": "Pimentel, San Jose",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -3155,9 +3165,9 @@
     "svspc": "SV",
     "region": "Cusco",
     "districts": "Aguas Calientes, Ollantaytambo, Pichari",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-07-30T07:00:00.000Z"
   },
   {
     "country": "Peru",
@@ -3184,7 +3194,7 @@
     "code": "PE",
     "svspc": "SV",
     "region": "Lambayeque",
-    "districts": " Lambayeque",
+    "districts": "Lambayeque",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -3258,7 +3268,7 @@
     "districts": "Burin Peninsula-Marystown, South Coast-Channel-Port aux Basques, St. George’s-Stephenville, Humber District-Corner Brook, Central Newfoundland-Grand Falls-Windsor, Bonavista/Trinity-Clarenville, Notre Dame Bay-Lewisporte",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-11-22T08:00:00.000Z"
+    "dateend": "2025-08-01T07:00:00.000Z"
   },
   {
     "country": "Canada",
@@ -3294,7 +3304,7 @@
     "districts": "Pincher Creek, Cardston, Warner, Forty Mile, Cypress, Taber, Lethbridge, Willow Creek, Ranchland, Red Deer, Mountain View, Kneehill, Rocky View, Wheatland, Starland, Newell, Lacombe, Clearwater, Yellowhead, Brazeau, Provost, Grand Prairie, Saddle Hills, Spirit River, Fairview, Clear Hills, Northern Lights, Big Lakes, Lesser Slave River, Woodlands, Opportunity, Athabasca, Bonnyville, Smoky Lake, St. Paul, Lamont, Two Hills, Minburn, Beaver, Flagstaff, Wainwright, Vermillion River, Mackenzie County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-11-22T08:00:00.000Z"
+    "dateend": "2025-08-01T07:00:00.000Z"
   },
   {
     "country": "Canada",
@@ -3303,7 +3313,7 @@
     "districts": "Interlake Region, Eastern Region, Winnipeg Region, Central Region, Parkland, Pembina Valley, Westman, Dauphin",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-11-22T08:00:00.000Z"
+    "dateend": "2025-08-01T07:00:00.000Z"
   },
   {
     "country": "Canada",
@@ -3312,7 +3322,7 @@
     "districts": "Saskatoon, Regina, Yorkton, Melville, Estevan, Weyburn",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-11-22T08:00:00.000Z"
+    "dateend": "2025-08-01T07:00:00.000Z"
   },
   {
     "country": "Canada",
@@ -5869,7 +5879,7 @@
     "districts": "South Tangerang, Tangerang, Balaraja, Kotabumi",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
-    "dateend": "2025-09-30T07:00:00.000Z"
+    "dateend": "2025-07-31T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -5929,7 +5939,7 @@
     "districts": "Mataram, Praya, Labuhan Badjo, Sumbawa",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-09-30T07:00:00.000Z"
+    "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -5939,7 +5949,7 @@
     "districts": "Denpasar, Tabanan, Mengwi, Kuta, Ubud, Karangasem, Amlapura, Petjcatu",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-09-30T07:00:00.000Z"
+    "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -6649,7 +6659,7 @@
     "districts": "Misawa, Mutsu",
     "publish": "Yes",
     "datestart": "2025-05-01T07:00:00.000Z",
-    "dateend": "2025-07-31T07:00:00.000Z"
+    "dateend": "2025-08-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6777,7 +6787,10 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Shizuoka",
-    "publish": "No"
+    "districts": "Hamamatsu, Shinshiro",
+    "publish": "Yes",
+    "datestart": "2025-01-01T08:00:00.000Z",
+    "dateend": "2025-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6872,7 +6885,7 @@
     "districts": "Nara, Yamatokoriyama",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-07-31T07:00:00.000Z"
+    "dateend": "2025-08-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6902,7 +6915,7 @@
     "districts": "Wakayama, Aritagawa",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-07-31T07:00:00.000Z"
+    "dateend": "2025-08-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6941,7 +6954,7 @@
     "districts": "Matsuyama, Ozu",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-07-31T07:00:00.000Z"
+    "dateend": "2025-08-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6965,7 +6978,7 @@
     "districts": "Yamaguchi, Hofu, Shunan",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-07-31T07:00:00.000Z"
+    "dateend": "2025-08-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6975,7 +6988,7 @@
     "districts": "Fukuyama, Hiroshima",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-07-31T07:00:00.000Z"
+    "dateend": "2025-08-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7018,9 +7031,7 @@
     "svspc": "SV",
     "region": "Kagoshima",
     "districts": "Kagoshima, Satsumasendai, Kanoya",
-    "publish": "Yes",
-    "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-07-31T07:00:00.000Z"
+    "publish": "No"
   },
   {
     "country": "Japan",
@@ -8173,7 +8184,7 @@
     "code": "NZ",
     "svspc": "SV",
     "region": "North Island",
-    "districts": "Waiuku, Karaka, Herbertville, Cheltenham, Kalkohe, Masterton, Kokatahi, rotorua, Hamilton, Peel Forest, Palmerston North",
+    "districts": "Waiuku, Karaka, Herbertville, Cheltenham, Kalkohe, Masterton, Kokatahi, rotorua, Hamilton, Peel Forest, Palmerston North, New Plymouth",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z"
   },
@@ -8182,7 +8193,7 @@
     "code": "NZ",
     "svspc": "SV",
     "region": "South Island ",
-    "districts": "Eastern Bush, Gore, Middlemarch, Tauranga, Fox Glacier, Greymouth Hokitika, Rangiora, Little Akaloa, West Port, Plymouth , Fuchsia Creek , Otago Region",
+    "districts": "Eastern Bush, Gore, Middlemarch, Tauranga, Fox Glacier, Greymouth Hokitika, Rangiora, Little Akaloa, West Port, Plymouth , Fuchsia Creek , Otago Region, Maungati",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z"
   },
@@ -8776,20 +8787,20 @@
     "code": "PH",
     "svspc": "SV",
     "region": "Davao Region",
-    "districts": "Davao City",
+    "districts": "Pagadian City",
     "publish": "Yes",
     "datestart": "2025-07-01T07:00:00.000Z",
-    "dateend": "2025-07-19T07:00:00.000Z"
+    "dateend": "2025-08-09T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
     "region": "Davao Region",
-    "districts": "Davao City",
+    "districts": "Alicia",
     "publish": "Yes",
     "datestart": "2025-07-02T07:00:00.000Z",
-    "dateend": "2025-07-19T07:00:00.000Z"
+    "dateend": "2025-08-09T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -8806,10 +8817,10 @@
     "code": "PH",
     "svspc": "SV",
     "region": "Bicol Region",
-    "districts": "Legazpi City",
+    "districts": "Iriga City",
     "publish": "Yes",
     "datestart": "2025-07-01T07:00:00.000Z",
-    "dateend": "2025-08-31T07:00:00.000Z"
+    "dateend": "2025-08-09T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -8819,7 +8830,7 @@
     "districts": "Itogon",
     "publish": "Yes",
     "datestart": "2025-07-01T07:00:00.000Z",
-    "dateend": "2025-07-31T07:00:00.000Z"
+    "dateend": "2025-08-09T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -8829,7 +8840,7 @@
     "districts": "Umingan",
     "publish": "Yes",
     "datestart": "2025-07-01T07:00:00.000Z",
-    "dateend": "2025-07-31T07:00:00.000Z"
+    "dateend": "2025-08-09T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -11160,7 +11171,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Yun Lin County",
-    "districts": "Yuan Zheng Xiang, Si Hu Xiang",
+    "districts": "Dong Shi Xiang, Mai Liao Xiang",
     "publish": "Yes",
     "datestart": "2025-06-03T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -11180,7 +11191,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Tainan",
-    "districts": "Xin Hua Qu, Yong Kang Qu",
+    "districts": "Xin Hua Qu, An Ding Qu",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -11200,7 +11211,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Yilan",
-    "districts": "Lou Dong Zhen, Yi Lan Shi",
+    "districts": "Lou Dong Zhen, Yi Lan Shi, Shu Yu Zhen",
     "publish": "Yes",
     "datestart": "2025-06-16T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -11218,7 +11229,7 @@
     "code": "TH",
     "svspc": "SV",
     "region": "Central. Southern, Norteasthern, Eastern ",
-    "districts": "Lop buri, Amnat Charoen, Yashothorn, Ubon Ratchathani, Ang Thong, Singburi, Nong Bua Lam Phu, Sakhonnakon, Udon thani, Pathumthani, Phitsanulok, Nakhonratchasima, Kamphangphet, Saraburi, Nakhonsithammarat, Suratthani",
+    "districts": "Lop buri, Amnat Charoen, Ubon Ratchathani, Chainat, Nong Bua Lam Phu, Sakhonnakon, Udon thani, Pathumthani, Phitsanulok, Nakhonratchasima, Sukhothai, Saraburi, Nakhonsithammarat, Suratthani, Krabi, Trang",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -11228,7 +11239,7 @@
     "code": "TH",
     "svspc": "3W",
     "region": "Central",
-    "districts": "Samut Prakan, Nakhon phatom",
+    "districts": "Samut Prakan, Nakhon phatom, Suphanburi",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -11703,9 +11714,9 @@
     "svspc": "SV",
     "region": "Georgia",
     "districts": "Fulton, Douglas, Cobb, Cherokee, Paulding, Dekalb, Gwinnett, Rockdale, Henry, Clayton, Camden, Charlton, Toombs, Montgomery, Wheeler, Telfair, Jeff David, Appling, Tattnall, Evans, Candler, Bulloch, McDuffie, Columbia, Richmond, Warren, Glascock, Jefferson, Burke, Catoosa, Whitfield, Murray, Fannin, Rabun,Walker, Dade, Chattooga, Gordon, Floyd, Polk, Pickens, Dawson, Lumpkin, Gilmer, Carroll, Clay, Early, Seminole, Miller, Decatur, Grady, Thomas, Colquitt, Mitchell, Worth, Dougherty, Macon, Dooly, Houston, Peach, Pulaski, Bleckley, Twiggs",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "dateend": "2025-12-31T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11713,9 +11724,9 @@
     "svspc": "SV",
     "region": "Louisiana",
     "districts": "Caddo, Bossier, Webster, Claiborne, Bienville, Red River, De Soto, Jackson, Winn, St. Bernard, Plaquemines, Jefferson, LaFourche, St. Charles, Orleans, Washington, St. Tammany, Tangipahoa, St Landry, Pointe Coupee, Iberville, East Baton Rouge, West Baton Rouge, West Feliciana, Cameron, Calcasieu, Acadia, Beauregard, Vernon, Sabine, Madison, Richland, Tensas, Franklin",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "dateend": "2025-12-31T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11723,9 +11734,9 @@
     "svspc": "SV",
     "region": "Oklahoma",
     "districts": "Oklahoma, Cleveland, Lincoln, Tulsa, Wagoner, Okmulgee, Cherokee, Adair, Delaware, Canadian, Blaine, Caddo, Cimarrion, Kay, Grant, Noble, Garfield, Harmon, Tillman, Kiowa, Jackson, Cotton, Comanche, Le Flore, Beckham, Roger Mills, Custer, Washita, Chocktaw, Bryan, Okfuskee, Creek, McIntosh, Hughes, Muskogee, Sequoyah",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "dateend": "2025-12-31T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11853,9 +11864,9 @@
     "svspc": "SV",
     "region": "Arkansas",
     "districts": "Pulaski, Saline, Perry, Conway, Faulkner, White, Lonoke, Prairie, Jefferson, Benton, Washington, Madison, Carroll, Franklin, Johnson, Newton, Searcy, Pope, Van Buren, Stone, Cleburne, Fulton, Sharp, Izard, Baxter, Randolph, Lawrence, Independence, Jackson, White, Woodruff, Prairie, Monroe, Arkansas, Phillips, Desha, Chicot, Ashley, Drew, Lincoln, Little River, Miller, Hempstead, Lafayette, Columbia, Nevada, Union, Calhoun, Ouachita, Clark, Pike, Howard, Polk",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-05-01T07:00:00.000Z"
+    "dateend": "2025-12-31T08:00:00.000Z"
   },
   {
     "country": "United States",
