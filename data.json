@@ -250,7 +250,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "Western Australia",
-    "districts": "Yanchep, Guilderton, Toodyay, wannamal, dowerin, Wyankatchem, Wattoning, Yealering, Southen Cross, Karridale, Darradup, Hamelin Bay, Toodyay, Beacon, Lake Jasper, Juna downs",
+    "districts": "Yanchep, Guilderton, Toodyay, wannamal, dowerin, Wyankatchem, Wattoning, Yealering, Southen Cross, Karridale, Darradup, Hamelin Bay, Toodyay, Beacon, Lake Jasper, Juna downs, Pingrup",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z"
   },
@@ -288,7 +288,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "New South Wales",
-    "districts": "Leeton, Darlington point, Springwood, Oakdale, wagga wagga, Inner West, Parramatta, North Sydney, Eastern Suburbs, Northern Beaches, Hills District, City of Sydney, Darlington, Blacktown, Cumberland, Blue Mountains, Hawkesbury, Penrith, Camden, Campbelltown, Fairfield, Liverpool, Wollondilly, Georges River, Canterbury-Bankstown, Sutherland, Bayside, Burwood, Canada Bay, Randwick, Strathfield, Waverley, Woollahra, Hornsby, Hunters Hill, Ku-ring-gai, Lane Cove, Mosman, Ryde, Willoughby, Berkeley, Brownsville, Coniston, Corrimal, Cringila, East Corrimal, Fairy Meadow, Figtree, Gwynneville, Kanahooka, Kembla Grange, Lake Heights, Mangerton, Mount Saint Thomas, North Wollongong, Port Kembla, Primbee, Towradgi, Unanderra, Warrawong, West Wollongong, Windang, Wollongong, Wingecarribee, Central Coast, Cessnock, Lake Macquarie, Mount Annan, Gilgandra, Muswellbrook, Tobooburra, White Cuffs, Moulamein",
+    "districts": "Leeton, Darlington point, Springwood, Oakdale, wagga wagga, Inner West, Parramatta, North Sydney, Eastern Suburbs, Northern Beaches, Hills District, City of Sydney, Darlington, Blacktown, Cumberland, Blue Mountains, Hawkesbury, Penrith, Camden, Campbelltown, Fairfield, Liverpool, Wollondilly, Georges River, Canterbury-Bankstown, Sutherland, Bayside, Burwood, Canada Bay, Randwick, Strathfield, Waverley, Woollahra, Hornsby, Hunters Hill, Ku-ring-gai, Lane Cove, Mosman, Ryde, Willoughby, Berkeley, Brownsville, Coniston, Corrimal, Cringila, East Corrimal, Fairy Meadow, Figtree, Gwynneville, Kanahooka, Kembla Grange, Lake Heights, Mangerton, Mount Saint Thomas, North Wollongong, Port Kembla, Primbee, Towradgi, Unanderra, Warrawong, West Wollongong, Windang, Wollongong, Wingecarribee, Central Coast, Cessnock, Lake Macquarie, Mount Annan, Gilgandra, Muswellbrook, Tobooburra, White Cuffs, Moulamein, Casino",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-01T08:00:00.000Z"
@@ -1355,7 +1355,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "San Luis",
-    "districts": " Quines",
+    "districts": "Quines",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -3105,7 +3105,7 @@
     "svspc": "SV",
     "region": "Apurimac",
     "districts": "Abancay, Huanicapa",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -3135,7 +3135,7 @@
     "svspc": "SV",
     "region": "Chiclayo",
     "districts": "Pimentel, San Jose",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -3195,7 +3195,7 @@
     "svspc": "SV",
     "region": "Lambayeque",
     "districts": "Lambayeque",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -3266,9 +3266,9 @@
     "code": "CA",
     "region": "Newfoundland and Labrador",
     "districts": "Burin Peninsula-Marystown, South Coast-Channel-Port aux Basques, St. George’s-Stephenville, Humber District-Corner Brook, Central Newfoundland-Grand Falls-Windsor, Bonavista/Trinity-Clarenville, Notre Dame Bay-Lewisporte",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-08-01T07:00:00.000Z"
+    "dateend": "2025-07-31T07:00:00.000Z"
   },
   {
     "country": "Canada",
@@ -3304,7 +3304,7 @@
     "districts": "Pincher Creek, Cardston, Warner, Forty Mile, Cypress, Taber, Lethbridge, Willow Creek, Ranchland, Red Deer, Mountain View, Kneehill, Rocky View, Wheatland, Starland, Newell, Lacombe, Clearwater, Yellowhead, Brazeau, Provost, Grand Prairie, Saddle Hills, Spirit River, Fairview, Clear Hills, Northern Lights, Big Lakes, Lesser Slave River, Woodlands, Opportunity, Athabasca, Bonnyville, Smoky Lake, St. Paul, Lamont, Two Hills, Minburn, Beaver, Flagstaff, Wainwright, Vermillion River, Mackenzie County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-08-01T07:00:00.000Z"
+    "dateend": "2025-08-31T07:00:00.000Z"
   },
   {
     "country": "Canada",
@@ -3313,7 +3313,7 @@
     "districts": "Interlake Region, Eastern Region, Winnipeg Region, Central Region, Parkland, Pembina Valley, Westman, Dauphin",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-08-01T07:00:00.000Z"
+    "dateend": "2025-08-31T07:00:00.000Z"
   },
   {
     "country": "Canada",
@@ -3322,7 +3322,7 @@
     "districts": "Saskatoon, Regina, Yorkton, Melville, Estevan, Weyburn",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-08-01T07:00:00.000Z"
+    "dateend": "2025-08-31T07:00:00.000Z"
   },
   {
     "country": "Canada",
@@ -6646,7 +6646,7 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Hokkaido",
-    "districts": "Sapporo, Iwashimizu, Kushiro, Nakashibetsu, Obihiro, Tomakomai, Muroran",
+    "districts": "Sapporo, Obihiro, Tomakomai, Muroran",
     "publish": "Yes",
     "datestart": "2025-05-01T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -6656,10 +6656,7 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Aomori",
-    "districts": "Misawa, Mutsu",
-    "publish": "Yes",
-    "datestart": "2025-05-01T07:00:00.000Z",
-    "dateend": "2025-08-31T07:00:00.000Z"
+    "publish": "No"
   },
   {
     "country": "Japan",
@@ -6713,7 +6710,7 @@
     "districts": "Tatebayashi, Shibukawa",
     "publish": "Yes",
     "datestart": "2025-05-01T07:00:00.000Z",
-    "dateend": "2025-08-31T07:00:00.000Z"
+    "dateend": "2025-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6723,7 +6720,7 @@
     "districts": "Mito, Ibaraki, Kasama, Hitachiomiya, Hitachiota",
     "publish": "Yes",
     "datestart": "2025-03-31T07:00:00.000Z",
-    "dateend": "2025-08-31T07:00:00.000Z"
+    "dateend": "2025-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6733,7 +6730,7 @@
     "districts": "Nasushiobara, Otawara, Ashikaga",
     "publish": "Yes",
     "datestart": "2025-05-01T07:00:00.000Z",
-    "dateend": "2025-08-31T07:00:00.000Z"
+    "dateend": "2025-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6750,7 +6747,7 @@
     "districts": "Asaka, Niza, Kazo, Hanyu",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-08-31T07:00:00.000Z"
+    "dateend": "2025-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6760,7 +6757,7 @@
     "districts": "Chiba, Funabashi, Matsudo, Narashino, Narita",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-08-31T07:00:00.000Z"
+    "dateend": "2025-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6770,7 +6767,7 @@
     "districts": "NishiTokyo, Kunitachi, Tachikawa, Hachioji",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-08-31T07:00:00.000Z"
+    "dateend": "2025-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6807,7 +6804,7 @@
     "districts": "Minamiuonuma, Uonuma",
     "publish": "Yes",
     "datestart": "2025-06-01T07:00:00.000Z",
-    "dateend": "2025-08-31T07:00:00.000Z"
+    "dateend": "2025-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6817,7 +6814,7 @@
     "districts": "Echizen, Sabae, Tsuruga, Ono, Katsuyama",
     "publish": "Yes",
     "datestart": "2025-06-01T07:00:00.000Z",
-    "dateend": "2025-08-31T07:00:00.000Z"
+    "dateend": "2025-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6851,7 +6848,7 @@
     "districts": "Nagoya, Seto, Kasugai, Komaki",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-08-31T07:00:00.000Z"
+    "dateend": "2025-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6885,7 +6882,7 @@
     "districts": "Nara, Yamatokoriyama",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-08-31T07:00:00.000Z"
+    "dateend": "2025-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6915,7 +6912,7 @@
     "districts": "Wakayama, Aritagawa",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-08-31T07:00:00.000Z"
+    "dateend": "2025-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6929,7 +6926,6 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Tokushima",
-    "districts": "Tokushima, Anan",
     "publish": "No"
   },
   {
@@ -6951,10 +6947,7 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Ehime",
-    "districts": "Matsuyama, Ozu",
-    "publish": "Yes",
-    "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-08-31T07:00:00.000Z"
+    "publish": "No"
   },
   {
     "country": "Japan",
@@ -6978,17 +6971,14 @@
     "districts": "Yamaguchi, Hofu, Shunan",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-08-31T07:00:00.000Z"
+    "dateend": "2025-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Hiroshima",
-    "districts": "Fukuyama, Hiroshima",
-    "publish": "Yes",
-    "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-08-31T07:00:00.000Z"
+    "publish": "No"
   },
   {
     "country": "Japan",
@@ -8786,30 +8776,20 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Davao Region",
-    "districts": "Pagadian City",
+    "region": "Western Visayas",
+    "districts": "Roxas City",
     "publish": "Yes",
-    "datestart": "2025-07-01T07:00:00.000Z",
-    "dateend": "2025-08-09T07:00:00.000Z"
+    "datestart": "2025-08-13T07:00:00.000Z",
+    "dateend": "2025-08-31T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Davao Region",
-    "districts": "Alicia",
+    "region": "Western Visayas",
+    "districts": "Dumarao",
     "publish": "Yes",
-    "datestart": "2025-07-02T07:00:00.000Z",
-    "dateend": "2025-08-09T07:00:00.000Z"
-  },
-  {
-    "country": "Philippines",
-    "code": "PH",
-    "svspc": "SV",
-    "region": "Bicol Region",
-    "districts": "Naga City",
-    "publish": "Yes",
-    "datestart": "2025-07-02T07:00:00.000Z",
+    "datestart": "2025-08-13T07:00:00.000Z",
     "dateend": "2025-08-31T07:00:00.000Z"
   },
   {
@@ -8817,29 +8797,39 @@
     "code": "PH",
     "svspc": "SV",
     "region": "Bicol Region",
-    "districts": "Iriga City",
+    "districts": "Caramoan",
     "publish": "Yes",
-    "datestart": "2025-07-01T07:00:00.000Z",
+    "datestart": "2025-08-11T07:00:00.000Z",
+    "dateend": "2025-08-31T07:00:00.000Z"
+  },
+  {
+    "country": "Philippines",
+    "code": "PH",
+    "svspc": "SV",
+    "region": "Bicol Region",
+    "districts": "Ligao",
+    "publish": "Yes",
+    "datestart": "2025-08-11T07:00:00.000Z",
     "dateend": "2025-08-09T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Ilocos Region",
-    "districts": "Itogon",
+    "region": "Central Luzon",
+    "districts": "Tarlac City",
     "publish": "Yes",
-    "datestart": "2025-07-01T07:00:00.000Z",
+    "datestart": "2025-08-10T07:00:00.000Z",
     "dateend": "2025-08-09T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Ilocos Region",
-    "districts": "Umingan",
+    "region": "Central Luzon",
+    "districts": "Mangatarem",
     "publish": "Yes",
-    "datestart": "2025-07-01T07:00:00.000Z",
+    "datestart": "2025-08-10T07:00:00.000Z",
     "dateend": "2025-08-09T07:00:00.000Z"
   },
   {
@@ -11171,7 +11161,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Yun Lin County",
-    "districts": "Bao Zheng Xiang",
+    "districts": "Mai Liao Xiang, Lun Bai Xiang",
     "publish": "Yes",
     "datestart": "2025-06-03T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -11191,7 +11181,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Tainan",
-    "districts": "Yong Kong Qu",
+    "districts": "Xin Shi Qu",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -11211,7 +11201,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Yilan",
-    "districts": "Lou Dong Zhen, Yi Lan Shi, Shu Yu Zhen",
+    "districts": "Lou Dong Zhen, Yi Lan Shi,",
     "publish": "Yes",
     "datestart": "2025-06-16T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -11221,7 +11211,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Hualian",
-    "districts": "Xin Cheng Xiang",
+    "districts": "Xin Cheng Xiang, Xiu Lin Xiang",
     "publish": "Yes",
     "datestart": "2025-08-04T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -11231,7 +11221,7 @@
     "code": "TH",
     "svspc": "SV",
     "region": "Central. Southern, Norteasthern, Eastern ",
-    "districts": "Lop buri, Amnat Charoen, Ubon Ratchathani, Chainat, Nong Bua Lam Phu, Sakhonnakon, Udon thani, Pathumthani, Phitsanulok, Nakhonratchasima, Sukhothai, Saraburi, Nakhonsithammarat, Suratthani, Krabi, Trang",
+    "districts": "Lop buri, Khonkean, Chainat, Nong Bua Lam Phu, Sakhonnakon, Udon thani, Pathumthani, Phitsanulok, Nakhonratchasima, Sukhothai, Saraburi, Nakhonsithammarat, Suratthani, Krabi, Trang",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
