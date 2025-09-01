@@ -250,7 +250,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "Western Australia",
-    "districts": "Yanchep, Guilderton, Toodyay, wannamal, dowerin, Wyankatchem, Wattoning, Yealering, Southen Cross, Karridale, Darradup, Hamelin Bay, Toodyay, Beacon, Lake Jasper, Juna downs, Pingrup",
+    "districts": "Yanchep, Guilderton, Toodyay, wannamal, dowerin, Wyankatchem, Wattoning, Yealering, Southen Cross, Karridale, Darradup, Hamelin Bay, Toodyay, Beacon, Lake Jasper, Juna downs, Pingrup, Cranbrook",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z"
   },
@@ -259,7 +259,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "Australian Capital Territory",
-    "districts": "Krawarree , Braidwood, Windellama",
+    "districts": "Krawarree , Braidwood, Windellama, Bungendore",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z"
   },
@@ -278,7 +278,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "Queensland",
-    "districts": "Kilcoy, Maleny, Gympie, Mackay, Mirani, Croydon, Dimbulah, Petford, Herberton, Tully, Helensvale, Toowoomba, burktown",
+    "districts": "Kilcoy, Maleny, Gympie, Mackay, Mirani, Croydon, Dimbulah, Petford, Herberton, Tully, Helensvale, Toowoomba, burktown,  MacKenzie River, Charleville",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-01T08:00:00.000Z"
@@ -288,7 +288,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "New South Wales",
-    "districts": "Leeton, Darlington point, Springwood, Oakdale, wagga wagga, Inner West, Parramatta, North Sydney, Eastern Suburbs, Northern Beaches, Hills District, City of Sydney, Darlington, Blacktown, Cumberland, Blue Mountains, Hawkesbury, Penrith, Camden, Campbelltown, Fairfield, Liverpool, Wollondilly, Georges River, Canterbury-Bankstown, Sutherland, Bayside, Burwood, Canada Bay, Randwick, Strathfield, Waverley, Woollahra, Hornsby, Hunters Hill, Ku-ring-gai, Lane Cove, Mosman, Ryde, Willoughby, Berkeley, Brownsville, Coniston, Corrimal, Cringila, East Corrimal, Fairy Meadow, Figtree, Gwynneville, Kanahooka, Kembla Grange, Lake Heights, Mangerton, Mount Saint Thomas, North Wollongong, Port Kembla, Primbee, Towradgi, Unanderra, Warrawong, West Wollongong, Windang, Wollongong, Wingecarribee, Central Coast, Cessnock, Lake Macquarie, Mount Annan, Gilgandra, Muswellbrook, Tobooburra, White Cuffs, Moulamein, Casino",
+    "districts": "Leeton, Darlington point, Springwood, Oakdale, wagga wagga, Inner West, Parramatta, North Sydney, Eastern Suburbs, Northern Beaches, Hills District, City of Sydney, Darlington, Blacktown, Cumberland, Blue Mountains, Hawkesbury, Penrith, Camden, Campbelltown, Fairfield, Liverpool, Wollondilly, Georges River, Canterbury-Bankstown, Sutherland, Bayside, Burwood, Canada Bay, Randwick, Strathfield, Waverley, Woollahra, Hornsby, Hunters Hill, Ku-ring-gai, Lane Cove, Mosman, Ryde, Willoughby, Berkeley, Brownsville, Coniston, Corrimal, Cringila, East Corrimal, Fairy Meadow, Figtree, Gwynneville, Kanahooka, Kembla Grange, Lake Heights, Mangerton, Mount Saint Thomas, North Wollongong, Port Kembla, Primbee, Towradgi, Unanderra, Warrawong, West Wollongong, Windang, Wollongong, Wingecarribee, Central Coast, Cessnock, Lake Macquarie, Mount Annan, Gilgandra, Muswellbrook, Tobooburra, White Cuffs, Moulamein, Casino, Ganmain",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-01T08:00:00.000Z"
@@ -317,7 +317,7 @@
     "country": "Australia",
     "code": "AU",
     "svspc": "SV",
-    "region": "Cairns ",
+    "region": "Cairns",
     "districts": "Mount Carbine, Palm Cove, Hurricane",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z"
@@ -407,7 +407,7 @@
     "code": "AT",
     "svspc": "SV",
     "region": "Vorarlberg",
-    "districts": "Bludenz, Bregenz, Dornbirn, Feldkirch, Hohenems. ",
+    "districts": "Bludenz, Bregenz, Dornbirn, Feldkirch, Hohenems.",
     "publish": "Yes",
     "datestart": "2025-03-01T08:00:00.000Z",
     "dateend": "2025-11-13T08:00:00.000Z"
@@ -1184,7 +1184,7 @@
     "country": "Argentina",
     "code": "AR",
     "svspc": "SV",
-    "region": "Buenos Aires ",
+    "region": "Buenos Aires",
     "districts": "Tigre, San Isidro, Ezeiza, Cañuelas, Abbott, San Miguel del Monte, San Nicolás de los Arroyo, Pergamino, Miramar, Sierra de la Ventana",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
@@ -2304,7 +2304,7 @@
     "country": "Colombia",
     "code": "CO",
     "svspc": "SV",
-    "region": "Boyacá ",
+    "region": "Boyacá",
     "districts": "Tunja",
     "publish": "No",
     "datestart": "2024-01-01T08:00:00.000Z",
@@ -2895,7 +2895,7 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Zacatecas",
-    "districts": "Fresnillo, Ojocaliente, Pinos, ",
+    "districts": "Fresnillo, Ojocaliente, Pinos,",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -4893,7 +4893,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Drežnica, Ogulin",
-    "districts": "Primorje-Gorski Kotar ",
+    "districts": "Primorje-Gorski Kotar",
     "publish": "Yes",
     "datestart": "2025-04-04T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -4903,7 +4903,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Drežnik Grad",
-    "districts": "Lika-Senj , Primorje-Gorski Kotar, Lika-Senj ",
+    "districts": "Lika-Senj , Primorje-Gorski Kotar, Lika-Senj",
     "publish": "Yes",
     "datestart": "2025-04-05T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -4913,7 +4913,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Drniš",
-    "districts": "Šibenik-Knin ",
+    "districts": "Šibenik-Knin",
     "publish": "Yes",
     "datestart": "2025-04-06T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -4943,7 +4943,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Gospić",
-    "districts": "Lika-Senj County ",
+    "districts": "Lika-Senj County",
     "publish": "Yes",
     "datestart": "2025-04-09T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -4953,7 +4953,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Goveđari",
-    "districts": "Dubrovnik-Neretva ",
+    "districts": "Dubrovnik-Neretva",
     "publish": "Yes",
     "datestart": "2025-04-10T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -4963,7 +4963,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Gračac",
-    "districts": "Lika-Senj County,  Zadar County ",
+    "districts": "Lika-Senj County,  Zadar County",
     "publish": "Yes",
     "datestart": "2025-04-11T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -5003,7 +5003,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Karlovac",
-    "districts": "Karlovac County ",
+    "districts": "Karlovac County",
     "publish": "Yes",
     "datestart": "2025-04-02T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -5023,7 +5023,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Komiža",
-    "districts": "Split-Dalmatia County ",
+    "districts": "Split-Dalmatia County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -5043,7 +5043,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Kornati",
-    "districts": "Šibenik-Knin County ",
+    "districts": "Šibenik-Knin County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -5063,7 +5063,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Krk",
-    "districts": "Primorje-Gorski Kotar County ",
+    "districts": "Primorje-Gorski Kotar County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -5073,7 +5073,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Kutina",
-    "districts": "Bjelovar-Bilogora County, Sisak-Moslavina County, Bjelovar-Bilogora County ",
+    "districts": "Bjelovar-Bilogora County, Sisak-Moslavina County, Bjelovar-Bilogora County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -5093,7 +5093,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Mali Losinj",
-    "districts": "Primorje-Gorski Kotar County ",
+    "districts": "Primorje-Gorski Kotar County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -5123,7 +5123,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Ogulin",
-    "districts": "Karlovac County, Primorje-Gorski Kotar County ",
+    "districts": "Karlovac County, Primorje-Gorski Kotar County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -5133,7 +5133,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Orahovica",
-    "districts": "Osijek-Baranja County ",
+    "districts": "Osijek-Baranja County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -5143,7 +5143,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Osijek",
-    "districts": "Osijek-Baranja County ",
+    "districts": "Osijek-Baranja County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -5153,7 +5153,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Pag",
-    "districts": "Zadar County, Lika-Senj County ",
+    "districts": "Zadar County, Lika-Senj County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -5173,7 +5173,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Pazin",
-    "districts": "Istria County ",
+    "districts": "Istria County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -5193,7 +5193,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Pitomača",
-    "districts": "Koprivnica-Križevci County ",
+    "districts": "Koprivnica-Križevci County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -5203,7 +5203,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Plavno, Croatia",
-    "districts": "Zadar County ",
+    "districts": "Zadar County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -5233,7 +5233,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Pula",
-    "districts": "Istria County ",
+    "districts": "Istria County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -5253,7 +5253,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Rovinj",
-    "districts": "Istria County ",
+    "districts": "Istria County",
     "publish": "Yes",
     "datestart": "2025-04-03T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -5283,7 +5283,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Šibenik",
-    "districts": "Šibenik-Knin County ",
+    "districts": "Šibenik-Knin County",
     "publish": "Yes",
     "datestart": "2025-04-06T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -5343,7 +5343,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Slunj",
-    "districts": "Karlovac County ",
+    "districts": "Karlovac County",
     "publish": "Yes",
     "datestart": "2025-04-12T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -5353,7 +5353,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Sošice",
-    "districts": "Karlovac County ",
+    "districts": "Karlovac County",
     "publish": "Yes",
     "datestart": "2025-04-13T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -5393,7 +5393,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Valpovo",
-    "districts": "Osijek-Baranja County ",
+    "districts": "Osijek-Baranja County",
     "publish": "Yes",
     "datestart": "2025-04-17T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -5423,7 +5423,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Vinkovci",
-    "districts": "Osijek-Baranja County, Vukovar-Srijem County ",
+    "districts": "Osijek-Baranja County, Vukovar-Srijem County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -5443,7 +5443,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Virovitica",
-    "districts": "Bjelovar-Bilogora County, Virovitica-Podravina County ",
+    "districts": "Bjelovar-Bilogora County, Virovitica-Podravina County",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -5562,7 +5562,7 @@
     "country": "Hrvatska",
     "code": "HR",
     "svspc": "SV",
-    "region": "Croatia proper ",
+    "region": "Croatia proper",
     "districts": "Zagreb,  Lika, Gorski Kotar, Zagorje, Međimurje, the Croatian Littoral, Podravina, Posavina, Kordun, Banovina, Prigorje, Turopolje, Moslavina, Žumberak",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
@@ -5622,7 +5622,7 @@
     "country": "Hrvatska",
     "code": "HR",
     "svspc": "SV",
-    "region": "Lika-Senj ",
+    "region": "Lika-Senj",
     "districts": "Senj, Gospic, Otočac",
     "publish": "Yes",
     "datestart": "2025-04-02T07:00:00.000Z",
@@ -5859,7 +5859,7 @@
     "districts": "Padang, Bukittinggi, Payakumbuh, Solok",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
-    "dateend": "2025-12-02T08:00:00.000Z"
+    "dateend": "2025-10-02T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -5896,10 +5896,10 @@
     "code": "ID",
     "svspc": "SV",
     "region": "West Java",
-    "districts": "Bekasi, Bogor, Depok, Garut, Banjar, Sukabumi, ",
+    "districts": "Bekasi, Bogor, Depok, Garut, Banjar, Sukabumi,",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
-    "dateend": "2025-12-02T08:00:00.000Z"
+    "dateend": "2025-10-02T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -5959,7 +5959,7 @@
     "districts": "Manado, Airmadidi, Tomohon, Tondano",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-12-02T08:00:00.000Z"
+    "dateend": "2025-10-02T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -5969,7 +5969,7 @@
     "districts": "Kendari, Ampana, Malili",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-12-02T08:00:00.000Z"
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -6248,7 +6248,7 @@
     "region": "אשדוד",
     "districts": "אשדוד",
     "publish": "No",
-    "datestart": "29/11/18 ",
+    "datestart": "29/11/18",
     "dateend": "2018-02-12T08:00:00.000Z"
   },
   {
@@ -6764,7 +6764,7 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Tokyo",
-    "districts": "NishiTokyo, Kunitachi, Tachikawa, Hachioji",
+    "districts": "Tokyo",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-09-30T07:00:00.000Z"
@@ -6794,7 +6794,10 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Nagano",
-    "publish": "No"
+    "districts": "Suwa",
+    "publish": "No",
+    "datestart": "2025-09-30T07:00:00.000Z",
+    "dateend": "2025-09-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7020,7 +7023,6 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Kagoshima",
-    "districts": "Kagoshima, Satsumasendai, Kanoya",
     "publish": "No"
   },
   {
@@ -7336,7 +7338,7 @@
     "country": "Lithuania",
     "code": "LT",
     "svspc": "SV",
-    "region": "Panevėžys County ",
+    "region": "Panevėžys County",
     "districts": "Panevėžys, Molainiai, Velžys, Upytė, Naujamiestis",
     "publish": "Yes",
     "datestart": "2025-03-13T07:00:00.000Z",
@@ -7356,7 +7358,7 @@
     "country": "Lithuania",
     "code": "LT",
     "svspc": "SV",
-    "region": "Šiauliai ",
+    "region": "Šiauliai",
     "districts": "Joniškis",
     "publish": "Yes",
     "datestart": "2025-03-13T07:00:00.000Z",
@@ -7376,7 +7378,7 @@
     "country": "Lithuania",
     "code": "LT",
     "svspc": "SV",
-    "region": "Šiauliai County ",
+    "region": "Šiauliai County",
     "districts": "Maliai, Kuršėnai, Gruzdžiai",
     "publish": "Yes",
     "datestart": "2025-03-13T07:00:00.000Z",
@@ -7567,7 +7569,7 @@
     "code": "my",
     "svspc": "SV-spc",
     "region": "Kuala Lampur",
-    "districts": " Kuala Lumpur ",
+    "districts": " Kuala Lumpur",
     "publish": "No",
     "datestart": "2020-01-01T08:00:00.000Z",
     "dateend": "2020-12-31T08:00:00.000Z"
@@ -8182,7 +8184,7 @@
     "country": "New Zealand",
     "code": "NZ",
     "svspc": "SV",
-    "region": "South Island ",
+    "region": "South Island",
     "districts": "Eastern Bush, Gore, Middlemarch, Tauranga, Fox Glacier, Greymouth Hokitika, Rangiora, Little Akaloa, West Port, Plymouth , Fuchsia Creek , Otago Region, Maungati",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z"
@@ -8777,7 +8779,7 @@
     "code": "PH",
     "svspc": "SV",
     "region": "Western Visayas",
-    "districts": "Roxas City",
+    "districts": "Jamindan",
     "publish": "Yes",
     "datestart": "2025-08-13T07:00:00.000Z",
     "dateend": "2025-08-31T07:00:00.000Z"
@@ -8787,7 +8789,7 @@
     "code": "PH",
     "svspc": "SV",
     "region": "Western Visayas",
-    "districts": "Dumarao",
+    "districts": "Kalibo",
     "publish": "Yes",
     "datestart": "2025-08-13T07:00:00.000Z",
     "dateend": "2025-08-31T07:00:00.000Z"
@@ -8820,7 +8822,7 @@
     "districts": "Tarlac City",
     "publish": "Yes",
     "datestart": "2025-08-10T07:00:00.000Z",
-    "dateend": "2025-08-09T07:00:00.000Z"
+    "dateend": "2025-09-12T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -9462,7 +9464,7 @@
     "country": "Romania",
     "code": "RO",
     "svspc": "SV",
-    "region": "Sud-Est ",
+    "region": "Sud-Est",
     "districts": "Miercurea Ciuc, Buzău, Brăila, Focșani, Râmnicu Sărat, Constanța, Mangalia, Medgidia, Galați, Tecuci, Tulcea, Adjud",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
@@ -9513,7 +9515,7 @@
     "code": "RO",
     "svspc": "SV",
     "region": "Centru",
-    "districts": "Sibiu, Făgăraș, Mediaș, Brașov, Aiud, Alba Iulia, Târgu Mureș, Blaj, Sebeș, Codlea, Săcele, Sfântu Gheorghe, Târgu Secuiesc, Gheorgheni, Miercurea Ciuc, Odorheiu Secuiesc, Toplița, Reghin, Sighișoara, Târnăveni, ",
+    "districts": "Sibiu, Făgăraș, Mediaș, Brașov, Aiud, Alba Iulia, Târgu Mureș, Blaj, Sebeș, Codlea, Săcele, Sfântu Gheorghe, Târgu Secuiesc, Gheorgheni, Miercurea Ciuc, Odorheiu Secuiesc, Toplița, Reghin, Sighișoara, Târnăveni,",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -9613,7 +9615,7 @@
     "code": "RO",
     "svspc": "SV",
     "region": "Brăila County",
-    "districts": "Brăila ",
+    "districts": "Brăila",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -9743,7 +9745,7 @@
     "code": "RO",
     "svspc": "SV",
     "region": "Galați County",
-    "districts": "Galați, Tecuci ",
+    "districts": "Galați, Tecuci",
     "publish": "Yes",
     "datestart": "2025-04-02T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -9753,7 +9755,7 @@
     "code": "RO",
     "svspc": "SV",
     "region": "Gorj County",
-    "districts": "Târgu Jiu, Motru ",
+    "districts": "Târgu Jiu, Motru",
     "publish": "Yes",
     "datestart": "2025-04-03T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -9773,7 +9775,7 @@
     "code": "RO",
     "svspc": "SV",
     "region": "Ialomița County",
-    "districts": "Fetești, Slobozia, Urziceni ",
+    "districts": "Fetești, Slobozia, Urziceni",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -9973,7 +9975,7 @@
     "code": "RO",
     "svspc": "SV",
     "region": "Tulcea County",
-    "districts": "Tulcea - border with Ukraine ",
+    "districts": "Tulcea - border with Ukraine",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
@@ -10582,7 +10584,7 @@
     "code": "SE",
     "svspc": "SV",
     "region": "Gävleborg",
-    "districts": "Gävle, Hudiksvall, Bollnäs, Ljusdal, Söderhamn, Ockelbo, Sandviken, Nordanstig, Älvkarleby, Hofors, Lingbo, Arbrå, Edsbyn, Iggesund, Bergsjö, Hedesunda, Järvsö, Norrala, Ockelbo, Ljusdal\t",
+    "districts": "Gävle, Hudiksvall, Bollnäs, Ljusdal, Söderhamn, Ockelbo, Sandviken, Nordanstig, Älvkarleby, Hofors, Lingbo, Arbrå, Edsbyn, Iggesund, Bergsjö, Hedesunda, Järvsö, Norrala, Ockelbo, Ljusdal",
     "publish": "Yes",
     "datestart": "2025-07-01T07:00:00.000Z",
     "dateend": "2025-12-01T08:00:00.000Z"
@@ -11141,6 +11143,16 @@
     "country": "Taiwan",
     "code": "TW",
     "svspc": "SV",
+    "region": "Taichung",
+    "districts": "Dong Shi Qu, Shi Gang Qu",
+    "publish": "Yes",
+    "datestart": "2025-08-20T07:00:00.000Z",
+    "dateend": "2025-12-31T08:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
     "region": "Nantou County",
     "districts": "Pu Li Zhen",
     "publish": "No",
@@ -11162,9 +11174,9 @@
     "svspc": "SV",
     "region": "Yun Lin County",
     "districts": "Mai Liao Xiang, Lun Bai Xiang",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-06-03T07:00:00.000Z",
-    "dateend": "2025-10-31T07:00:00.000Z"
+    "dateend": "2025-08-22T07:00:00.000Z"
   },
   {
     "country": "Taiwan",
@@ -11181,7 +11193,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Tainan",
-    "districts": "Xin Shi Qu",
+    "districts": "Xin Shi Qu, Xin Hua Qu",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -11201,7 +11213,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Yilan",
-    "districts": "Lou Dong Zhen, Yi Lan Shi,",
+    "districts": "Lou Dong Zhen, San Xing Xiang",
     "publish": "Yes",
     "datestart": "2025-06-16T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -11211,7 +11223,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Hualian",
-    "districts": "Xin Cheng Xiang, Xiu Lin Xiang",
+    "districts": "Hua Lian Shi",
     "publish": "Yes",
     "datestart": "2025-08-04T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -11220,8 +11232,8 @@
     "country": "Thailand",
     "code": "TH",
     "svspc": "SV",
-    "region": "Central. Southern, Norteasthern, Eastern ",
-    "districts": "Lop buri, Khonkean, Chainat, Nong Bua Lam Phu, Sakhonnakon, Udon thani, Pathumthani, Phitsanulok, Nakhonratchasima, Sukhothai, Saraburi, Nakhonsithammarat, Suratthani, Krabi, Trang",
+    "region": "Central. Southern, Norteasthern, Eastern",
+    "districts": "Lop buri, Khonkean, Chainat, Nong Bua Lam Phu, Chaiyaphom, Udon thani, Pathumthani, Phitsanulok, Nakhonratchasima, Sukhothai, Saraburi, Trang, Suratthani, Krabi",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -12093,7 +12105,7 @@
     "code": "BG",
     "svspc": "SV",
     "region": "Благоевград",
-    "districts": "Благоевград, Симитли, Кочериново, ",
+    "districts": "Благоевград, Симитли, Кочериново,",
     "publish": "No",
     "datestart": "2025-04-02T07:00:00.000Z",
     "dateend": "2025-10-30T07:00:00.000Z"
@@ -12369,7 +12381,7 @@
     "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
-    "country": "ישראל ",
+    "country": "ישראל",
     "code": "il",
     "districts": "No Driving, All Areas",
     "publish": "No"
