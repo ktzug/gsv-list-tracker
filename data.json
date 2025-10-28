@@ -289,7 +289,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "New South Wales",
-    "districts": "Leeton, Darlington point, Springwood, Oakdale, wagga wagga, Inner West, Parramatta, North Sydney, Eastern Suburbs, Northern Beaches, Hills District, City of Sydney, Darlington, Blacktown, Cumberland, Blue Mountains, Hawkesbury, Penrith, Camden, Campbelltown, Fairfield, Liverpool, Wollondilly, Georges River, Canterbury-Bankstown, Sutherland, Bayside, Burwood, Canada Bay, Randwick, Strathfield, Waverley, Woollahra, Hornsby, Hunters Hill, Ku-ring-gai, Lane Cove, Mosman, Ryde, Willoughby, Berkeley, Brownsville, Coniston, Corrimal, Cringila, East Corrimal, Fairy Meadow, Figtree, Gwynneville, Kanahooka, Kembla Grange, Lake Heights, Mangerton, Mount Saint Thomas, North Wollongong, Port Kembla, Primbee, Towradgi, Unanderra, Warrawong, West Wollongong, Windang, Wollongong, Wingecarribee, Central Coast, Cessnock, Lake Macquarie, Mount Annan, Gilgandra, Muswellbrook, Tobooburra, White Cuffs, Moulamein, Casino, Ganmain, Albury city, Greater hume shire, Snowy monaro regional, Bega valley, Queanbeyan-palerang regional, Goulburn mulwaree, Orange, Hilltops, Cowra, Blayney, Batuhrst regional, Lithgow city, Junee, Cootamundra-gundagai regional, Goulburn mulwaree, Wangarratta, Rochester, Aulbury",
+    "districts": "Leeton, Darlington point, Springwood, Oakdale, wagga wagga, Inner West, Parramatta, North Sydney, Eastern Suburbs, Northern Beaches, Hills District, City of Sydney, Darlington, Blacktown, Cumberland, Blue Mountains, Hawkesbury, Penrith, Camden, Campbelltown, Fairfield, Liverpool, Wollondilly, Georges River, Canterbury-Bankstown, Sutherland, Bayside, Burwood, Canada Bay, Randwick, Strathfield, Waverley, Woollahra, Hornsby, Hunters Hill, Ku-ring-gai, Lane Cove, Mosman, Ryde, Willoughby, Berkeley, Brownsville, Coniston, Corrimal, Cringila, East Corrimal, Fairy Meadow, Figtree, Gwynneville, Kanahooka, Kembla Grange, Lake Heights, Mangerton, Mount Saint Thomas, North Wollongong, Port Kembla, Primbee, Towradgi, Unanderra, Warrawong, West Wollongong, Windang, Wollongong, Wingecarribee, Central Coast, Cessnock, Lake Macquarie, Mount Annan, Gilgandra, Muswellbrook, Tobooburra, White Cuffs, Moulamein, Casino, Ganmain, Albury city, Greater hume shire, Snowy monaro regional, Bega valley, Queanbeyan-palerang regional, Goulburn mulwaree, Orange, Hilltops, Cowra, Blayney, Batuhrst regional, Lithgow city, Junee, Cootamundra-gundagai regional, Goulburn mulwaree, Wangarratta, Rochester, Aulbury, Bennela",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-01T08:00:00.000Z"
@@ -5970,7 +5970,7 @@
     "districts": "Kendari, Ampana, Malili",
     "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-11-30T08:00:00.000Z"
+    "dateend": "2025-10-30T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -8147,7 +8147,7 @@
     "code": "NZ",
     "svspc": "SV",
     "region": "North Island",
-    "districts": "Waiuku, Karaka, Herbertville, Cheltenham, Kalkohe, Masterton, Kokatahi, rotorua, Hamilton, Peel Forest, Palmerston North, New Plymouth, Waipu, Oreva",
+    "districts": "Waiuku, Karaka, Herbertville, Cheltenham, Kalkohe, Masterton, Kokatahi, rotorua, Hamilton, Peel Forest, Palmerston North, New Plymouth, Waipu, Oreva, Mangwhai",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z"
   },
@@ -8789,21 +8789,21 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Central Luzon",
-    "districts": "Capas",
+    "region": "Cordillera Administrative Region",
+    "districts": "Bangued",
     "publish": "Yes",
-    "datestart": "2025-09-01T07:00:00.000Z",
+    "datestart": "2025-10-12T07:00:00.000Z",
     "dateend": "2025-10-11T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Central Luzon",
-    "districts": "Tarlac",
+    "region": "Ilocos Region",
+    "districts": "Alaminos",
     "publish": "Yes",
-    "datestart": "2025-09-22T07:00:00.000Z",
-    "dateend": "2025-10-18T07:00:00.000Z"
+    "datestart": "2025-10-20T07:00:00.000Z",
+    "dateend": "2025-11-08T08:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -11115,7 +11115,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Taichung",
-    "districts": "Zhong Qu, Xi Qu, He Ping Qu",
+    "districts": "Zhong Qu, Xi Qu, Nan Tun Qu, Xi Tun Qu, Feng Yuan Qu",
     "publish": "Yes",
     "datestart": "2025-08-20T07:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -11125,8 +11125,9 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Nantou County",
-    "districts": "Pu Li Zhen",
-    "publish": "No",
+    "districts": "Guo Xing Xiang, Cao Tun Zhen, Pu Li Zhen",
+    "publish": "Yes",
+    "datestart": "2025-10-13T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
@@ -11165,9 +11166,9 @@
     "svspc": "SV",
     "region": "Tainan",
     "districts": "Nan Hua Qu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-02T08:00:00.000Z",
-    "dateend": "2025-10-31T07:00:00.000Z"
+    "dateend": "2025-10-09T07:00:00.000Z"
   },
   {
     "country": "Taiwan",
@@ -11175,9 +11176,9 @@
     "svspc": "SV",
     "region": "Kaohsiung",
     "districts": "Jia Xia Qu, Qi Shan Qu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-02T08:00:00.000Z",
-    "dateend": "2025-10-31T07:00:00.000Z"
+    "dateend": "2025-10-09T07:00:00.000Z"
   },
   {
     "country": "Taiwan",
