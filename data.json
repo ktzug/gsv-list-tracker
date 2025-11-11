@@ -3976,7 +3976,7 @@
     "svspc": "SV",
     "region": "Islas Canarias",
     "districts": "Santa Cruz de Tenerife, Lanzarote, Fuerteventura, Arrecife, El Golfo, Puerto de Rosario, Morro Jable, Jandia, Telde, Maspalomas, Gáldar",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-16T08:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -4046,7 +4046,7 @@
     "svspc": "SV",
     "region": "Islas Baleares",
     "districts": "Mallorca, Palma, Campos, Llucmajor, Calviá, Alaró, Palma de nova",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-16T08:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -4520,9 +4520,9 @@
     "svspc": "SV",
     "region": "Bayern",
     "districts": "Oberfranken, Mittelfranken, UnteAichach-Friedberg, Altötting, Amberg, Amberg-Sulzbach, Ansbach, Aschaffenburg, Augsburg, Bad Kissingen, Bad Tölz-Wolfratshausen, Bamberg, Bayreuth, Berchtesgadener, Land Cham, Coburg, Dachau, Deggendorf, Dillingen, Dingolfing-Landau, Donau-Ries, Ebersberg, Eichstätt, Erding, Erlangen, Erlangen-Höchstadt, Forchheim, Freising, Freyung-Grafenau, Fürstenfeldbruck, Fürth, Garmisch-Partenkirchen, Günzburg, Haßberge, Hof, Ingolstadt, Kaufbeuren, Kelheim, Kempten, Kitzingen, Kronach, Kulmbach, Landsberg, Landshut, Lichtenfels Lindau, Main-Spessart, Memmingen, Miesbach, Miltenberg, Mühldorf, Munich Munich (München), Neu-Ulm, Neuburg-Schrobenhausen, Neumarkt, Neustadt (Aisch)-Bad Windsheim, Neustadt an der Waldnaab, Nuremberg (Nürnberg),Nürnberger Land, Oberallgäu, Ostallgäu, Passau, Pfaffenhofen, Regen, Regensburg, Rhön-Grabfeld, Rosenheim, Roth, Rottal-Inn, Schwabach, Schwandorf, Schweinfurt, Starnberg, Straubing, Straubing-Bogen, Tirschenreuth, Traunstein, Unterallgäu, Weiden in der Oberpfalz, Weilheim-Schongau, Weißenburg-Gunzenhausen, Wunsiedel, Würzburgrfranken, Schwaben, Oberpfalz, Oberbayern, Niederbayern",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-30T07:00:00.000Z"
+    "dateend": "2026-06-30T07:00:00.000Z"
   },
   {
     "country": "Germany",
@@ -6558,7 +6558,7 @@
     "svspc": "SV",
     "region": "Sicilia",
     "districts": "Ragusa, Siracusa, Trapani, Gela, Marsala, Castelvetrano, Alcamo, Modica, Cefalù, Lampedusa, Lipari, Pantelleria, Ustica, Messina, Palermo,",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-04-11T07:00:00.000Z",
     "dateend": "2025-11-05T08:00:00.000Z"
   },
@@ -6588,7 +6588,7 @@
     "svspc": "SV",
     "region": "Sardegna",
     "districts": "Oristano, San Salvatore, Carloforte, Macomer, Marcheddì, Iglesias, Bau, Candiazzus, Masua, Nebida, San Nicolò, Carbonia, Capoterra",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-04-14T07:00:00.000Z",
     "dateend": "2025-11-04T08:00:00.000Z"
   },
@@ -6810,9 +6810,7 @@
     "svspc": "SV",
     "region": "Gifu",
     "districts": "Ogaki",
-    "publish": "Yes",
-    "datestart": "2025-02-01T08:00:00.000Z",
-    "dateend": "2025-10-31T07:00:00.000Z"
+    "publish": "No"
   },
   {
     "country": "Japan",
@@ -6945,7 +6943,7 @@
     "districts": "Yamaguchi, Hofu, Shunan",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-11-30T08:00:00.000Z"
+    "dateend": "2025-12-31T08:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7462,8 +7460,8 @@
     "region": "Luxembourg",
     "districts": "Luxembourg City, Diekirch, Clervaux, Redange, Echternach, Esch-sur-Alzette, Capellen, Grevenmacher, Remich, Mersch, Vianden, Wiltz",
     "publish": "Yes",
-    "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-16T07:00:00.000Z"
+    "datestart": "2025-05-01T07:00:00.000Z",
+    "dateend": "2025-06-01T07:00:00.000Z"
   },
   {
     "country": "Magyarország",
@@ -8147,8 +8145,8 @@
     "code": "NZ",
     "svspc": "SV",
     "region": "North Island",
-    "districts": "Waiuku, Karaka, Herbertville, Cheltenham, Kalkohe, Masterton, Kokatahi, rotorua, Hamilton, Peel Forest, Palmerston North, New Plymouth, Waipu, Oreva, Mangwhai",
-    "publish": "No",
+    "districts": "Waiuku, Karaka, Herbertville, Cheltenham, Kalkohe, Masterton, Kokatahi, rotorua, Hamilton, Peel Forest, Palmerston North, New Plymouth, Waipu, Oreva, Mangwhai, Aukland",
+    "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z"
   },
   {
@@ -8750,17 +8748,17 @@
     "code": "PH",
     "svspc": "SV",
     "region": "Mimaropa",
-    "districts": "Naujan",
+    "districts": "Pinamalayan",
     "publish": "Yes",
-    "datestart": "2025-09-16T07:00:00.000Z",
-    "dateend": "2025-10-31T07:00:00.000Z"
+    "datestart": "2025-11-03T08:00:00.000Z",
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Mimaropa",
-    "districts": "Bongabong",
+    "region": "Returned to warehouse",
+    "districts": "Returned to warehouse",
     "publish": "Yes",
     "datestart": "2025-10-04T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -8769,8 +8767,8 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Eastern Visayas",
-    "districts": "Baybay",
+    "region": "Returned to warehouse",
+    "districts": "Returned to warehouse",
     "publish": "Yes",
     "datestart": "2025-09-22T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -8779,8 +8777,8 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Eastern Visayas",
-    "districts": "Maasin",
+    "region": "Returned to warehouse",
+    "districts": "Returned to warehouse",
     "publish": "Yes",
     "datestart": "2025-09-22T07:00:00.000Z",
     "dateend": "2025-10-18T07:00:00.000Z"
@@ -8789,8 +8787,8 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Cordillera Administrative Region",
-    "districts": "Bangued",
+    "region": "Returned to warehouse",
+    "districts": "Returned to warehouse",
     "publish": "Yes",
     "datestart": "2025-10-12T07:00:00.000Z",
     "dateend": "2025-10-11T07:00:00.000Z"
@@ -10676,7 +10674,7 @@
     "svspc": "SV",
     "region": "Zürich",
     "districts": "Zürich, Winterthur, Uster, Wetzikon, Dübendorf, Dietikon, Affoltern am Albis, Schlieren, Horgen, Bülach",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-01T07:00:00.000Z"
   },
@@ -10686,7 +10684,7 @@
     "svspc": "SV",
     "region": "Bern / Berne",
     "districts": "Bern, Biel/Bienne, Thun, Burgdorf, Langenthal, Interlaken, Olten, Neuchâtel, Fribourg.",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-01T07:00:00.000Z"
   },
@@ -10696,7 +10694,7 @@
     "svspc": "SV",
     "region": "Lucerne",
     "districts": "Lucerne, Emmen, Sursee, Wolhusen, Hochdorf, Kriens, Hergiswil, Ebikon, Altdorf, Sarnen",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-04-01T07:00:00.000Z",
     "dateend": "2025-10-01T07:00:00.000Z"
   },
@@ -11115,7 +11113,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Taichung",
-    "districts": "Zhong Qu, Xi Qu, Nan Tun Qu, Xi Tun Qu, Feng Yuan Qu, Shi Gang Qu, Dong Shi Qu",
+    "districts": "Zhong Qu, Xi Qu, Nan Tun Qu, Xin Shu Qu, Feng Yuan Qu, Shi Gang Qu, Dong Shi Qu",
     "publish": "Yes",
     "datestart": "2025-08-20T07:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -11195,7 +11193,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Hualian",
-    "districts": "Hua Lian Shi, Ji An Xiang",
+    "districts": "Ji An Xiang, Shu Feng Xiang",
     "publish": "Yes",
     "datestart": "2025-08-04T07:00:00.000Z",
     "dateend": "2025-10-31T07:00:00.000Z"
@@ -11205,7 +11203,7 @@
     "code": "TH",
     "svspc": "SV",
     "region": "Central. Southern, Norteasthern, Eastern",
-    "districts": "Bangkok, Lop buri, Khonkean, Nong Bua Lam Phu, Chaiyaphom, Nong Khai, Pathumthani, Nakhonratchasima, Sukhothai, Ayuttaya, Aungthong, Saraburi, Samut Prakan",
+    "districts": "Bangkok, Lopburi, Khonkean, Nong Bua Lam Phu, Chaiyaphom, Nong Khai, Srisaket, Pathumthani, Nakhonratchasima, Ayuttaya, Aungthong, Saraburi, Samut Prakan",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -11292,7 +11290,7 @@
     "districts": "Greater London",
     "publish": "Yes",
     "datestart": "2025-03-01T08:00:00.000Z",
-    "dateend": "2025-11-30T08:00:00.000Z"
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -11302,7 +11300,7 @@
     "districts": "Poole, Bornemouth, Dorset, Somerset, Torquay, Exeter, Plymouth, Newquay, Weymouth, Poole, Bristol, Bath, Swindon, Gloucester",
     "publish": "Yes",
     "datestart": "2025-03-01T08:00:00.000Z",
-    "dateend": "2025-11-30T08:00:00.000Z"
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -11312,7 +11310,7 @@
     "districts": "Winchester, Basingstoke, Isle of Wight, Wiltshire, New Forest NP, Brighton, Eastbourne, Canterbury, Folkestone, Newhaven, Portsmouth, Oxford, Dover, Ramsgate, Crawley, Southampton, Maidstone, Rochester",
     "publish": "Yes",
     "datestart": "2025-03-01T08:00:00.000Z",
-    "dateend": "2025-11-30T08:00:00.000Z"
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -11332,7 +11330,7 @@
     "districts": "Penzance, Truro, St Austell, Redruth, Newquay, Padstow",
     "publish": "Yes",
     "datestart": "2025-03-01T08:00:00.000Z",
-    "dateend": "2025-11-30T08:00:00.000Z"
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -11352,7 +11350,7 @@
     "districts": "Chester, Manchester, Liverpool, Blackpool, Kendal, Blackburn",
     "publish": "Yes",
     "datestart": "2025-03-01T08:00:00.000Z",
-    "dateend": "2025-11-30T08:00:00.000Z"
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -11362,7 +11360,7 @@
     "districts": "Leeds, York, Hull, Yorkshire Dales National Park",
     "publish": "Yes",
     "datestart": "2025-03-01T08:00:00.000Z",
-    "dateend": "2025-11-30T08:00:00.000Z"
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -11372,7 +11370,7 @@
     "districts": "Swansea, Cardiff, Newport, Llanelli",
     "publish": "Yes",
     "datestart": "2025-03-01T08:00:00.000Z",
-    "dateend": "2025-11-30T08:00:00.000Z"
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -11382,7 +11380,7 @@
     "districts": "Glasgow, Edinburgh, Dumfries, Dundee, Inverness, Aberdeen, Forres, Shetland Islands, Orkney Islands, Isle of Skey, Isle of Mull, Lewis and Harris",
     "publish": "Yes",
     "datestart": "2025-03-01T08:00:00.000Z",
-    "dateend": "2025-11-30T08:00:00.000Z"
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -11392,7 +11390,7 @@
     "districts": "Derbyshire, Nottinghamshire, Leicestershire",
     "publish": "Yes",
     "datestart": "2025-03-01T08:00:00.000Z",
-    "dateend": "2025-11-30T08:00:00.000Z"
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -11402,7 +11400,7 @@
     "districts": "Stoke-on-trent, Wolverhampton, Coventry, Hereford, Shrewsbury, Worcester, Birmingham",
     "publish": "Yes",
     "datestart": "2025-03-01T08:00:00.000Z",
-    "dateend": "2025-11-30T08:00:00.000Z"
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "United Kingdom",
@@ -11412,7 +11410,7 @@
     "districts": "Belfast, Newry, Omagh, Moygashel, Muckamore",
     "publish": "Yes",
     "datestart": "2025-03-01T08:00:00.000Z",
-    "dateend": "2025-11-30T08:00:00.000Z"
+    "dateend": "2025-10-31T07:00:00.000Z"
   },
   {
     "country": "Isle of Man",
@@ -11582,7 +11580,7 @@
     "districts": "Clallam, Jefferson, Grays Harbor, Pacific, Wahkiakum, Whatcom, Skagit, Snohomish, King,  Pierce, Kitsap, Thurston, Lewis, Yakima, Skamania, Cowlitz, Clark, Klickitat, Whitman, Asotin, Chelan, Kitttitas, Douglas",
     "publish": "Yes",
     "datestart": "2025-03-01T08:00:00.000Z",
-    "dateend": "2025-10-31T07:00:00.000Z"
+    "dateend": "2026-01-01T08:00:00.000Z"
   },
   {
     "country": "United States",
