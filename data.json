@@ -1706,7 +1706,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Amazonas",
-    "districts": "Apuí, Itacoatiara, Manaus, Tabatinga",
+    "districts": "Apuí, Itacoatiara, Tabatinga",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1726,7 +1726,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Ceará",
-    "districts": "Antonina do Norte,Horizonte,Icó,Juazeiro do Norte",
+    "districts": "Antonina do Norte,Horizonte,Juazeiro do Norte",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1776,7 +1776,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Goiás",
-    "districts": "Combinado,Santo Antônio do Descoberto",
+    "districts": "Combinado",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1786,7 +1786,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Maranhão",
-    "districts": "Bacabal,Caxias,Guimarães,Itaipava do Grajaú,Jatobá,Joselândia,Lagoa do Mato,Nova Vida,Pinheiro,São Bento,São Luís,Sucupira do Norte,Sucupira do Riachão",
+    "districts": "Bacabal,Caxias,Guimarães,Itaipava do Grajaú,Jatobá,Joselândia,Lagoa do Mato,Sucupira do Riachão",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1826,7 +1826,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Pará",
-    "districts": "Abaetetuba,Amapá do Maranhão,Araguacema,Canaã dos Carajás,Castanhal,Itaituba,Jacareacanga,Moju,Nova Esperança do Piriá,Ourilândia do Norte,Parauapebas,Piçarra,Vigia",
+    "districts": "Abaetetuba,Amapá do Maranhão,Araguacema,Canaã dos Carajás,Castanhal,Itaituba,Jacareacanga,Moju,Nova Esperança do Piriá,Ourilândia do Norte,Vigia",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1936,7 +1936,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Santa Catarina",
-    "districts": "Brusque,Itajaí,Papanduva,Santa Terezinha",
+    "districts": "Brusque,Itajaí,Papanduva",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1946,7 +1946,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "São Paulo",
-    "districts": "Barretos,Bertioga,Botucatu,Cerquilho,Guaíra,Guarujá,Itanhaém,Jundiaí,Peruíbe,Salto,São Paulo,São Sebastião,Sarapuí,Sorocaba,Tatuí",
+    "districts": "Guarujá,Salto,São Paulo,São Sebastião",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -1956,7 +1956,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Sergipe",
-    "districts": "Aracaju,Lagarto,Tobias Barreto",
+    "districts": "Aracaju",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -2467,7 +2467,7 @@
     "svspc": "SV",
     "region": "Caldas",
     "districts": "La Dorada",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-07-30T07:00:00.000Z"
   },
@@ -2707,7 +2707,7 @@
     "svspc": "SV",
     "region": "Guerrero",
     "districts": "Chilapa de Alvarez Zumpango del Rio",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -2767,7 +2767,7 @@
     "svspc": "SV",
     "region": "Nuevo León",
     "districts": "Colombia",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -2776,7 +2776,7 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Oaxaca",
-    "districts": "Matías Romero Avendaño, Putla Villa de Guerrero, Santa Catarina Juquila",
+    "districts": "Matías Romero Avendaño, Putla Villa de Guerrero",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -3086,7 +3086,7 @@
     "svspc": "SV",
     "region": "Amazonas",
     "districts": "Pedro Ruiz, Pomacochas",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
   },
@@ -5819,8 +5819,7 @@
     "region": "South Kalimantan",
     "districts": "Balikpapan, Banjarmasin",
     "publish": "Yes",
-    "datestart": "2025-01-02T08:00:00.000Z",
-    "dateend": "2025-11-30T08:00:00.000Z"
+    "datestart": "2025-01-02T08:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -5890,7 +5889,7 @@
     "districts": "Bandar Lampung, Metro",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
-    "dateend": "2025-12-02T08:00:00.000Z"
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -5920,7 +5919,7 @@
     "districts": "Surabaya, Malang, Sidoarjo,Tuban, Blitar, Kediri, Bojonegoro, Mojokerto, Madura",
     "publish": "Yes",
     "datestart": "2025-01-02T08:00:00.000Z",
-    "dateend": "2025-12-02T08:00:00.000Z"
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -6439,7 +6438,7 @@
     "region": "אשקלון",
     "districts": "אשקלון",
     "publish": "No",
-    "datestart": "28/11/18 ",
+    "datestart": "28/11/18",
     "dateend": "29/11/18"
   },
   {
@@ -8148,7 +8147,7 @@
     "districts": "Waiuku, Karaka, Herbertville, Cheltenham, Kalkohe, Masterton, Kokatahi, rotorua, Hamilton, Peel Forest, Palmerston North, New Plymouth, Waipu, Oreva, Mangwhai, Aukland",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-12-31T08:00:00.000Z"
+    "dateend": "2025-12-11T08:00:00.000Z"
   },
   {
     "country": "New Zealand",
@@ -8750,10 +8749,10 @@
     "code": "PH",
     "svspc": "SV",
     "region": "Mimaropa",
-    "districts": "Abra De Ilog",
+    "districts": "San Fernando",
     "publish": "Yes",
-    "datestart": "2025-11-03T08:00:00.000Z",
-    "dateend": "2025-11-30T08:00:00.000Z"
+    "datestart": "2025-12-03T08:00:00.000Z",
+    "dateend": "2025-12-06T08:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -8799,11 +8798,11 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Ilocos Region",
-    "districts": "Bolinao",
+    "region": "Central Luzon",
+    "districts": "Quezon City",
     "publish": "Yes",
-    "datestart": "2025-10-20T07:00:00.000Z",
-    "dateend": "2025-11-08T08:00:00.000Z"
+    "datestart": "2025-11-24T08:00:00.000Z",
+    "dateend": "2025-12-06T08:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -11115,7 +11114,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Taichung",
-    "districts": "Zhong Qu, Xi Qu, Nan Tun Qu, Xin Shu Qu, Wu Fueng Qu, Shi Gang Qu, Xin Shu Qu",
+    "districts": "Shi Lu Qu, Xi Qu, Nan Tun Qu, Xin Shu Qu, Wu Fueng Qu, Shi Gang Qu, Bei Tun Qu",
     "publish": "Yes",
     "datestart": "2025-08-20T07:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -11205,7 +11204,7 @@
     "code": "TH",
     "svspc": "SV",
     "region": "Central. Southern, Norteasthern, Eastern",
-    "districts": "Bangkok, Lopburi, Khonkean, Nong Bua Lam Phu, Chaiyaphom, Nong Khai, Srisaket, Pathumthani, Nakhonratchasima, Ayuttaya, Aungthong, Saraburi, Samut Prakan",
+    "districts": "Bangkok, Samut Prakan, Pathumthani, Nonthaburi,Burirum, Surin, Srisaket,  Kalasin, Yashothon, Saraburi",
     "publish": "Yes",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -11430,9 +11429,9 @@
     "svspc": "SV",
     "region": "Idaho",
     "districts": "Ada, Adams, Bannock, Bear Lake, Benewah, Bingham, Blaine, Boise, Bonner, Bonneville, Boundary, Butte, Camas, Canyon, Caribou, Cassia, Clark, Clearwater, Custer, Elmore, Franklin, Fremont, Gem, Gooding, Idaho, Jefferson, Jerome, Kootenai, Latah, Lemhi, Lewis, Lincoln, Madison, Minidoka, Nez Perce, Oneida, Owyhee, Payette, Power, Shoshone, Teton, Twin Falls, Valley, Washington, Idaho Falls, Burley, Lewiston",
-    "publish": "No",
-    "datestart": "2025-04-01T07:00:00.000Z",
-    "dateend": "2025-10-31T07:00:00.000Z"
+    "publish": "Yes",
+    "datestart": "2025-12-01T08:00:00.000Z",
+    "dateend": "2025-01-01T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11482,7 +11481,7 @@
     "districts": "Chicago, Jersey, Madison, Macoupin, Saint Claire, Champaign, Ford, Piatt, Douglas, Peoria, Lake, Cook, Will, Grundy, Kendall, Kane, DuPage, DeKab, La Salle, Lee, Quincy, Mt Vernon, Springfield, Waukegan, Joliet, Aurora, Kankakee, McHenry, Boone, Montgomery, Bond, Fayette, Christian, Shelby, Crawford, Jasper, Effingham, Clay, Wayne, Jefferson, Marion, Clinton, Adams, Pike, Brown, Schuyler, Hancock, McDonough, Pike, Greene, Scott, Morgan, Iroquois, Vermillion",
     "publish": "Yes",
     "datestart": "2025-03-01T08:00:00.000Z",
-    "dateend": "2025-11-30T08:00:00.000Z"
+    "dateend": "2025-12-01T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11509,10 +11508,10 @@
     "code": "US",
     "svspc": "SV",
     "region": "Oregon",
-    "districts": "Clatsop, Tillamook, Washington, Yamhill, Marion, Clackamas, Multnomah, Hood River, Wasco, Sherman, Lincoln, Benton, Lane, Douglas, Coos, Curry, Josephine, Jackson, Klamath, Lake, Deschutes, Crook, Jefferson, Wheeler, Grant, Harney, Gilliam, Morrow, Baker, Malheur, Wallowa",
-    "publish": "No",
-    "datestart": "2025-03-01T08:00:00.000Z",
-    "dateend": "2025-10-31T07:00:00.000Z"
+    "districts": "Clatsop, Tillamook, Washington, Yamhill, Marion, Clackamas, Multnomah, Hood River, Wasco, Sherman, Lincoln, Benton, Lane, Douglas, Coos, Curry, Josephine, Jackson, Klamath, Lake, Deschutes, Crook, Jefferson, Wheeler, Grant, Harney, Gilliam, Morrow, Baker, Malheur, Wallowa, Columbia, Linn, Polk, Umatilla, Union",
+    "publish": "Yes",
+    "datestart": "2025-12-01T08:00:00.000Z",
+    "dateend": "2025-01-01T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11542,7 +11541,7 @@
     "districts": "St. Croix, Pierce, Dunn, Pepin, Barron, Rusk, Chippewa, Eau Claire, Taylor, Clark, Jackson, La Crosse, Monroe, Vilas, Forest, Oneida, Lincoln, Langlade, Marathon, Menominee, Shawano, Waupaca, Portage, Oconto, Outagamie, Brown, Winnebago, Calumet, Manitowoc, Fond Du Lac, Shebogan, Dodge, Washington, Ozaukee, Jefferson, Waukesha, Milwaukee, Walworth, Racine, Kenosha, Rock, Green, Dane, Grant, Lafayette, Iowa, Crawford, Richland, Sauk, Juneau, Adams, Monroe",
     "publish": "Yes",
     "datestart": "2025-03-01T08:00:00.000Z",
-    "dateend": "2025-11-30T08:00:00.000Z"
+    "dateend": "2025-12-02T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11602,7 +11601,7 @@
     "districts": "Wicomico, Dorchester, Caroline, Baltimore, Carroll, Frederick, Washington, Cecil, Harford",
     "publish": "No",
     "datestart": "2025-05-01T07:00:00.000Z",
-    "dateend": "2025-10-31T07:00:00.000Z"
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11632,7 +11631,7 @@
     "districts": "Warren, Hunterdon, Mercer, Morris, Sussex, Middlesex, Monmouth, Union, Essex, Bergen, Hudson",
     "publish": "Yes",
     "datestart": "2025-05-01T07:00:00.000Z",
-    "dateend": "2025-11-30T08:00:00.000Z"
+    "dateend": "2025-12-01T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11642,7 +11641,7 @@
     "districts": "Suffolk, Nassau, Kings, Richmond, New York, Queens, Bronx, Westchester, Rockland, Sullivan, Delaware, Ulster, Greene, Orange, Schoharie, Otsego, Montgomery, Herkimer, Fulton, Tompkins, Cortland, Broome, Tioga, Schuyler, Allegany, Cattaraugus, Chautauqua, Erie, Wyoming, Genesee, Orleans, Monroe, Livingston, Ontario, Seneca, Wayne, St. Lawrence, Jefferson, Franklin, Lewis, Oneida, Hamilton",
     "publish": "Yes",
     "datestart": "2025-03-01T08:00:00.000Z",
-    "dateend": "2025-11-30T08:00:00.000Z"
+    "dateend": "2025-12-01T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11652,7 +11651,7 @@
     "districts": "Lawrence, Scioto, Gallia, Jackson, Adams, Pike, Brown, Highland, Clermont, Hamilton, Butler, Warren, Clinton, Fayette, Ross, Pickaway, Madison, Franklin, Preble, Montgomery, Darke, Miami, Shelby, Greene, Clark, Champaign, Logan, Mercer, Auglaize, Williams, Defiance, Henry, Fulton, Lucas, Wood, Ottawa, Sanduasky, Seneca, Hancock, Wyandot, Crawford, Erie, Huron, Richland, Ashland, Lorain, Medina, Wayne, Cuyahoga, Geauga, Lake, Ashtabula, Trumbull, Portage, Mahoning, Columbiana, Stark, Carroll, Holmes, Putnam, Allen, Vinton",
     "publish": "No",
     "datestart": "2025-03-01T08:00:00.000Z",
-    "dateend": "2025-10-31T07:00:00.000Z"
+    "dateend": "2025-12-01T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11672,7 +11671,7 @@
     "districts": "Lee, Wise, Norton, Scott, Dickenson, Buchanan, Russell, Washington, Tazewell, Smyth, Bland, Wythe, Carroll, Giles, Radford, Pulaski, Grayson, Patrick, Floyd, Giles, Montgomery, Craig, Highland, Bath, Augusta, Rockingham, Harrisonburg, Shenandoah, Frederick, Worchester, Clarke, Warren, Rappahannock, Fauquier, Loudoun, Fairfax, Prince William, Isle of Wight, Surry, Sussex, Southampton, Newport News, Hampton, Poquoson, York, James City, Gloucester, New Kent, King William, King and Queen, Essex, Fredericksburg, Stafford, Spotsylvania, King George, Caroline",
     "publish": "Yes",
     "datestart": "2025-06-01T07:00:00.000Z",
-    "dateend": "2025-11-01T07:00:00.000Z"
+    "dateend": "2025-12-01T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11822,7 +11821,7 @@
     "districts": "Las Vegas, Reno, Humboldt, Washoe, Pershing, Lander, Eureka, Elko, White Pine, Storey, Carson City, Douglas, Lyon, Clark, Churchill",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
-    "dateend": "2025-08-31T07:00:00.000Z"
+    "dateend": "2025-12-31T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11881,7 +11880,7 @@
     "districts": "Cheyenne, Rawlins, Decatur, Norton, Phillips, Jewell, Republic, Washington, Marshall, Nemaha, Brown, Doniphan, Atchison, Jackson, Pottawatomie, Cloud, Osborne, Rooks, Graham, Sheridan, Thomas, Sherman, Wallace, Logan, Grove, Trego, Ellis, Russell, Lincoln, Ottawa, Saline, Ellsworth, McPherson, Marion, Chase, Harvey, Sedwick, Reno, Rice, Barton, Rush, Ness, Lane, Scott, Wichita, Hamilton, Kearny, Finney, Hodgeman, Pawnee, Stafford, Edwards, Kiowa, Ford, Gray, Meade, Seward, Haskell, Grant, Stanton, Comanche, Barber, Harper, Sumner, Cowley, Cherokee, Wilson, Neosho, Crawford, Woodson, Allen, Bourbon, Coffey, Anderson, Linn, Lyon, Osage, Franklin, Miami, Johnson, Douglas, Wabaunsee, Shawnee, Leavenworth, Jefferson, Dickinson",
     "publish": "No",
     "datestart": "2025-05-01T07:00:00.000Z",
-    "dateend": "2025-10-31T07:00:00.000Z"
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11900,7 +11899,7 @@
     "districts": "DC",
     "publish": "Yes",
     "datestart": "2025-03-01T08:00:00.000Z",
-    "dateend": "2025-10-31T07:00:00.000Z"
+    "dateend": "2025-11-30T08:00:00.000Z"
   },
   {
     "country": "United States",
