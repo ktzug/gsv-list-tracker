@@ -6059,7 +6059,7 @@
     "districts": "Pontianak, Singkawang, Ketapang, Sambas, SIntang,  Sekadau, Nanga Tayap",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-04-30T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -9066,10 +9066,10 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Metro Manila",
-    "districts": "Quezon City",
+    "region": "Calabarzon",
+    "districts": "Silang",
     "publish": "Yes",
-    "datestart": "2026-01-09T08:00:00.000Z",
+    "datestart": "2026-02-02T08:00:00.000Z",
     "dateend": "2026-02-28T08:00:00.000Z"
   },
   {
@@ -9087,7 +9087,17 @@
     "code": "PH",
     "svspc": "SV",
     "region": "Calabarzon",
-    "districts": "General Trias",
+    "districts": "Calamba",
+    "publish": "Yes",
+    "datestart": "2026-02-09T08:00:00.000Z",
+    "dateend": "2026-02-28T08:00:00.000Z"
+  },
+  {
+    "country": "Philippines",
+    "code": "PH",
+    "svspc": "SV",
+    "region": "Calabarzon",
+    "districts": "Quezon City",
     "publish": "Yes",
     "datestart": "2026-01-08T08:00:00.000Z",
     "dateend": "2026-02-28T08:00:00.000Z"
@@ -9096,41 +9106,31 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Calabarzon",
-    "districts": "Calamba",
+    "region": "Cagayan Valley",
+    "districts": "Alfonso Lista",
     "publish": "Yes",
-    "datestart": "2026-01-08T08:00:00.000Z",
-    "dateend": "2026-01-31T08:00:00.000Z"
+    "datestart": "2026-02-02T08:00:00.000Z",
+    "dateend": "2026-02-28T08:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Calabarzon",
-    "districts": "San Jose",
+    "region": "Cagayan Valley",
+    "districts": "Echague",
     "publish": "Yes",
-    "datestart": "2026-01-08T08:00:00.000Z",
-    "dateend": "2026-01-31T08:00:00.000Z"
+    "datestart": "2026-02-02T08:00:00.000Z",
+    "dateend": "2026-02-28T08:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Central Luzon",
-    "districts": "Quezon City",
+    "region": "Wetern Visayas",
+    "districts": "Bacolod",
     "publish": "Yes",
-    "datestart": "2026-01-08T08:00:00.000Z",
-    "dateend": "2026-02-07T08:00:00.000Z"
-  },
-  {
-    "country": "Philippines",
-    "code": "PH",
-    "svspc": "SV",
-    "region": "Calabarzon",
-    "districts": "Calamba",
-    "publish": "Yes",
-    "datestart": "2026-01-08T08:00:00.000Z",
-    "dateend": "2026-01-31T08:00:00.000Z"
+    "datestart": "2026-02-10T08:00:00.000Z",
+    "dateend": "2026-02-28T08:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -9308,7 +9308,7 @@
     "svspc": "SV",
     "region": "Madeira",
     "districts": "Calheta, Câmara de Lobos, Funchal (capital), Machico, Ponta do Sol, Porto Moniz, Porto Santo, Ribeira Brava, Santa Cruz, Santana, São Vicente",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-02-25T08:00:00.000Z",
     "dateend": "2026-11-06T08:00:00.000Z"
   },
@@ -9318,7 +9318,7 @@
     "svspc": "SV",
     "region": "Azores Island",
     "districts": "Angra do Heroísmo, Horta, Lagoa, Lajes das Flores, Lajes do Pico, Madalena, Nordeste, Ponta Delgada, Povoação, Praia da Vitória, Ribeira Grande, Santa Cruz da Graciosa, Santa Cruz das Flores, São Roque do Pico, Velas, Vila do Corvo, Vila do Porto, Vila Franca do Campo.",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-02-25T08:00:00.000Z",
     "dateend": "2026-11-06T08:00:00.000Z"
   },
@@ -11541,8 +11541,9 @@
     "country": "Taiwan",
     "code": "TW",
     "svspc": "SV",
-    "region": "Xin ZHu County",
-    "publish": "No",
+    "region": "Xin Zhu County",
+    "districts": "Xin Zhu Shi, Zhu Dong Zhen",
+    "publish": "Yes",
     "datestart": "2026-02-06T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -11551,7 +11552,8 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Miao Li County",
-    "publish": "No",
+    "districts": "Tu Lou Xiang",
+    "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -11570,9 +11572,9 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Nantou County",
-    "districts": "Ren Ai Xiang, Pu Li Zhen,",
-    "publish": "No",
-    "datestart": "2026-03-02T08:00:00.000Z",
+    "districts": "Cao Tun Zhen, ",
+    "publish": "Yes",
+    "datestart": "2026-02-06T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
@@ -11620,10 +11622,10 @@
     "code": "TH",
     "svspc": "SV",
     "region": "Central, West, North, Northeastern, South, East",
-    "districts": "Samut Sakhon, Ratchaburi, Phetchaburi, Prachuap Khiri Khan, Chachoengsao, Chonburi, Rayong, Saraburi, Lopburi, Sisaket, Ubon Ratchathani, Yasothon, Mukdahan, Nakhon Phanom, Sakon Nakhon, Nong Khai, Bueng Kan, Sukhothai, Nakhon Sawan, Phichit",
+    "districts": "Samut Sakhon, Ratchaburi, Phetchaburi, Prachuap Khiri Khan, Chachoengsao, Chonburi, Rayong, Saraburi, Lopburi, Sisaket, Ubon Ratchathani, Yasothon, Mahasarakham, Sakon Nakhon, Nong Khai, Bueng Kan, Sukhothai, Nakhon Sawan, Phichit",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-03-31T07:00:00.000Z"
+    "dateend": "2026-06-30T07:00:00.000Z"
   },
   {
     "country": "Tunisia",
@@ -11914,7 +11916,7 @@
     "svspc": "SV",
     "region": "Oregon",
     "districts": "Clatsop, Tillamook, Washington, Yamhill, Marion, Clackamas, Multnomah, Hood River, Wasco, Sherman, Lincoln, Benton, Lane, Douglas, Coos, Curry, Josephine, Jackson, Klamath, Lake, Deschutes, Crook, Jefferson, Wheeler, Grant, Harney, Gilliam, Morrow, Baker, Malheur, Wallowa, Columbia, Linn, Polk, Umatilla, Union",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-01-01T08:00:00.000Z"
   },
@@ -32741,7 +32743,7 @@
     "svspc": "SV",
     "region": "Adana",
     "districts": "Adana",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -32751,7 +32753,7 @@
     "svspc": "SV",
     "region": "Adıyaman",
     "districts": "Adıyaman",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -32761,7 +32763,7 @@
     "svspc": "SV",
     "region": "Afyonkarahisar",
     "districts": "Afyonkarahisar",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -32771,7 +32773,7 @@
     "svspc": "SV",
     "region": "Aksaray",
     "districts": "Aksaray",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -32781,7 +32783,7 @@
     "svspc": "SV",
     "region": "Ankara",
     "districts": "Ankara",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -32791,7 +32793,7 @@
     "svspc": "SV",
     "region": "Antalya",
     "districts": "Antalya",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -32801,7 +32803,7 @@
     "svspc": "SV",
     "region": "Artvin",
     "districts": "Artvin",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -32811,7 +32813,7 @@
     "svspc": "SV",
     "region": "Aydın",
     "districts": "Aydın",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -32821,7 +32823,7 @@
     "svspc": "SV",
     "region": "Balıkesir",
     "districts": "Balıkesir",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -32831,7 +32833,7 @@
     "svspc": "SV",
     "region": "Batman",
     "districts": "Batman",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -32841,7 +32843,7 @@
     "svspc": "SV",
     "region": "Bilecik",
     "districts": "Bilecik",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -32851,7 +32853,7 @@
     "svspc": "SV",
     "region": "Bingöl",
     "districts": "Bingöl",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -32861,7 +32863,7 @@
     "svspc": "SV",
     "region": "Burdur",
     "districts": "Burdur",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -32871,7 +32873,7 @@
     "svspc": "SV",
     "region": "Bursa",
     "districts": "Bursa",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -32881,7 +32883,7 @@
     "svspc": "SV",
     "region": "Çankırı",
     "districts": "Çankırı",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -32891,7 +32893,7 @@
     "svspc": "SV",
     "region": "Denizli",
     "districts": "Denizli",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -32901,7 +32903,7 @@
     "svspc": "SV",
     "region": "Diyarbakır",
     "districts": "Diyarbakır",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -32911,7 +32913,7 @@
     "svspc": "SV",
     "region": "Edirne",
     "districts": "Edirne",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -32921,7 +32923,7 @@
     "svspc": "SV",
     "region": "Erzurum",
     "districts": "Erzurum",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -32931,7 +32933,7 @@
     "svspc": "SV",
     "region": "Gaziantep",
     "districts": "Gaziantep",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -32941,7 +32943,7 @@
     "svspc": "SV",
     "region": "Giresun",
     "districts": "Giresun",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -32951,7 +32953,7 @@
     "svspc": "SV",
     "region": "Hakkari",
     "districts": "Hakkari",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -32961,7 +32963,7 @@
     "svspc": "SV",
     "region": "Hatay",
     "districts": "Hatay",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -32971,7 +32973,7 @@
     "svspc": "SV",
     "region": "Isparta",
     "districts": "Isparta",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -32981,7 +32983,7 @@
     "svspc": "SV",
     "region": "İstanbul",
     "districts": "İstanbul",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -32991,7 +32993,7 @@
     "svspc": "SV",
     "region": "İzmir",
     "districts": "İzmir",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33001,7 +33003,7 @@
     "svspc": "SV",
     "region": "Kahramanmaraş",
     "districts": "Kahramanmaraş",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33011,7 +33013,7 @@
     "svspc": "SV",
     "region": "Kastamonu",
     "districts": "Kastamonu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33021,7 +33023,7 @@
     "svspc": "SV",
     "region": "Kayseri",
     "districts": "Kayseri",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33031,7 +33033,7 @@
     "svspc": "SV",
     "region": "Kırklareli",
     "districts": "Kırklareli",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33041,7 +33043,7 @@
     "svspc": "SV",
     "region": "Kocaeli",
     "districts": "Kocaeli",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33051,7 +33053,7 @@
     "svspc": "SV",
     "region": "Konya",
     "districts": "Konya",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33061,7 +33063,7 @@
     "svspc": "SV",
     "region": "Kütahya",
     "districts": "Kütahya",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33071,7 +33073,7 @@
     "svspc": "SV",
     "region": "Malatya",
     "districts": "Malatya",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33081,7 +33083,7 @@
     "svspc": "SV",
     "region": "Manisa",
     "districts": "Manisa",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33091,7 +33093,7 @@
     "svspc": "SV",
     "region": "Mardin",
     "districts": "Mardin",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33101,7 +33103,7 @@
     "svspc": "SV",
     "region": "Mersin",
     "districts": "Mersin",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33111,7 +33113,7 @@
     "svspc": "SV",
     "region": "Muğla",
     "districts": "Muğla",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33121,7 +33123,7 @@
     "svspc": "SV",
     "region": "Muş",
     "districts": "Muş",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33131,7 +33133,7 @@
     "svspc": "SV",
     "region": "Nevşehir",
     "districts": "Nevşehir",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33141,7 +33143,7 @@
     "svspc": "SV",
     "region": "Niğde",
     "districts": "Niğde",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33151,7 +33153,7 @@
     "svspc": "SV",
     "region": "Ordu",
     "districts": "Ordu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33161,7 +33163,7 @@
     "svspc": "SV",
     "region": "Osmaniye",
     "districts": "Osmaniye",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33171,7 +33173,7 @@
     "svspc": "SV",
     "region": "Rize",
     "districts": "Rize",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33181,7 +33183,7 @@
     "svspc": "SV",
     "region": "Samsun",
     "districts": "Samsun",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33191,7 +33193,7 @@
     "svspc": "SV",
     "region": "Şanlıurfa",
     "districts": "Şanlıurfa",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33201,7 +33203,7 @@
     "svspc": "SV",
     "region": "Siirt",
     "districts": "Siirt",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33211,7 +33213,7 @@
     "svspc": "SV",
     "region": "Sivas",
     "districts": "Sivas",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33221,7 +33223,7 @@
     "svspc": "SV",
     "region": "Şırnak",
     "districts": "Şırnak",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33231,7 +33233,7 @@
     "svspc": "SV",
     "region": "Tekirdağ",
     "districts": "Tekirdağ",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33241,7 +33243,7 @@
     "svspc": "SV",
     "region": "Tokat",
     "districts": "Tokat",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33251,7 +33253,7 @@
     "svspc": "SV",
     "region": "Trabzon",
     "districts": "Trabzon",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33261,7 +33263,7 @@
     "svspc": "SV",
     "region": "Tunceli",
     "districts": "Tunceli",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33271,7 +33273,7 @@
     "svspc": "SV",
     "region": "Uşak",
     "districts": "Uşak",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33281,7 +33283,7 @@
     "svspc": "SV",
     "region": "Van",
     "districts": "Van",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33291,7 +33293,7 @@
     "svspc": "SV",
     "region": "Yozgat",
     "districts": "Yozgat",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-10-01T07:00:00.000Z",
     "dateend": "2025-11-01T07:00:00.000Z"
   },
@@ -33299,11 +33301,11 @@
     "country": "Turkey",
     "code": "TR",
     "svspc": "SV",
-    "region": "Zonguldak",
-    "districts": "Zonguldak",
+    "region": "Turkey",
+    "districts": "Acıpayam, Adana, Adıyaman, Afyonkarahisar, Ağrı, Akhisar, Akşehir, Alanya, Altınekin, Amasya, Anamur, Ankara, Antakya, Antalya, Arapgir, Araban, Aralık, Aydın, Aydıncık, Bandırma, Bayburt, Baykan, Besni, Bilecik, Bingöl, Birecik, Bitlis, Bolvadin, Bozüyük, Bursa, Çaldıran, Çankırı, Çat, Çerkeş, Çeşme, Çorlu, Cihanbeyli, Darende, Demre, Denizli, Derinkuyu, Divriği, Diyarbakır, Doğubayazıt, Dörtyol, Düziçi, Elâzığ, Erbaa, Erciş, Erzincan, Erzurum, Eşme, Fethiye, Gaziantep, Gazipaşa, Gölcük, Gölhisar, Gürün, Hani, Hekimhan, Ilgaz, Ilgın, Isparta, Istanbul, Iğdır, İnegöl, İskenderun, İslahiye, İzmir, Kahramanmaraş, Kangal, Karlıova, Kars, Kaş, Kayseri, Kemer, Keşan, Kilis, Korkuteli, Kovancılar, Kozaklı, Kozluk, Kumluca, Konya, Kırıkhan, Kırklareli, Kırşehir, Kızıltepe, Lüleburgaz, Malatya, Malkara, Manavgat, Manisa, Mardin, Mersin, Merzifon, Mut, Muş, Nazilli, Nevşehir, Niksar, Nizip, Niğde, Oltu, Ortaköy, Osmaniye, Ölüdeniz, Özalp, Polatlı, Pınarbaşı, Refahiye, Reşadiye, Reyhanlı, Salihli, Samandağ, Serik, Side, Silifke, Sivas, Siverek, Solhan, Soma, Suluova, Susuz, Tatvan, Tekirdağ, Tercan, Tokat, Tosya, Turgutlu, Uşak, Uzunköprü, Van, Viranşehir, Yalova, Yerköy, Yeşilyurt, Yoldöndü, Yozgat, Yusufeli, Yıldızeli, Şanlıurfa, Şarköy",
     "publish": "Yes",
-    "datestart": "2025-10-01T07:00:00.000Z",
-    "dateend": "2025-11-01T07:00:00.000Z"
+    "datestart": "2026-02-01T08:00:00.000Z",
+    "dateend": "2026-03-01T08:00:00.000Z"
   },
   {
     "country": "North Macedonia",
@@ -36629,5 +36631,207 @@
     "publish": "Yes",
     "datestart": "2025-11-25T08:00:00.000Z",
     "dateend": "2025-11-25T08:00:00.000Z"
+  },
+  {
+    "country": "Ecuador",
+    "code": "EC",
+    "svspc": "SV",
+    "publish": "No",
+    "datestart": "2026-01-01T08:00:00.000Z",
+    "dateend": "2026-01-01T08:00:00.000Z"
+  },
+  {
+    "country": "Uruguay",
+    "code": "UY",
+    "svspc": "SV",
+    "publish": "No",
+    "datestart": "2026-01-01T08:00:00.000Z",
+    "dateend": "2026-01-01T08:00:00.000Z"
+  },
+  {
+    "country": "Dominican Republic",
+    "code": "DO",
+    "svspc": "SV",
+    "publish": "No",
+    "datestart": "2026-01-01T08:00:00.000Z",
+    "dateend": "2026-01-01T08:00:00.000Z"
+  },
+  {
+    "country": "Bolivia",
+    "code": "BO",
+    "svspc": "SV",
+    "publish": "No",
+    "datestart": "2026-01-01T08:00:00.000Z",
+    "dateend": "2026-01-01T08:00:00.000Z"
+  },
+  {
+    "country": "Guatemala",
+    "code": "GT",
+    "svspc": "SV",
+    "region": "Guatemala",
+    "districts": "Guatemala City",
+    "publish": "No",
+    "datestart": "2026-01-01T08:00:00.000Z",
+    "dateend": "2026-02-01T08:00:00.000Z"
+  },
+  {
+    "country": "Guatemala",
+    "code": "GT",
+    "svspc": "SV",
+    "region": "Guatemala",
+    "districts": "Chinautla",
+    "publish": "No",
+    "datestart": "2026-01-01T08:00:00.000Z",
+    "dateend": "2026-02-01T08:00:00.000Z"
+  },
+  {
+    "country": "Guatemala",
+    "code": "GT",
+    "svspc": "SV",
+    "region": "Guatemala",
+    "districts": "San Pedro Sacatepéquez",
+    "publish": "No",
+    "datestart": "2026-02-01T08:00:00.000Z",
+    "dateend": "2026-02-01T08:00:00.000Z"
+  },
+  {
+    "country": "Guatemala",
+    "code": "GT",
+    "svspc": "SV",
+    "region": "Guatemala",
+    "districts": "San Juan Sacatepéquez",
+    "publish": "No",
+    "datestart": "2026-02-01T08:00:00.000Z",
+    "dateend": "2026-02-01T08:00:00.000Z"
+  },
+  {
+    "country": "Guatemala",
+    "code": "GT",
+    "svspc": "SV",
+    "region": "Guatemala",
+    "districts": "San Miguel Petapa",
+    "publish": "No",
+    "datestart": "2026-02-01T08:00:00.000Z",
+    "dateend": "2026-02-01T08:00:00.000Z"
+  },
+  {
+    "country": "Guatemala",
+    "code": "GT",
+    "svspc": "SV",
+    "region": "Guatemala",
+    "districts": "San Raymundo",
+    "publish": "No",
+    "datestart": "2026-02-01T08:00:00.000Z",
+    "dateend": "2026-03-01T08:00:00.000Z"
+  },
+  {
+    "country": "Guatemala",
+    "code": "GT",
+    "svspc": "SV",
+    "region": "Guatemala",
+    "districts": "Palencia",
+    "publish": "No",
+    "datestart": "2026-02-01T08:00:00.000Z",
+    "dateend": "2026-03-01T08:00:00.000Z"
+  },
+  {
+    "country": "Guatemala",
+    "code": "GT",
+    "svspc": "SV",
+    "region": "Guatemala",
+    "districts": "Mixco",
+    "publish": "No",
+    "datestart": "2026-02-01T08:00:00.000Z",
+    "dateend": "2026-03-01T08:00:00.000Z"
+  },
+  {
+    "country": "Guatemala",
+    "code": "GT",
+    "svspc": "SV",
+    "region": "Guatemala",
+    "districts": "Villa Nueva",
+    "publish": "No",
+    "datestart": "2026-02-01T08:00:00.000Z",
+    "dateend": "2026-03-01T08:00:00.000Z"
+  },
+  {
+    "country": "Guatemala",
+    "code": "GT",
+    "svspc": "SV",
+    "region": "Guatemala",
+    "districts": "Amatitlán",
+    "publish": "No",
+    "datestart": "2026-02-01T08:00:00.000Z",
+    "dateend": "2026-03-01T08:00:00.000Z"
+  },
+  {
+    "country": "Guatemala",
+    "code": "GT",
+    "svspc": "SV",
+    "region": "Guatemala",
+    "districts": "San Pedro Ayampuc",
+    "publish": "No",
+    "datestart": "2026-02-01T08:00:00.000Z",
+    "dateend": "2026-03-01T08:00:00.000Z"
+  },
+  {
+    "country": "Guatemala",
+    "code": "GT",
+    "svspc": "SV",
+    "region": "Guatemala",
+    "districts": "San José Pinula",
+    "publish": "No",
+    "datestart": "2026-02-01T08:00:00.000Z",
+    "dateend": "2026-03-01T08:00:00.000Z"
+  },
+  {
+    "country": "Guatemala",
+    "code": "GT",
+    "svspc": "SV",
+    "region": "Guatemala",
+    "districts": "Villa Canales",
+    "publish": "No",
+    "datestart": "2026-03-01T08:00:00.000Z",
+    "dateend": "2026-03-01T08:00:00.000Z"
+  },
+  {
+    "country": "Guatemala",
+    "code": "GT",
+    "svspc": "SV",
+    "region": "Guatemala",
+    "districts": "Santa Catarina Pinula",
+    "publish": "No",
+    "datestart": "2026-03-01T08:00:00.000Z",
+    "dateend": "2026-03-01T08:00:00.000Z"
+  },
+  {
+    "country": "Guatemala",
+    "code": "GT",
+    "svspc": "SV",
+    "region": "Guatemala",
+    "districts": "Fraijanes",
+    "publish": "No",
+    "datestart": "2026-03-01T08:00:00.000Z",
+    "dateend": "2026-03-01T08:00:00.000Z"
+  },
+  {
+    "country": "Guatemala",
+    "code": "GT",
+    "svspc": "SV",
+    "region": "Guatemala",
+    "districts": "Chuarrancho",
+    "publish": "No",
+    "datestart": "2026-03-01T08:00:00.000Z",
+    "dateend": "2026-03-01T08:00:00.000Z"
+  },
+  {
+    "country": "Guatemala",
+    "code": "GT",
+    "svspc": "SV",
+    "region": "Guatemala",
+    "districts": "San José del Golfo",
+    "publish": "No",
+    "datestart": "2026-03-01T08:00:00.000Z",
+    "dateend": "2026-03-01T08:00:00.000Z"
   }
 ]
