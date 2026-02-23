@@ -11697,7 +11697,7 @@
     "region": "Greater London",
     "districts": "Greater London",
     "publish": "Yes",
-    "datestart": "2026-03-01T08:00:00.000Z",
+    "datestart": "2026-02-20T08:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -11707,7 +11707,7 @@
     "region": "South West",
     "districts": "Poole, Bornemouth, Dorset, Somerset, Torquay, Exeter, Plymouth, Newquay, Weymouth, Poole, Bristol, Bath, Swindon, Gloucester",
     "publish": "Yes",
-    "datestart": "2026-03-01T08:00:00.000Z",
+    "datestart": "2026-02-20T08:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -11717,7 +11717,7 @@
     "region": "South East",
     "districts": "Winchester, Basingstoke, Isle of Wight, Wiltshire, New Forest NP, Brighton, Eastbourne, Canterbury, Folkestone, Newhaven, Portsmouth, Oxford, Dover, Ramsgate, Crawley, Southampton, Maidstone, Rochester",
     "publish": "Yes",
-    "datestart": "2026-03-01T08:00:00.000Z",
+    "datestart": "2026-02-20T08:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -11727,7 +11727,7 @@
     "region": "East",
     "districts": "Lowestoft, Ipswich, Waltham Abbey, Cambridge, Norwich, Kings Lynn, Peterborough, Ely, Colchester, Braintree, Fakenham, Cromer, Chelmsford",
     "publish": "Yes",
-    "datestart": "2026-03-01T08:00:00.000Z",
+    "datestart": "2026-02-20T08:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -11737,7 +11737,7 @@
     "region": "Cornwall",
     "districts": "Penzance, Truro, St Austell, Redruth, Newquay, Padstow",
     "publish": "Yes",
-    "datestart": "2026-03-01T08:00:00.000Z",
+    "datestart": "2026-02-20T08:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -11747,7 +11747,7 @@
     "region": "North East",
     "districts": "Newcastle, Middlesbrough, Durham, Corbridge, Sunderland",
     "publish": "Yes",
-    "datestart": "2026-03-01T08:00:00.000Z",
+    "datestart": "2026-02-20T08:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -11757,7 +11757,7 @@
     "region": "North West",
     "districts": "Chester, Manchester, Liverpool, Blackpool, Kendal, Blackburn",
     "publish": "Yes",
-    "datestart": "2026-03-01T08:00:00.000Z",
+    "datestart": "2026-02-20T08:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -11767,7 +11767,7 @@
     "region": "Yorkshire and the Humber",
     "districts": "Leeds, York, Hull, Yorkshire Dales National Park",
     "publish": "Yes",
-    "datestart": "2026-03-01T08:00:00.000Z",
+    "datestart": "2026-02-20T08:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -11777,7 +11777,7 @@
     "region": "Wales",
     "districts": "Swansea, Cardiff, Newport, Llanelli",
     "publish": "Yes",
-    "datestart": "2026-03-01T08:00:00.000Z",
+    "datestart": "2026-02-20T08:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -11787,7 +11787,7 @@
     "region": "Scotland",
     "districts": "Glasgow, Edinburgh, Dumfries, Dundee, Inverness, Aberdeen, Forres, Shetland Islands, Orkney Islands, Isle of Skey, Isle of Mull, Lewis and Harris",
     "publish": "Yes",
-    "datestart": "2026-03-01T08:00:00.000Z",
+    "datestart": "2026-02-20T08:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -11797,7 +11797,7 @@
     "region": "East Midlands",
     "districts": "Derbyshire, Nottinghamshire, Leicestershire",
     "publish": "Yes",
-    "datestart": "2026-03-01T08:00:00.000Z",
+    "datestart": "2026-02-20T08:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -11807,7 +11807,7 @@
     "region": "West Midlands",
     "districts": "Stoke-on-trent, Wolverhampton, Coventry, Hereford, Shrewsbury, Worcester, Birmingham",
     "publish": "Yes",
-    "datestart": "2026-03-01T08:00:00.000Z",
+    "datestart": "2026-02-20T08:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -11817,7 +11817,7 @@
     "region": "Northern Ireland",
     "districts": "Belfast, Newry, Omagh, Moygashel, Muckamore",
     "publish": "Yes",
-    "datestart": "2026-03-01T08:00:00.000Z",
+    "datestart": "2026-02-20T08:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
