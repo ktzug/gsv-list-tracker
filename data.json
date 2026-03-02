@@ -2236,7 +2236,7 @@
     "svspc": "SV",
     "region": "Valparaíso",
     "districts": "San Antonio",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -6248,7 +6248,7 @@
     "region": "East Nusa Tenggara",
     "districts": "Flores, Sumba, Rote, Timoe, Kupang",
     "publish": "Yes",
-    "datestart": "2026-03-01T08:00:00.000Z",
+    "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -6258,7 +6258,7 @@
     "region": "West Nusa Tenggara",
     "districts": "Sumbawa, Badjo, Bima, Dompu",
     "publish": "Yes",
-    "datestart": "2026-03-01T08:00:00.000Z",
+    "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -6971,7 +6971,10 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Miyagi",
-    "publish": "No"
+    "districts": "Sendai, Osaki",
+    "publish": "Yes",
+    "datestart": "2026-03-31T07:00:00.000Z",
+    "dateend": "2026-05-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6988,7 +6991,7 @@
     "districts": "Maebashi, Isesaki, Fujioka, Kiryu",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-03-31T07:00:00.000Z"
+    "dateend": "2026-05-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6998,17 +7001,17 @@
     "districts": "Tsukuba, Ushiku, Kamisu, Katori, Kamisu",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-03-31T07:00:00.000Z"
+    "dateend": "2026-05-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Tochigi",
-    "districts": "Utsunomiya, Tochigi, Maoka",
+    "districts": "Tochigi, Maoka",
     "publish": "Yes",
     "datestart": "2026-02-01T08:00:00.000Z",
-    "dateend": "2026-03-31T07:00:00.000Z"
+    "dateend": "2026-05-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7022,27 +7025,24 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Saitama",
-    "districts": "MIsato, Yashio",
-    "publish": "Yes",
-    "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-02-28T08:00:00.000Z"
-  },
-  {
-    "country": "Japan",
-    "code": "JP",
-    "svspc": "SV",
-    "region": "Chiba",
     "publish": "No"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
-    "region": "Tokyo",
-    "districts": "Tokyo",
+    "region": "Chiba",
+    "districts": "Chiba, Ichihara, Kisarazu",
     "publish": "Yes",
-    "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-02-28T08:00:00.000Z"
+    "datestart": "2026-03-31T07:00:00.000Z",
+    "dateend": "2026-05-31T07:00:00.000Z"
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "svspc": "SV",
+    "region": "Tokyo",
+    "publish": "No"
   },
   {
     "country": "Japan",
@@ -7059,14 +7059,17 @@
     "districts": "Kikukawa, Yaizu, Shizuoka",
     "publish": "Yes",
     "datestart": "2026-02-01T08:00:00.000Z",
-    "dateend": "2026-03-31T07:00:00.000Z"
+    "dateend": "2026-05-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Nagano",
-    "publish": "No"
+    "districts": "Okaya, Matsumoto",
+    "publish": "Yes",
+    "datestart": "2026-03-31T07:00:00.000Z",
+    "dateend": "2026-05-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7104,7 +7107,7 @@
     "districts": "Gifu, Kagamihara, Hashima",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-03-31T07:00:00.000Z"
+    "dateend": "2026-05-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7114,7 +7117,7 @@
     "districts": "Toyota, Okazaki, Chiryu",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-03-31T07:00:00.000Z"
+    "dateend": "2026-05-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7124,7 +7127,7 @@
     "districts": "Tsu, Matsusaka, Suzuoka",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-03-31T07:00:00.000Z"
+    "dateend": "2026-05-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7152,14 +7155,20 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Osaka",
-    "publish": "No"
+    "districts": "Osaka, Sakai",
+    "publish": "Yes",
+    "datestart": "2026-03-31T07:00:00.000Z",
+    "dateend": "2026-05-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Hyogo",
-    "publish": "No"
+    "districts": "Tamba-Sasayama, Tamba, Nishiwaki",
+    "publish": "Yes",
+    "datestart": "2026-02-01T08:00:00.000Z",
+    "dateend": "2026-05-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7176,7 +7185,7 @@
     "districts": "Okayama, Kurashiki",
     "publish": "Yes",
     "datestart": "2026-02-01T08:00:00.000Z",
-    "dateend": "2026-03-31T07:00:00.000Z"
+    "dateend": "2026-05-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7200,7 +7209,7 @@
     "districts": "Kochi, Konan",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-03-31T07:00:00.000Z"
+    "dateend": "2026-05-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7238,7 +7247,7 @@
     "districts": "Mihara, Higashi-Hiroshima",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-03-31T07:00:00.000Z"
+    "dateend": "2026-05-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7248,7 +7257,7 @@
     "districts": "Kurume, Chikugo, Tamana",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-03-31T07:00:00.000Z"
+    "dateend": "2026-05-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7269,17 +7278,20 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Kumamoto",
-    "publish": "No"
+    "districts": "Tamana, Yamagata",
+    "publish": "Yes",
+    "datestart": "2026-03-31T07:00:00.000Z",
+    "dateend": "2026-05-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Oita",
-    "districts": "Oita",
+    "districts": "Oita, Beppu",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-03-31T07:00:00.000Z"
+    "dateend": "2026-05-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7296,7 +7308,10 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Miyazaki",
-    "publish": "No"
+    "districts": "Miyazaki",
+    "publish": "Yes",
+    "datestart": "2026-03-31T07:00:00.000Z",
+    "dateend": "2026-05-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -9067,30 +9082,60 @@
     "code": "PH",
     "svspc": "SV",
     "region": "Calabarzon",
-    "districts": "Silang",
+    "districts": "Calamba",
     "publish": "Yes",
     "datestart": "2026-02-02T08:00:00.000Z",
-    "dateend": "2026-02-28T08:00:00.000Z"
+    "dateend": "2026-03-13T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Central Luzon",
+    "region": "Calabarzon",
     "districts": "Quezon City",
     "publish": "Yes",
     "datestart": "2026-02-28T08:00:00.000Z",
-    "dateend": "2026-02-28T08:00:00.000Z"
+    "dateend": "2026-03-20T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
     "region": "Calabarzon",
-    "districts": "Calamba",
+    "districts": "Antipolo City",
     "publish": "Yes",
     "datestart": "2026-02-09T08:00:00.000Z",
-    "dateend": "2026-02-28T08:00:00.000Z"
+    "dateend": "2026-03-13T07:00:00.000Z"
+  },
+  {
+    "country": "Philippines",
+    "code": "PH",
+    "svspc": "SV",
+    "region": "Western Visayas",
+    "districts": "Bago",
+    "publish": "Yes",
+    "datestart": "2026-02-12T08:00:00.000Z",
+    "dateend": "2026-03-13T07:00:00.000Z"
+  },
+  {
+    "country": "Philippines",
+    "code": "PH",
+    "svspc": "SV",
+    "region": "Cagayan Valley",
+    "districts": "Ilagan City",
+    "publish": "Yes",
+    "datestart": "2026-02-02T08:00:00.000Z",
+    "dateend": "2026-03-13T07:00:00.000Z"
+  },
+  {
+    "country": "Philippines",
+    "code": "PH",
+    "svspc": "SV",
+    "region": "Cagayan Valley",
+    "districts": "Cauayan City",
+    "publish": "Yes",
+    "datestart": "2026-02-02T08:00:00.000Z",
+    "dateend": "2026-03-13T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -9099,38 +9144,8 @@
     "region": "Calabarzon",
     "districts": "Quezon City",
     "publish": "Yes",
-    "datestart": "2026-01-08T08:00:00.000Z",
-    "dateend": "2026-02-28T08:00:00.000Z"
-  },
-  {
-    "country": "Philippines",
-    "code": "PH",
-    "svspc": "SV",
-    "region": "Cagayan Valley",
-    "districts": "Alfonso Lista",
-    "publish": "Yes",
-    "datestart": "2026-02-02T08:00:00.000Z",
-    "dateend": "2026-02-28T08:00:00.000Z"
-  },
-  {
-    "country": "Philippines",
-    "code": "PH",
-    "svspc": "SV",
-    "region": "Cagayan Valley",
-    "districts": "Echague",
-    "publish": "Yes",
-    "datestart": "2026-02-02T08:00:00.000Z",
-    "dateend": "2026-02-28T08:00:00.000Z"
-  },
-  {
-    "country": "Philippines",
-    "code": "PH",
-    "svspc": "SV",
-    "region": "Wetern Visayas",
-    "districts": "Bacolod",
-    "publish": "Yes",
     "datestart": "2026-02-10T08:00:00.000Z",
-    "dateend": "2026-02-28T08:00:00.000Z"
+    "dateend": "2026-03-20T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -11542,7 +11557,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Xin Zhu County",
-    "districts": "Xin Zhu Shi, Zhu Dong Zhen",
+    "districts": "Xin Zhu Shi, Zhu Dong Zhen, Zhu Bei Shi",
     "publish": "Yes",
     "datestart": "2026-02-06T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -11582,7 +11597,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Tainan",
-    "districts": "Hou Bi Qu",
+    "districts": "Xin Ying Qu",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -11592,7 +11607,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Kaohsiung",
-    "districts": "San Ming Qu, Feng Shan Qu",
+    "districts": "Ren Wu Qu, Feng Shan Qu",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -11602,8 +11617,8 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Hualian",
-    "districts": "Ji An Xiang, Shu Feng Xiang",
-    "publish": "No",
+    "districts": "Yu Li Zhen",
+    "publish": "Yes",
     "datestart": "2026-01-19T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -11622,7 +11637,7 @@
     "code": "TH",
     "svspc": "SV",
     "region": "Central, West, North, Northeastern, South, East",
-    "districts": "Samut Sakhon, Ratchaburi, Phetchaburi, Prachuap Khiri Khan, Chachoengsao, Chonburi, Rayong, Saraburi, Lopburi, Sisaket, Ubon Ratchathani, Yasothon, Mahasarakham, Sakon Nakhon, Nong Khai, Bueng Kan, Sukhothai, Nakhon Sawan, Phichit",
+    "districts": "Samut Sakhon, Ratchaburi, Phetchaburi, Prachuap Khiri Khan, Chachoengsao, Chonburi, Rayong, Saraburi, Lopburi, Sisaket, Ubon Ratchathani, Yasothon, Mahasarakham, Sakon Nakhon, Nong Khai, Bueng Kan, Sukhothai, Nakhon Sawan, Phichit, Satun, Pattani, Phatthalung",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-06-30T07:00:00.000Z"
