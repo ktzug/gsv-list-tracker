@@ -3528,7 +3528,7 @@
     "region": "New Brunswick",
     "districts": "Madawaska, Restigouche, Gloucester, Victoria, Northumberland, Carleton, York, Charlotte",
     "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "datestart": "2026-06-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -3537,7 +3537,7 @@
     "region": "Newfoundland and Labrador",
     "districts": "Burin Peninsula-Marystown, South Coast-Channel-Port aux Basques, St. George’s-Stephenville, Humber District-Corner Brook, Central Newfoundland-Grand Falls-Windsor, Bonavista/Trinity-Clarenville, Notre Dame Bay-Lewisporte",
     "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "datestart": "2026-06-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -3546,7 +3546,7 @@
     "region": "Northwest Territories",
     "districts": "Fort Smith, Fort Simpson, Yellowknife, Inuvik, Norman Wells, Bechoko",
     "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "datestart": "2026-06-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -3555,7 +3555,7 @@
     "region": "Nova Scotia",
     "districts": "Digby, Yarmouth, Shelburne, Annapolis, Cape Breton, Richmond, Antigonish, Guysborough, Pictou, Halifax",
     "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "datestart": "2026-06-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -3600,7 +3600,7 @@
     "region": "Yukon",
     "districts": "Carmacks, Fort Selkirk, Stewart Crossing, Mayo, Keno City, Dawson, McQuesten, Chapman Lake, Eagle Plains",
     "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "datestart": "2026-06-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -3609,7 +3609,7 @@
     "region": "Prince Edward Island",
     "districts": "Charlottetown",
     "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "datestart": "2026-06-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -12021,8 +12021,8 @@
     "svspc": "SV",
     "region": "Maryland",
     "districts": "Wicomico, Dorchester, Caroline, Baltimore, Carroll, Frederick, Washington, Cecil, Harford",
-    "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "publish": "Yes",
+    "datestart": "2026-03-01T08:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
@@ -12051,8 +12051,8 @@
     "svspc": "SV",
     "region": "New Jersey",
     "districts": "Warren, Hunterdon, Mercer, Morris, Sussex, Middlesex, Monmouth, Union, Essex, Bergen, Hudson",
-    "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "publish": "Yes",
+    "datestart": "2026-03-01T08:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
@@ -12071,8 +12071,8 @@
     "svspc": "SV",
     "region": "Ohio",
     "districts": "Lawrence, Scioto, Gallia, Jackson, Adams, Pike, Brown, Highland, Clermont, Hamilton, Butler, Warren, Clinton, Fayette, Ross, Pickaway, Madison, Franklin, Preble, Montgomery, Darke, Miami, Shelby, Greene, Clark, Champaign, Logan, Mercer, Auglaize, Williams, Defiance, Henry, Fulton, Lucas, Wood, Ottawa, Sanduasky, Seneca, Hancock, Wyandot, Crawford, Erie, Huron, Richland, Ashland, Lorain, Medina, Wayne, Cuyahoga, Geauga, Lake, Ashtabula, Trumbull, Portage, Mahoning, Columbiana, Stark, Carroll, Holmes, Putnam, Allen, Vinton",
-    "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "publish": "Yes",
+    "datestart": "2026-03-01T08:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
@@ -12081,8 +12081,8 @@
     "svspc": "SV",
     "region": "Pennsylvania",
     "districts": "Erie, Crawford, Mercer, Lawrence, Butler, Beaver, Allegheny, Venango, Warren, Forest, Clarion, Jefferson, Elk, McKean, Cameron, Potter, Clinton, Tioga, Lycoming, Wayne, Pike, Lehigh, Northampton, Bucks, Philadelphia, Montgomery, Delaware, Chester, Lancaster, York, Adams, Cumberland, Franklin, Somerset, Westmoreland, Fayette",
-    "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "publish": "Yes",
+    "datestart": "2026-03-01T08:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
@@ -12091,8 +12091,8 @@
     "svspc": "SV",
     "region": "Virginia",
     "districts": "Lee, Wise, Norton, Scott, Dickenson, Buchanan, Russell, Washington, Tazewell, Smyth, Bland, Wythe, Carroll, Giles, Radford, Pulaski, Grayson, Patrick, Floyd, Giles, Montgomery, Craig, Highland, Bath, Augusta, Rockingham, Harrisonburg, Shenandoah, Frederick, Worchester, Clarke, Warren, Rappahannock, Fauquier, Loudoun, Fairfax, Prince William, Isle of Wight, Surry, Sussex, Southampton, Newport News, Hampton, Poquoson, York, James City, Gloucester, New Kent, King William, King and Queen, Essex, Fredericksburg, Stafford, Spotsylvania, King George, Caroline",
-    "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "publish": "Yes",
+    "datestart": "2026-03-01T08:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
@@ -12211,8 +12211,8 @@
     "svspc": "SV",
     "region": "West Virginia",
     "districts": "Wayne, Cabell, Lincoln, McDowell, Wyoming, Mercer, Raleigh, Summers, Pendleton, Randolph, Pocahontas, Webster, Upshur, Braxton, Clay, Kanawha, Nicholas, Berkley, Jefferson, Calhoun",
-    "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "publish": "Yes",
+    "datestart": "2026-03-01T08:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
@@ -12329,8 +12329,8 @@
     "svspc": "SV",
     "region": "Delaware",
     "districts": "New Castle, Kent, Sussex",
-    "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "publish": "Yes",
+    "datestart": "2026-03-01T08:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
