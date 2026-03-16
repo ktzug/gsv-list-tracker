@@ -6248,7 +6248,7 @@
     "region": "East Nusa Tenggara",
     "districts": "Flores, Sumba, Rote, Timoe, Kupang",
     "publish": "Yes",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "datestart": "2026-05-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -6258,7 +6258,7 @@
     "region": "West Nusa Tenggara",
     "districts": "Sumbawa, Badjo, Bima, Dompu",
     "publish": "Yes",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "datestart": "2026-05-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -8506,7 +8506,7 @@
     "region": "Rogaland",
     "districts": "Stavanger, Sandnes, Haugesund, Bryne, Egersund, Sola, Karmøy, Sauda, Åkrehamn, Kopervik, Sirdal, Jørpeland, Randaberg, Bokn, Rennesøy, Hjelmeland, Kvitsøy, Skudeneshavn, Vikeså, Langevåg",
     "publish": "Yes",
-    "datestart": "2026-05-07T07:00:00.000Z",
+    "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-30T07:00:00.000Z"
   },
   {
@@ -8516,7 +8516,7 @@
     "region": "Agder",
     "districts": "Kristiansand, Arendal, Grimstad, Lillesand, Mandal, Flekkefjord, Vennesla, Risør, Froland, Birkeland, Evje, Lyngdal, Tvedestrand, Søgne, Åmli, Gjerstad, Iveland, Kvinesdal, Sirdal, Hovden",
     "publish": "Yes",
-    "datestart": "2026-05-07T07:00:00.000Z",
+    "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-30T07:00:00.000Z"
   },
   {
@@ -8526,7 +8526,7 @@
     "region": "Telemark",
     "districts": "Porsgrunn, Skien, Drangedal, Treungen, Kragero, Langesund, Stathelle, Dalen, Notodden",
     "publish": "Yes",
-    "datestart": "2026-05-07T07:00:00.000Z",
+    "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-30T07:00:00.000Z"
   },
   {
@@ -8536,7 +8536,7 @@
     "region": "Innlandet",
     "districts": "Hamar, Lillehammer, Gjøvik, Elverum, Kongsvinger, Brumunddal, Moelv, Raufoss, Fagernes, Trysil, Tynset, Otta, Vågåmo, Vinstra, Dokka, Rena, Gran, Alvdal, Lom, Skjåk",
     "publish": "Yes",
-    "datestart": "2026-05-07T07:00:00.000Z",
+    "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-30T07:00:00.000Z"
   },
   {
@@ -8546,7 +8546,7 @@
     "region": "Vestland",
     "districts": "Bergen, Førde, Florø, Måløy, Sogndal, Leikanger, Sandane, Nordfjordeid, Odda, Voss, Stord, Husnes, Rosendal, Øystese, Ulvik, Eidfjord, Stryn, Årdalstangen, Lærdal, Fosnavåg",
     "publish": "Yes",
-    "datestart": "2026-05-07T07:00:00.000Z",
+    "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-30T07:00:00.000Z"
   },
   {
@@ -8556,7 +8556,7 @@
     "region": "Trøndelag",
     "districts": "Trondheim, Steinkjer, Stjørdal, Levanger, Verdal, Namsos, Orkanger, Røros, Brekstad, Malvik, Melhus, Oppdal, Tydal, Meråker, Frosta, Inderøy, Snåsa, Rissa, Bjugn, Hitra",
     "publish": "Yes",
-    "datestart": "2026-05-07T07:00:00.000Z",
+    "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-30T07:00:00.000Z"
   },
   {
@@ -8566,7 +8566,7 @@
     "region": "Nordland",
     "districts": "Bodø, Narvik, Mo i Rana, Sandnessjøen, Mosjøen, Brønnøysund, Sortland, Svolvær, Leknes, Stokmarknes, Fauske, Rognan, Lødingen, Ørnes, Andenes, Ballangen, Kjøpsvik, Hamarøy, Røst, Værøy",
     "publish": "Yes",
-    "datestart": "2026-05-07T07:00:00.000Z",
+    "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-30T07:00:00.000Z"
   },
   {
@@ -8576,7 +8576,7 @@
     "region": "Troms",
     "districts": "Tromsø, Harstad, Finnsnes, Bardufoss, Setermoen, Sjøvegan, Skjervøy, Lyngseidet, Storslett, Sørreisa, Moen, Hansnes, Olderdalen, Burfjord, Nordkjosbotn, Botnhamn, Gryllefjord, Tennevoll, Straumsbukta, Vangsvik",
     "publish": "Yes",
-    "datestart": "2026-05-07T07:00:00.000Z",
+    "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-30T07:00:00.000Z"
   },
   {
@@ -8586,7 +8586,7 @@
     "region": "Finnmark",
     "districts": "Alta, Vadsø, Vardø, Hammerfest, Kirkenes, Honningsvåg, Lakselv, Kautokeino, Karasjok, Tana, Båtsfjord, Berlevåg, Mehamn, Kjøllefjord, Havøysund, Øksfjord, Skjånes, Kokelv, Nervei, Bugøynes",
     "publish": "Yes",
-    "datestart": "2026-05-07T07:00:00.000Z",
+    "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-30T07:00:00.000Z"
   },
   {
@@ -8596,7 +8596,7 @@
     "region": "Møre og Romsdal",
     "districts": "Ålesund, Molde, Kristiansund, Volda, Ørsta, Ulsteinvik, Fosnavåg, Hareid, Surnadal, Sunndalsøra, Elnesvågen, Midsund, Vestnes, Åndalsnes, Eidsvåg, Sykkylven, Stranda, Stordal, Giske, Rauma",
     "publish": "Yes",
-    "datestart": "2026-05-07T07:00:00.000Z",
+    "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-30T07:00:00.000Z"
   },
   {
@@ -8606,7 +8606,7 @@
     "region": "Akershus",
     "districts": "Oslo, Lillestrøm, Ski, Drøbak, Jessheim, Ås, Eidsvoll, Strømmen, Årnes, Kolbotn, Nittedal, Fetsund, Fet, Lørenskog, Kløfta, Nannestad, Gjerdrum, Sørumsand, Rælingen, Fjerdingby",
     "publish": "Yes",
-    "datestart": "2026-05-07T07:00:00.000Z",
+    "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-30T07:00:00.000Z"
   },
   {
@@ -8616,7 +8616,7 @@
     "region": "Sogn og Fjordane",
     "districts": "Førde, Flåm, Leikanger, Skei, Askvoll, Måløy",
     "publish": "Yes",
-    "datestart": "2026-05-07T07:00:00.000Z",
+    "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-30T07:00:00.000Z"
   },
   {
@@ -8626,7 +8626,7 @@
     "region": "Hordaland",
     "districts": "Bergen, Odda, Leirvik, Etne, Vossevangen, Osterøy",
     "publish": "Yes",
-    "datestart": "2026-05-07T07:00:00.000Z",
+    "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-30T07:00:00.000Z"
   },
   {
@@ -8636,7 +8636,7 @@
     "region": "Buskerud",
     "districts": "Drammen, Kongsberg, Noresund, Dagali, Åmot",
     "publish": "Yes",
-    "datestart": "2026-05-07T07:00:00.000Z",
+    "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-30T07:00:00.000Z"
   },
   {
@@ -8646,7 +8646,7 @@
     "region": "Hedmark",
     "districts": "Hamar, Elverum, Kongsvinger, Knapper, Flisa, Innbygda, Brumunddal, Tolga, Tynset",
     "publish": "Yes",
-    "datestart": "2026-05-07T07:00:00.000Z",
+    "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-30T07:00:00.000Z"
   },
   {
@@ -8656,7 +8656,7 @@
     "region": "Oppland",
     "districts": "Lillehammer, Dokka, Bagn, Brandbu, Fagernes",
     "publish": "Yes",
-    "datestart": "2026-05-07T07:00:00.000Z",
+    "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-30T07:00:00.000Z"
   },
   {
@@ -8666,7 +8666,7 @@
     "region": "Oslo",
     "districts": "Oslo",
     "publish": "Yes",
-    "datestart": "2026-05-07T07:00:00.000Z",
+    "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-30T07:00:00.000Z"
   },
   {
@@ -8676,7 +8676,7 @@
     "region": "Vestfold",
     "districts": "Sandefjord, Svarstad, Revetal, Tønsberg, Stokke, Nøtterøy, Sande",
     "publish": "Yes",
-    "datestart": "2026-05-07T07:00:00.000Z",
+    "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-30T07:00:00.000Z"
   },
   {
@@ -8686,7 +8686,7 @@
     "region": "Østfold",
     "districts": "Fredrikstad, Halden, Sarpsborg, Rygge, Moss, Askim, Mysen, Spydeberg",
     "publish": "Yes",
-    "datestart": "2026-05-07T07:00:00.000Z",
+    "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-30T07:00:00.000Z"
   },
   {
@@ -9132,9 +9132,9 @@
     "code": "PH",
     "svspc": "SV",
     "region": "Cagayan Valley",
-    "districts": "Cauayan City",
+    "districts": "Lal-lo",
     "publish": "Yes",
-    "datestart": "2026-02-02T08:00:00.000Z",
+    "datestart": "2026-03-01T08:00:00.000Z",
     "dateend": "2026-03-13T07:00:00.000Z"
   },
   {
@@ -11607,7 +11607,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Kaohsiung",
-    "districts": "Ren Wu Qu, Feng Shan Qu",
+    "districts": "Ren Wu Qu, Feng Shan Qu, Gang Shan Qu",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -11617,7 +11617,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Hualian",
-    "districts": "Yu Li Zhen",
+    "districts": "Yu Li Zhen, Fu Li Xiang",
     "publish": "Yes",
     "datestart": "2026-01-19T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -11627,7 +11627,7 @@
     "code": "TH",
     "svspc": "3W",
     "region": "Central",
-    "districts": "Ratchaburi",
+    "districts": "Ratchaburi , Pathun thani",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-03-31T07:00:00.000Z"
@@ -11901,8 +11901,8 @@
     "svspc": "SV",
     "region": "Illinois",
     "districts": "Chicago, Jersey, Madison, Macoupin, Saint Claire, Champaign, Ford, Piatt, Douglas, Peoria, Lake, Cook, Will, Grundy, Kendall, Kane, DuPage, DeKab, La Salle, Lee, Quincy, Mt Vernon, Springfield, Waukegan, Joliet, Aurora, Kankakee, McHenry, Boone, Montgomery, Bond, Fayette, Christian, Shelby, Crawford, Jasper, Effingham, Clay, Wayne, Jefferson, Marion, Clinton, Adams, Pike, Brown, Schuyler, Hancock, McDonough, Pike, Greene, Scott, Morgan, Iroquois, Vermillion",
-    "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "publish": "Yes",
+    "datestart": "2026-03-09T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
@@ -11934,6 +11934,16 @@
     "publish": "No",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-01-01T08:00:00.000Z"
+  },
+  {
+    "country": "United States",
+    "code": "US",
+    "svspc": "SV",
+    "region": "Oregon",
+    "districts": "Clatsop, Tillamook, Washington, Yamhill, Marion, Clackamas, Multnomah, Hood River, Wasco, Sherman, Lincoln, Benton, Lane, Douglas, Coos, Curry, Josephine, Jackson, Klamath, Lake, Deschutes, Crook, Jefferson, Wheeler, Grant, Harney, Gilliam, Morrow, Baker, Malheur, Wallowa, Columbia, Linn, Polk, Umatilla, Union",
+    "publish": "Yes",
+    "datestart": "2026-03-09T07:00:00.000Z",
+    "dateend": "2026-12-01T08:00:00.000Z"
   },
   {
     "country": "United States",
@@ -12061,8 +12071,8 @@
     "svspc": "SV",
     "region": "New York",
     "districts": "Suffolk, Nassau, Kings, Richmond, New York, Queens, Bronx, Westchester, Rockland, Sullivan, Delaware, Ulster, Greene, Orange, Schoharie, Otsego, Montgomery, Herkimer, Fulton, Tompkins, Cortland, Broome, Tioga, Schuyler, Allegany, Cattaraugus, Chautauqua, Erie, Wyoming, Genesee, Orleans, Monroe, Livingston, Ontario, Seneca, Wayne, St. Lawrence, Jefferson, Franklin, Lewis, Oneida, Hamilton",
-    "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "publish": "Yes",
+    "datestart": "2026-03-23T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
@@ -12281,8 +12291,8 @@
     "svspc": "SV",
     "region": "Indiana",
     "districts": "Lake, Porter, Newton, Jasper, Benton, Warren, LaPorte, Franklin, Fayette, Union, Wayne, Henry, Randolph, Delaware, Jay, Blackford, Madison, Hancock, Marion, Hamilton, Boone, Clinton, Tipton, Howard, Shelby, Johnson, Brown, Bartholomew, Jackson, Hendricks, Morgan, Lawrence, Monroe, Martin, Grant",
-    "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "publish": "Yes",
+    "datestart": "2026-02-01T08:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
