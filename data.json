@@ -3509,7 +3509,7 @@
     "code": "CA",
     "region": "Ontario",
     "districts": "Addington, Carleton, Dundas, Frontenac, Glengarry, Grenville, Hastings, Lanark, Leeds, Lennox, Prescott, Prince Edward, Renfrew, Russell, Stormont, Dufferin, Durham, Halton, Haliburton, Lincoln, Peel, Niagara, Ontario, Northumberland, Peterborough, Simcoe, Welland, Wentworth, York, Victoria, Brant, Bruce, Elgin, Essex, Grey, Haldimand, Huron, Kent, Lambton, Middlesex, Norfolk, Oxford, Perth, Waterloo, Wellington, Algoma, Manitoulin, Nipissing, Parry Sound, Sudbury, Temiskaming, Thunder Bay, Muskoka, Kenora, Mississauga, Brampton, Etobicoke, Downtown, Kitchener, Waterloo, Cambridge, Hamilton, Georgetown, MIlton, Barrie, Collingwood",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
@@ -3518,7 +3518,7 @@
     "code": "CA",
     "region": "British Columbia",
     "districts": "Alberni-Clayoquot, Mount Waddington, Strathcona, Comos Valley, Nanaimo, Cowichan Valley, Capital, Great Vancouver, Fraser Valley, Powell River, East Kootenay, Central Kooteney, Kooteney Boundary, Thompson-Nicola, Columbia-Shuswap, Kitimat-Stikine, Stikine, Northern Rockies, Peace River, Bulkley-Nechako, Skeena-Queen Charlotte",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
@@ -3563,7 +3563,7 @@
     "code": "CA",
     "region": "Québec",
     "districts": "Nord-du-Québec, Abitibi-Ouest, Abitibi, Rouyn-Noranda, Antoine-Labelle, Matawinie, Coaticook, Memphrémagog, Le Haut-Saint-François, Le Val-Saint-François, Sherbrooke, Le Granit, Beauce-Sartigan, Robert-Cliche, Les Etchemins, Montmagny, L’Islet, Mirabel, Argenteuil, La Rivière-du-Nord, Les Pays-d’en-Haut, Les Laurentides, Rivière-du-Loup, Kamouraska, Les Basques, Rimouski-Neigette, La Mitis, La Côte-de-Gaspé, Le Rocher-Perce, Bona-venture, Le Haut-Saint-Maurice, Le Domaine-du-Roy, Maria-Chapdelaine, Lac-Saint-Jean-Est, Le Fjord-du-Saguenay, La Haute-Côte-Nord, Manicouagan, Minganie – Basse-Côte-Nord",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
@@ -3572,7 +3572,7 @@
     "code": "CA",
     "region": "Alberta",
     "districts": "Pincher Creek, Cardston, Warner, Forty Mile, Cypress, Taber, Lethbridge, Willow Creek, Ranchland, Red Deer, Mountain View, Kneehill, Rocky View, Wheatland, Starland, Newell, Lacombe, Clearwater, Yellowhead, Brazeau, Provost, Grand Prairie, Saddle Hills, Spirit River, Fairview, Clear Hills, Northern Lights, Big Lakes, Lesser Slave River, Woodlands, Opportunity, Athabasca, Bonnyville, Smoky Lake, St. Paul, Lamont, Two Hills, Minburn, Beaver, Flagstaff, Wainwright, Vermillion River, Mackenzie County",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
@@ -3581,7 +3581,7 @@
     "code": "CA",
     "region": "Manitoba",
     "districts": "Interlake Region, Eastern Region, Winnipeg Region, Central Region, Parkland, Pembina Valley, Westman, Dauphin",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
@@ -3590,7 +3590,7 @@
     "code": "CA",
     "region": "Saskatchewan",
     "districts": "Saskatoon, Regina, Yorkton, Melville, Estevan, Weyburn",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
@@ -6118,7 +6118,7 @@
     "region": "Gorontalo",
     "districts": "Gorontalo, Bumela, Reksonegoro, Datahu Isimu, Bonga",
     "publish": "Yes",
-    "datestart": "2026-01-02T08:00:00.000Z",
+    "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -6943,7 +6943,10 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Aomori",
-    "publish": "No"
+    "districts": "Hachinohe, Towada, Kuji",
+    "publish": "Yes",
+    "datestart": "2026-04-01T07:00:00.000Z",
+    "dateend": "2026-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6957,7 +6960,10 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Iwate",
-    "publish": "No"
+    "districts": "Kesennuma, Ichinoseki",
+    "publish": "Yes",
+    "datestart": "2026-04-01T07:00:00.000Z",
+    "dateend": "2026-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6973,15 +6979,18 @@
     "region": "Miyagi",
     "districts": "Sendai, Osaki",
     "publish": "Yes",
-    "datestart": "2026-03-31T07:00:00.000Z",
-    "dateend": "2026-05-31T07:00:00.000Z"
+    "datestart": "2026-04-01T07:00:00.000Z",
+    "dateend": "2026-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Yamagata",
-    "publish": "No"
+    "districts": "Sakata, Tsuruoka",
+    "publish": "Yes",
+    "datestart": "2026-04-01T07:00:00.000Z",
+    "dateend": "2026-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7049,7 +7058,9 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Kanagawa",
-    "publish": "No"
+    "publish": "No",
+    "datestart": "2026-04-01T07:00:00.000Z",
+    "dateend": "2026-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7076,7 +7087,10 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Niigata",
-    "publish": "No"
+    "districts": "Jyoetsu, Niigata, Sanjyo",
+    "publish": "Yes",
+    "datestart": "2026-04-01T07:00:00.000Z",
+    "dateend": "2026-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7090,14 +7104,20 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Toyama",
-    "publish": "No"
+    "districts": "Toyama, Takaoka",
+    "publish": "Yes",
+    "datestart": "2026-04-01T07:00:00.000Z",
+    "dateend": "2026-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Ishikawa",
-    "publish": "No"
+    "districts": "Kanazawa, Kaga",
+    "publish": "Yes",
+    "datestart": "2026-04-01T07:00:00.000Z",
+    "dateend": "2026-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7134,7 +7154,10 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Shiga",
-    "publish": "No"
+    "districts": "Hikone, Omihachiman, Higashi Omi",
+    "publish": "Yes",
+    "datestart": "2026-02-01T08:00:00.000Z",
+    "dateend": "2026-05-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7216,28 +7239,40 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Ehime",
-    "publish": "No"
+    "districts": "ShikokuChuo",
+    "publish": "Yes",
+    "datestart": "2026-03-31T07:00:00.000Z",
+    "dateend": "2026-05-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Tottori",
-    "publish": "No"
+    "districts": "Yonago, Sakaiminato",
+    "publish": "Yes",
+    "datestart": "2026-04-01T07:00:00.000Z",
+    "dateend": "2026-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Shimane",
-    "publish": "No"
+    "districts": "Izumo, Matsue",
+    "publish": "Yes",
+    "datestart": "2026-04-01T07:00:00.000Z",
+    "dateend": "2026-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Yamaguchi",
-    "publish": "No"
+    "districts": "Shmonoseki, Hagi",
+    "publish": "Yes",
+    "datestart": "2026-04-01T07:00:00.000Z",
+    "dateend": "2026-06-30T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7298,10 +7333,7 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Kagoshima",
-    "districts": "Makurazaki, Ibusuki, Minami-Satsuma",
-    "publish": "Yes",
-    "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-03-31T07:00:00.000Z"
+    "publish": "No"
   },
   {
     "country": "Japan",
@@ -9082,20 +9114,10 @@
     "code": "PH",
     "svspc": "SV",
     "region": "Calabarzon",
-    "districts": "Calamba",
-    "publish": "Yes",
-    "datestart": "2026-02-02T08:00:00.000Z",
-    "dateend": "2026-03-13T07:00:00.000Z"
-  },
-  {
-    "country": "Philippines",
-    "code": "PH",
-    "svspc": "SV",
-    "region": "Calabarzon",
     "districts": "Quezon City",
     "publish": "Yes",
-    "datestart": "2026-02-28T08:00:00.000Z",
-    "dateend": "2026-03-20T07:00:00.000Z"
+    "datestart": "2026-03-09T07:00:00.000Z",
+    "dateend": "2026-04-11T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -9104,8 +9126,18 @@
     "region": "Calabarzon",
     "districts": "Antipolo City",
     "publish": "Yes",
-    "datestart": "2026-02-09T08:00:00.000Z",
-    "dateend": "2026-03-13T07:00:00.000Z"
+    "datestart": "2026-03-09T07:00:00.000Z",
+    "dateend": "2026-04-11T07:00:00.000Z"
+  },
+  {
+    "country": "Philippines",
+    "code": "PH",
+    "svspc": "SV",
+    "region": "Central Luzon",
+    "districts": "Guimba",
+    "publish": "Yes",
+    "datestart": "2026-03-16T07:00:00.000Z",
+    "dateend": "2026-03-31T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -9115,24 +9147,24 @@
     "districts": "Bago",
     "publish": "Yes",
     "datestart": "2026-02-12T08:00:00.000Z",
-    "dateend": "2026-03-13T07:00:00.000Z"
+    "dateend": "2026-04-30T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Cagayan Valley",
-    "districts": "Ilagan City",
+    "region": "Ilocos Region",
+    "districts": "Nueva Era",
     "publish": "Yes",
-    "datestart": "2026-02-02T08:00:00.000Z",
-    "dateend": "2026-03-13T07:00:00.000Z"
+    "datestart": "2026-03-16T07:00:00.000Z",
+    "dateend": "2026-03-31T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Cagayan Valley",
-    "districts": "Lal-lo",
+    "region": "Ilocos Region",
+    "districts": "Vintar",
     "publish": "Yes",
     "datestart": "2026-03-01T08:00:00.000Z",
     "dateend": "2026-03-13T07:00:00.000Z"
@@ -9142,10 +9174,10 @@
     "code": "PH",
     "svspc": "SV",
     "region": "Calabarzon",
-    "districts": "Quezon City",
+    "districts": "Batangas City",
     "publish": "Yes",
-    "datestart": "2026-02-10T08:00:00.000Z",
-    "dateend": "2026-03-20T07:00:00.000Z"
+    "datestart": "2026-03-16T07:00:00.000Z",
+    "dateend": "2026-04-11T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -9154,8 +9186,8 @@
     "region": "Returned to warehouse",
     "districts": "Returned to warehouse",
     "publish": "Yes",
-    "datestart": "2024-05-01T07:00:00.000Z",
-    "dateend": "2024-08-01T07:00:00.000Z"
+    "datestart": "2026-05-01T07:00:00.000Z",
+    "dateend": "2026-04-11T07:00:00.000Z"
   },
   {
     "country": "Polska",
@@ -11597,7 +11629,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Tainan",
-    "districts": "Xin Ying Qu, Ling Ying Qu",
+    "districts": "Xin Ying Qu, Li Jia Qu",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -11607,7 +11639,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Kaohsiung",
-    "districts": "Ren Wu Qu, Feng Shan Qu, Gang Shan Qu",
+    "districts": "Ren Wu Qu, Yong An Qu, Gang Shan Qu",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -11852,8 +11884,8 @@
     "region": "Idaho",
     "districts": "Ada, Adams, Bannock, Bear Lake, Benewah, Bingham, Blaine, Boise, Bonner, Bonneville, Boundary, Butte, Camas, Canyon, Caribou, Cassia, Clark, Clearwater, Custer, Elmore, Franklin, Fremont, Gem, Gooding, Idaho, Jefferson, Jerome, Kootenai, Latah, Lemhi, Lewis, Lincoln, Madison, Minidoka, Nez Perce, Oneida, Owyhee, Payette, Power, Shoshone, Teton, Twin Falls, Valley, Washington, Idaho Falls, Burley, Lewiston",
     "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-09-30T07:00:00.000Z"
+    "datestart": "2026-05-01T07:00:00.000Z",
+    "dateend": "2026-11-01T07:00:00.000Z"
   },
   {
     "country": "United States",
@@ -11861,7 +11893,7 @@
     "svspc": "SV",
     "region": "Iowa",
     "districts": "Osceola, Dickinson, Emmet, Palo Alto, Kossuth, Pocahontas, Humboldt, Calhoun, Webster, Woodbury, Ida, Crawford, Monona, Plymouth, Cherokee, Buena Vista, Sac, Carroll, Cerro Gordo, Worth, Mitchell, Floyd, Howard, Chickasaw, Winneshiek, Clayton, Fayette, Dubuque, Jackson, Jones, Delaware, Clinton, Scott, Cedar, Johnson, Iowa, Benton, Linn, Lee, Davis, Wapello, Jefferson, Keokuk, Mahaska, Washington, Muscatine, Tama, Marshall, Hardin, Grundy, Hamilton, Wright, Boone, Greene, Webster",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
@@ -11872,7 +11904,7 @@
     "region": "Montana",
     "districts": "Beaverhead, Big Horn, Blaine, Broadwater, Carbon, Carter, Cascade, Chouteau, Custer, Daniels, Dawson, Deer Lodge, Fallon, Fergus, Flathead, Gallatin, Garfield, Glacier, Golden Valley, Granite, Hill, Jefferson, Judith Basin, Lake, Lewis and Clark, Liberty, Lincoln, Madison, McCone, Meagher, Mineral, Missoula, Musselshell, Park, Petroleum, Phillips, Pondera, Powder River, Powell, Prairie, Ravalli, Richland, Roosevelt, Rosebud, Sanders, Sheridan, Silver Bow, Stillwater, Sweet Grass, Teton, Toole, Treasure, Valley, Wheatland, Wibaux, Yellowstone, Bozeman, Billings",
     "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "datestart": "2026-05-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
@@ -11881,7 +11913,7 @@
     "svspc": "SV",
     "region": "New Hampshire",
     "districts": "Rockingham, Strafford, Sullivan, Grafton, Coos, Carroll",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
@@ -11892,7 +11924,7 @@
     "region": "North Dakota",
     "districts": "Adams, Barnes, Benson, Billings, Bottineau, Bowman, Burke, Burleigh, Cass, Cavalier, Dickey, Divide, Dunn, Eddy, Emmons, Foster, Golden Valley, Grand Forks, Grant, Griggs, Hettinger, Kidder, LaMoure, Logan, McHenry, McIntosh, McKenzie, McLean, Mercer, Morton, Mountrail, Nelson, Oliver, Pembina, Pierce, Ramsey, Ransom, Renville, Richland, Rolette, Sargent, Sheridan, Sioux, Slope, Stark, Steele, Stutsman, Towner, Traill, Walsh, Ward, Wells, Williams, Bismarck",
     "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "datestart": "2026-06-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
@@ -11912,7 +11944,7 @@
     "region": "Rhode Island",
     "districts": "Providence, Kent, Washington",
     "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "datestart": "2026-05-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
@@ -11951,7 +11983,7 @@
     "svspc": "SV",
     "region": "Minnesota",
     "districts": "Kittson, Roseau, Marshall, Polk, Pennington, Red Lake, Mahnomen, Clay, Becker, Clearwater, Hubbard, Wadena, Otter Trail, Wilkin, Traverse, Big Stone, Chippewa, Swift, Stevens, Grant, Douglas, Pope, Kandiyohi, Stearns, Todd, Cass, Beltrami, Koochiching, St. Louis, Lake, Cook, Pipestone, Murray, Rock, Nobles, Jackson, Cottonwood, Brown, Watonwan, Martin, Blue Earth, Faribault, Nicollet, Le Sueur, Freeborn, Mower, Fillmore, Olmsted, Dodge, Winona, Dakota, Hennepin, Ramset, Washington, Chisago, Anoka, Isanti,  Sherburne, Houston",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
@@ -11961,7 +11993,7 @@
     "svspc": "SV",
     "region": "Nebraska",
     "districts": "Sioux, Scotts Bluff, Banner, Kimball, Dawes, Box Butte, Morrill, Cheyenne, Sheridan, Garden, Deuel, Cherry, Grant, Arthur, Keith, Perkins, Chase, Dundy, Hayes, Hitchcock, Frontier, Red Willow, Keya Paha, Boyd, Brown, Rock, Holt, Garfield, Wheeler, Valley, Greeley, Thurston, Wayne, Stanton, Cuming, Burt, Boone, Nance, Merrick, Platte, Colfax, Dodge, Washington, Douglas, Sarpy, Cass Otoe, Lancaster, Richardson, Gage, Furnas, Hall, Hamilton, York, Seward, Clay, Fillmore, Saline, Webster, Franklin, Nuckolls, Thayer",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
@@ -11971,9 +12003,9 @@
     "svspc": "SV",
     "region": "Wisconsin",
     "districts": "St. Croix, Pierce, Dunn, Pepin, Barron, Rusk, Chippewa, Eau Claire, Taylor, Clark, Jackson, La Crosse, Monroe, Vilas, Forest, Oneida, Lincoln, Langlade, Marathon, Menominee, Shawano, Waupaca, Portage, Oconto, Outagamie, Brown, Winnebago, Calumet, Manitowoc, Fond Du Lac, Shebogan, Dodge, Washington, Ozaukee, Jefferson, Waukesha, Milwaukee, Walworth, Racine, Kenosha, Rock, Green, Dane, Grant, Lafayette, Iowa, Crawford, Richland, Sauk, Juneau, Adams, Monroe",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-09-30T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "United States",
@@ -12001,7 +12033,7 @@
     "svspc": "SV",
     "region": "Maine",
     "districts": "York, Cumberland, Sagadahoc, Androscoggin, Oxford, Kennebec, Lincoln, Knox, Waldo, Hancock, Washington, Penobscot, Aroostook, Piscataquis, Somerset",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
@@ -12022,7 +12054,7 @@
     "region": "Connecticut",
     "districts": "Newhaven, Fairfield, Litchfield, Hartford, Middlesex, New London, Tolland, Windham, Norwich",
     "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "datestart": "2026-05-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
@@ -12042,7 +12074,7 @@
     "region": "Massachusetts",
     "districts": "Essex, Middlesex, Suffolk, Norfolk, Barnstable, Plymouth",
     "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "datestart": "2026-05-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
@@ -12051,7 +12083,7 @@
     "svspc": "SV",
     "region": "Michigan",
     "districts": "Wexford, Manistee, Mason, Lake, Osceola, Oceana, Newaygo, Muskegon, Ottawa, Kent, Allegan, Calhoun, Eaton, Ingham, Jackson, Branch, Hillsdale, Lenawee, Clinton, Gratiot, Saginaw, Shiawassee, Genesee, Oakland, Wayne, Macomb, Tuscola, Sanilac, Huron, St. Clair, Arenac, Iosco, Ogemaw, Roscommon, Clare, Gladwin, Missaukee, Oscoda, Alcona, Montmorency, Alpena, Presque Isle, Cheboygan, Emmet, Charlevoix, Otsego, Mackinac, Chippewa, Luce, Alger, Schoolcraft, Keweenaw, Houghton, Baraga, Ontonagon, Gogebic, Iron, Dickinson, Marquette",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
@@ -12182,7 +12214,7 @@
     "region": "Utah",
     "districts": "Box Elder, Tooele, Juab, Millard, Beaver, Iron, Washington, Kane, Garfield, Piute, Wayne, Sevier, Emery, Sanpete, Carbon, Utah, Wasatch, Duchesne, San Juan, Uintah, Daggett, Summit, Salt Lake, Davis, Morgan, Weber, Cache",
     "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "datestart": "2026-06-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
@@ -12212,7 +12244,7 @@
     "region": "Wyoming",
     "districts": "Albany, Big Horn, Campbell, Carbon, Converse, Crook, Fremont, Goshen, Hot Springs, Johnson, Laramie, Lincoln, Natrona, Niobrara, Park, Platte, Sheridan, Sublette, Sweetwater, Teton, Uinta, Washakie, Weston, Cheyenne",
     "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "datestart": "2026-05-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
@@ -12242,7 +12274,7 @@
     "region": "South Dakota",
     "districts": "Aurora, Beadle, Bennett, Bon Homme, Brookings, Brown, Brule, Buffalo, Butte, Campbell, Charles Mix, Clark, Clay, Codington, Corson, Custer, Davison, Day, Deuel, Dewey, Douglas, Edmunds, Fall River, Faulk, Grant, Gregory, Haakon, Hamlin, Hand, Hanson, Harding, Hughes, Hutchinson, Hyde, Jackson, Jerauld, Jones, Kingsbury, Lake, Lawrence, Lincoln, Lyman, Marshall, McCook, McPherson, Meade, Mellette, Miner, Minnehaha, Moody, Oglala Lakota, Pennington, Perkins, Potter, Roberts, Sanborn, Spink, Stanley, Sully, Todd, Tripp, Turner, Union, Walworth, Yankton, Ziebach, Aberdeen, Sioux Falls",
     "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "datestart": "2026-06-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
@@ -12281,7 +12313,7 @@
     "svspc": "SV",
     "region": "Colorado",
     "districts": "Colorado Springs, Teller, Park, Lake, Eagle, Summit, Clear Creek, Jefferson, Douglas, El Paso, Elbert, Arapahoe, Denver, Adams, Boulder, Gilpin, Weld, Prowers, Bent, Baca, Kiowa, Pueblo, Freemont, Custer, Montrose, Ouray, San Miguel, San Juan, Dolores, Rio Blanco, Moffat, Garfield, Jackson, Larimer, Weld, Boulder, Gilpin, Las Animas, Costila",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
@@ -12330,7 +12362,7 @@
     "region": "Washington DC",
     "districts": "DC",
     "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "datestart": "2026-05-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
@@ -12350,7 +12382,7 @@
     "region": "Vermont",
     "districts": "Essex, Orleans, Caledonia, Lamoille, Washington, Orange, Windsor, Windham, Bennington, Rutland",
     "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "datestart": "2026-05-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
@@ -12368,7 +12400,7 @@
     "region": "Alaska",
     "districts": "Anchorage, Fairbanks",
     "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "datestart": "2026-05-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
