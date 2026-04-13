@@ -1276,7 +1276,7 @@
     "svspc": "SV",
     "region": "Chaco",
     "districts": "Sáenz Peña",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1406,7 +1406,7 @@
     "svspc": "SV",
     "region": "Salta",
     "districts": "Salar de Pocitos, Santa Rosa de los Pastos Grandes",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1436,7 +1436,7 @@
     "svspc": "SV",
     "region": "Santa Cruz",
     "districts": "Caleta Olivia, Cmte. Luis Piedra Buena, El Calafate, Jaramillo, Las Heras, Perito Moreno, Pico Truncado, Puerto Santa Cruz, Río Gallegos",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2035,7 +2035,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Tocantins",
-    "districts": "Barra do Ouro,Combinado,Imperatriz,Novo Acordo",
+    "districts": "Barra do Ouro,Combinado,Imperatriz",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -2576,7 +2576,7 @@
     "svspc": "SV",
     "region": "Bolivar",
     "districts": "Bolivar",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2646,7 +2646,7 @@
     "svspc": "SV",
     "region": "Chocó",
     "districts": "Chocó",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2656,7 +2656,7 @@
     "svspc": "SV",
     "region": "Córdoba",
     "districts": "Córdoba",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2666,7 +2666,7 @@
     "svspc": "SV",
     "region": "Cundinamarca",
     "districts": "Cundinamarca",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2766,7 +2766,7 @@
     "svspc": "SV",
     "region": "Quindío",
     "districts": "Manizales, Pereira",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2826,7 +2826,7 @@
     "svspc": "SV",
     "region": "Valle del Cauca",
     "districts": "Valle del Cauca",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -6119,7 +6119,7 @@
     "districts": "Gorontalo, Bumela, Reksonegoro, Datahu Isimu, Bonga",
     "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -6129,7 +6129,7 @@
     "districts": "Borebore, Bugingkalo, Romporompo, Kasiputih",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -6149,7 +6149,7 @@
     "districts": "Pekanbaru, Bengkalis, Pangkal Pinang",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -6169,7 +6169,7 @@
     "districts": "Palembang, Jambi, Plaju, Bukit Siguntang, Sungai Gerong, Talangbetoetoe,",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -9113,11 +9113,11 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Calabarzon",
-    "districts": "Quezon City",
+    "region": "Central Luzon",
+    "districts": "Mexico",
     "publish": "Yes",
-    "datestart": "2026-03-09T07:00:00.000Z",
-    "dateend": "2026-04-11T07:00:00.000Z"
+    "datestart": "2026-04-07T07:00:00.000Z",
+    "dateend": "2026-04-30T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -9127,14 +9127,14 @@
     "districts": "Antipolo City",
     "publish": "Yes",
     "datestart": "2026-03-09T07:00:00.000Z",
-    "dateend": "2026-04-11T07:00:00.000Z"
+    "dateend": "2026-04-30T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Central Luzon",
-    "districts": "Guimba",
+    "region": "Calabarzon",
+    "districts": "Quezon City",
     "publish": "Yes",
     "datestart": "2026-03-16T07:00:00.000Z",
     "dateend": "2026-03-31T07:00:00.000Z"
@@ -9146,35 +9146,35 @@
     "region": "Western Visayas",
     "districts": "Bago",
     "publish": "Yes",
-    "datestart": "2026-02-12T08:00:00.000Z",
+    "datestart": "2026-03-23T07:00:00.000Z",
     "dateend": "2026-04-30T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Ilocos Region",
-    "districts": "Nueva Era",
+    "region": "EasternVisayas",
+    "districts": "Ormoc",
     "publish": "Yes",
-    "datestart": "2026-03-16T07:00:00.000Z",
-    "dateend": "2026-03-31T07:00:00.000Z"
+    "datestart": "2026-04-07T07:00:00.000Z",
+    "dateend": "2026-04-30T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Ilocos Region",
-    "districts": "Vintar",
+    "region": "EasternVisayas",
+    "districts": "Leyte",
     "publish": "Yes",
-    "datestart": "2026-03-01T08:00:00.000Z",
-    "dateend": "2026-03-13T07:00:00.000Z"
+    "datestart": "2026-04-07T07:00:00.000Z",
+    "dateend": "2026-04-30T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Calabarzon",
-    "districts": "Batangas City",
+    "region": "Central Luzon",
+    "districts": "Guimba",
     "publish": "Yes",
     "datestart": "2026-03-16T07:00:00.000Z",
     "dateend": "2026-04-11T07:00:00.000Z"
@@ -11883,8 +11883,8 @@
     "svspc": "SV",
     "region": "Idaho",
     "districts": "Ada, Adams, Bannock, Bear Lake, Benewah, Bingham, Blaine, Boise, Bonner, Bonneville, Boundary, Butte, Camas, Canyon, Caribou, Cassia, Clark, Clearwater, Custer, Elmore, Franklin, Fremont, Gem, Gooding, Idaho, Jefferson, Jerome, Kootenai, Latah, Lemhi, Lewis, Lincoln, Madison, Minidoka, Nez Perce, Oneida, Owyhee, Payette, Power, Shoshone, Teton, Twin Falls, Valley, Washington, Idaho Falls, Burley, Lewiston",
-    "publish": "No",
-    "datestart": "2026-05-01T07:00:00.000Z",
+    "publish": "Yes",
+    "datestart": "2026-04-13T07:00:00.000Z",
     "dateend": "2026-11-01T07:00:00.000Z"
   },
   {
