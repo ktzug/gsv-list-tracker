@@ -11629,7 +11629,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Tainan",
-    "districts": "Xin Ying Qu, Li Jia Qu",
+    "districts": "Xin Ying Qu, Yu Jia Qu",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -11639,7 +11639,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Kaohsiung",
-    "districts": "Ren Wu Qu, Yong An Qu, Gang Shan Qu",
+    "districts": "Qi Shan Qu",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -11649,9 +11649,19 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Hualian",
-    "districts": "Yu Li Zhen, Fu Li Xiang",
+    "districts": "Fu Li Xiang",
     "publish": "Yes",
     "datestart": "2026-01-19T08:00:00.000Z",
+    "dateend": "2026-12-31T08:00:00.000Z"
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
+    "region": "Taidong",
+    "districts": "Chi Shi Xiang",
+    "publish": "Yes",
+    "datestart": "2026-04-09T07:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
