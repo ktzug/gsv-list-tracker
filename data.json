@@ -11913,7 +11913,7 @@
     "svspc": "SV",
     "region": "Montana",
     "districts": "Beaverhead, Big Horn, Blaine, Broadwater, Carbon, Carter, Cascade, Chouteau, Custer, Daniels, Dawson, Deer Lodge, Fallon, Fergus, Flathead, Gallatin, Garfield, Glacier, Golden Valley, Granite, Hill, Jefferson, Judith Basin, Lake, Lewis and Clark, Liberty, Lincoln, Madison, McCone, Meagher, Mineral, Missoula, Musselshell, Park, Petroleum, Phillips, Pondera, Powder River, Powell, Prairie, Ravalli, Richland, Roosevelt, Rosebud, Sanders, Sheridan, Silver Bow, Stillwater, Sweet Grass, Teton, Toole, Treasure, Valley, Wheatland, Wibaux, Yellowstone, Bozeman, Billings",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-05-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
@@ -11953,7 +11953,7 @@
     "svspc": "SV",
     "region": "Rhode Island",
     "districts": "Providence, Kent, Washington",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-05-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
@@ -12063,7 +12063,7 @@
     "svspc": "SV",
     "region": "Connecticut",
     "districts": "Newhaven, Fairfield, Litchfield, Hartford, Middlesex, New London, Tolland, Windham, Norwich",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-05-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
@@ -12083,7 +12083,7 @@
     "svspc": "SV",
     "region": "Massachusetts",
     "districts": "Essex, Middlesex, Suffolk, Norfolk, Barnstable, Plymouth",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-05-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
@@ -12253,8 +12253,8 @@
     "svspc": "SV",
     "region": "Wyoming",
     "districts": "Albany, Big Horn, Campbell, Carbon, Converse, Crook, Fremont, Goshen, Hot Springs, Johnson, Laramie, Lincoln, Natrona, Niobrara, Park, Platte, Sheridan, Sublette, Sweetwater, Teton, Uinta, Washakie, Weston, Cheyenne",
-    "publish": "No",
-    "datestart": "2026-05-01T07:00:00.000Z",
+    "publish": "Yes",
+    "datestart": "2026-04-26T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
@@ -12372,7 +12372,7 @@
     "region": "Washington DC",
     "districts": "DC",
     "publish": "No",
-    "datestart": "2026-05-01T07:00:00.000Z",
+    "datestart": "2026-06-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
@@ -12391,7 +12391,7 @@
     "svspc": "SV",
     "region": "Vermont",
     "districts": "Essex, Orleans, Caledonia, Lamoille, Washington, Orange, Windsor, Windham, Bennington, Rutland",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-05-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
@@ -12410,7 +12410,7 @@
     "region": "Alaska",
     "districts": "Anchorage, Fairbanks",
     "publish": "No",
-    "datestart": "2026-05-01T07:00:00.000Z",
+    "datestart": "2026-06-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
