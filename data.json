@@ -1336,7 +1336,7 @@
     "svspc": "SV",
     "region": "Jujuy",
     "districts": "Olaroz Chico, Susques, Pastos Chicos, Catua",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1476,7 +1476,7 @@
     "svspc": "SV",
     "region": "Tucumán",
     "districts": "La Cocha, Taco Ralo",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2196,7 +2196,7 @@
     "svspc": "SV",
     "region": "Tarapacá",
     "districts": "Pachica",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2206,7 +2206,7 @@
     "svspc": "SV",
     "region": "Antofagasta",
     "districts": "Antofagasta, Tacopilla",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2546,7 +2546,7 @@
     "svspc": "SV",
     "region": "Arauca",
     "districts": "Arauca",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2845,7 +2845,7 @@
     "code": "CO",
     "svspc": "SV",
     "region": "Vichada",
-    "districts": "Cumaribo, El Porvenir, Palmarito, Paratebueno",
+    "districts": "Cumaribo, El Porvenir, Palmarito",
     "publish": "Yes",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -3365,7 +3365,7 @@
     "svspc": "SV",
     "region": "Ancash",
     "districts": "Carhuaz, Huaraz, Recuay",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -3385,7 +3385,7 @@
     "svspc": "SV",
     "region": "Arequipa",
     "districts": "Mollendo",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -3405,7 +3405,7 @@
     "svspc": "SV",
     "region": "Chiclayo",
     "districts": "Pimentel, San Jose",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -3465,7 +3465,7 @@
     "svspc": "SV",
     "region": "Lambayeque",
     "districts": "Lambayeque",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -6079,7 +6079,7 @@
     "districts": "Sampit, Palangkaraya, Pangkalan Bun",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -6099,7 +6099,7 @@
     "districts": "Makassar, Maros, Pangkep, Bonto-bonto, Bili-Bili, Lampoto, Watampone,",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-05-30T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -6129,7 +6129,7 @@
     "districts": "Borebore, Bugingkalo, Romporompo, Kasiputih",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-09-30T07:00:00.000Z"
+    "dateend": "2026-05-30T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -7181,9 +7181,9 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Hyogo",
-    "districts": "Tamba-Sasayama, Tamba, Nishiwaki",
+    "districts": "Akashi, Sanda, Awaji",
     "publish": "Yes",
-    "datestart": "2026-02-01T08:00:00.000Z",
+    "datestart": "2026-05-31T07:00:00.000Z",
     "dateend": "2026-08-31T07:00:00.000Z"
   },
   {
@@ -9102,7 +9102,7 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Central Luzon",
+    "region": "Metro Manila",
     "districts": "Quezon City",
     "publish": "Yes",
     "datestart": "2026-04-07T07:00:00.000Z",
@@ -9112,8 +9112,8 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Calabarzon",
-    "districts": "Norzagaray",
+    "region": "Cetral Luzon",
+    "districts": "Mexico",
     "publish": "Yes",
     "datestart": "2026-04-18T07:00:00.000Z",
     "dateend": "2026-05-09T07:00:00.000Z"
@@ -9133,10 +9133,10 @@
     "code": "PH",
     "svspc": "SV",
     "region": "Western Visayas",
-    "districts": "Kabangkalan",
+    "districts": "Iloilo City",
     "publish": "Yes",
-    "datestart": "2026-04-18T07:00:00.000Z",
-    "dateend": "2026-05-16T07:00:00.000Z"
+    "datestart": "2026-05-06T07:00:00.000Z",
+    "dateend": "2026-05-31T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -9153,7 +9153,7 @@
     "code": "PH",
     "svspc": "SV",
     "region": "Caraga",
-    "districts": "Butuan City",
+    "districts": "City of Tandag",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-05-16T07:00:00.000Z"
@@ -9162,11 +9162,11 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Central Luzon",
-    "districts": "Guimba",
+    "region": "Western Visayas",
+    "districts": "San Remigio",
     "publish": "Yes",
-    "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-04-11T07:00:00.000Z"
+    "datestart": "2026-05-06T07:00:00.000Z",
+    "dateend": "2026-05-31T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -11654,6 +11654,16 @@
     "dateend": "2026-12-31T08:00:00.000Z"
   },
   {
+    "country": "Taiwan",
+    "code": "TW",
+    "svspc": "SV",
+    "region": "Pei Hu County",
+    "districts": "Mao Gong Shi, Hu Xi Xiang",
+    "publish": "Yes",
+    "datestart": "2026-05-11T07:00:00.000Z",
+    "dateend": "2026-05-31T07:00:00.000Z"
+  },
+  {
     "country": "Thailand",
     "code": "TH",
     "svspc": "3W",
@@ -11661,7 +11671,7 @@
     "districts": "Ratchaburi , Pathun thani",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-03-31T07:00:00.000Z"
+    "dateend": "2026-06-30T07:00:00.000Z"
   },
   {
     "country": "Thailand",
@@ -11671,7 +11681,7 @@
     "districts": "Samut Sakhon, Ratchaburi, Phetchaburi, Prachuap Khiri Khan, Chonburi, Rayong, Sisaket, Ubon Ratchathani, Roiet, Mahasarakham, Sakon Nakhon, Nong Khai, Loei, Sukhothai, Nakhon Sawan, Satun, Pattani, Phatthalung, Songkhla, Narathiwat",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-06-30T07:00:00.000Z"
+    "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
     "country": "Tunisia",
@@ -11922,7 +11932,7 @@
     "svspc": "SV",
     "region": "North Dakota",
     "districts": "Adams, Barnes, Benson, Billings, Bottineau, Bowman, Burke, Burleigh, Cass, Cavalier, Dickey, Divide, Dunn, Eddy, Emmons, Foster, Golden Valley, Grand Forks, Grant, Griggs, Hettinger, Kidder, LaMoure, Logan, McHenry, McIntosh, McKenzie, McLean, Mercer, Morton, Mountrail, Nelson, Oliver, Pembina, Pierce, Ramsey, Ransom, Renville, Richland, Rolette, Sargent, Sheridan, Sioux, Slope, Stark, Steele, Stutsman, Towner, Traill, Walsh, Ward, Wells, Williams, Bismarck",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-06-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
@@ -12212,7 +12222,7 @@
     "svspc": "SV",
     "region": "Utah",
     "districts": "Box Elder, Tooele, Juab, Millard, Beaver, Iron, Washington, Kane, Garfield, Piute, Wayne, Sevier, Emery, Sanpete, Carbon, Utah, Wasatch, Duchesne, San Juan, Uintah, Daggett, Summit, Salt Lake, Davis, Morgan, Weber, Cache",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-06-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
@@ -12272,7 +12282,7 @@
     "svspc": "SV",
     "region": "South Dakota",
     "districts": "Aurora, Beadle, Bennett, Bon Homme, Brookings, Brown, Brule, Buffalo, Butte, Campbell, Charles Mix, Clark, Clay, Codington, Corson, Custer, Davison, Day, Deuel, Dewey, Douglas, Edmunds, Fall River, Faulk, Grant, Gregory, Haakon, Hamlin, Hand, Hanson, Harding, Hughes, Hutchinson, Hyde, Jackson, Jerauld, Jones, Kingsbury, Lake, Lawrence, Lincoln, Lyman, Marshall, McCook, McPherson, Meade, Mellette, Miner, Minnehaha, Moody, Oglala Lakota, Pennington, Perkins, Potter, Roberts, Sanborn, Spink, Stanley, Sully, Todd, Tripp, Turner, Union, Walworth, Yankton, Ziebach, Aberdeen, Sioux Falls",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-06-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
@@ -12360,8 +12370,8 @@
     "svspc": "SV",
     "region": "Washington DC",
     "districts": "DC",
-    "publish": "No",
-    "datestart": "2026-06-01T07:00:00.000Z",
+    "publish": "Yes",
+    "datestart": "2026-05-18T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
