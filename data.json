@@ -1256,7 +1256,7 @@
     "svspc": "SV",
     "region": "Buenos Aires",
     "districts": "Tigre, San Isidro, Ezeiza, San Nicolás de los Arroyo",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1375,7 +1375,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Misiones",
-    "districts": "Cmte. Andresito, Puerto Libertad, Puerto Esperanza, 25 de Mayo, Apóstoles, Santa Ana",
+    "districts": "Cmte. Andresito, Puerto Libertad, Puerto Esperanza, 25 de Mayo, Santa Ana",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -1755,7 +1755,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Alagoas",
-    "districts": "Arapiraca, Deodoro",
+    "districts": "Deodoro",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -1876,7 +1876,7 @@
     "svspc": "SV",
     "region": "Mato Grosso do Sul",
     "districts": "Chapadão do Sul",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1945,7 +1945,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Piauí",
-    "districts": "Altos,Barras,Bom Princípio do Piauí,Boqueirão do Piauí,Campo Grande,Campo Maior,Floriano,Jaicós,Marcolândia,Massapê do Piauí,Oeiras,Paquetá,Parnaíba,Pedro II,Pedro Laurentino,Picos,Pimenteiras,Piracuruca,Piripiri,Queimada Nova,São José do Peixe,Teresina,Tianguá,Viçosa do Ceará",
+    "districts": "Altos,Barras,Bom Princípio do Piauí,Boqueirão do Piauí,Campo Grande,Campo Maior,Floriano,Jaicós,Massapê do Piauí,Oeiras,Paquetá,Parnaíba,Pedro II,Pedro Laurentino,Picos,Pimenteiras,Piracuruca,Piripiri,Queimada Nova,São José do Peixe,Teresina,Tianguá,Viçosa do Ceará",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -1975,7 +1975,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Rio Grande do Sul",
-    "districts": "Candelaria,Uruguaiana",
+    "districts": "Uruguaiana",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -2035,7 +2035,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Tocantins",
-    "districts": "Barra do Ouro,Combinado,Imperatriz",
+    "districts": "Barra do Ouro",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -2216,7 +2216,7 @@
     "svspc": "SV",
     "region": "Atacama",
     "districts": "Vallenar",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2256,7 +2256,7 @@
     "svspc": "SV",
     "region": "O'Higgins",
     "districts": "Rancagua",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2536,7 +2536,7 @@
     "svspc": "SV",
     "region": "Antioquia",
     "districts": "Antioquia",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2596,7 +2596,7 @@
     "svspc": "SV",
     "region": "Caldas",
     "districts": "Caldas",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2706,7 +2706,7 @@
     "svspc": "SV",
     "region": "La Guajira",
     "districts": "Fonseca",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2836,7 +2836,7 @@
     "svspc": "SV",
     "region": "Vaupés",
     "districts": "Vaupés",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -3355,7 +3355,7 @@
     "svspc": "SV",
     "region": "Amazonas",
     "districts": "Pedro Ruiz, Pomacochas",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -3394,7 +3394,7 @@
     "code": "PE",
     "svspc": "SV",
     "region": "Ayacucho",
-    "districts": "Aynaca, Peru",
+    "districts": "Peru",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -3415,7 +3415,7 @@
     "svspc": "SV",
     "region": "Barranca",
     "districts": "Ocros",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -3528,7 +3528,7 @@
     "region": "New Brunswick",
     "districts": "Madawaska, Restigouche, Gloucester, Victoria, Northumberland, Carleton, York, Charlotte",
     "publish": "No",
-    "datestart": "2026-06-01T07:00:00.000Z",
+    "datestart": "2026-08-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -3537,7 +3537,7 @@
     "region": "Newfoundland and Labrador",
     "districts": "Burin Peninsula-Marystown, South Coast-Channel-Port aux Basques, St. George’s-Stephenville, Humber District-Corner Brook, Central Newfoundland-Grand Falls-Windsor, Bonavista/Trinity-Clarenville, Notre Dame Bay-Lewisporte",
     "publish": "No",
-    "datestart": "2026-06-01T07:00:00.000Z",
+    "datestart": "2026-07-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -3546,7 +3546,7 @@
     "region": "Northwest Territories",
     "districts": "Fort Smith, Fort Simpson, Yellowknife, Inuvik, Norman Wells, Bechoko",
     "publish": "No",
-    "datestart": "2026-06-01T07:00:00.000Z",
+    "datestart": "2026-07-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -3554,7 +3554,7 @@
     "code": "CA",
     "region": "Nova Scotia",
     "districts": "Digby, Yarmouth, Shelburne, Annapolis, Cape Breton, Richmond, Antigonish, Guysborough, Pictou, Halifax",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-06-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
@@ -3600,7 +3600,7 @@
     "region": "Yukon",
     "districts": "Carmacks, Fort Selkirk, Stewart Crossing, Mayo, Keno City, Dawson, McQuesten, Chapman Lake, Eagle Plains",
     "publish": "No",
-    "datestart": "2026-06-01T07:00:00.000Z",
+    "datestart": "2026-07-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -3609,7 +3609,7 @@
     "region": "Prince Edward Island",
     "districts": "Charlottetown",
     "publish": "No",
-    "datestart": "2026-06-01T07:00:00.000Z",
+    "datestart": "2026-07-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -6189,7 +6189,7 @@
     "districts": "Ubud, Mengwi, Semarapura, Bangli, Amlapura, Kubu, Besakih, Gianyar, Gretek",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -7199,9 +7199,7 @@
     "svspc": "SV",
     "region": "Okayama",
     "districts": "Okayama, Kurashiki",
-    "publish": "Yes",
-    "datestart": "2026-02-01T08:00:00.000Z",
-    "dateend": "2026-05-31T07:00:00.000Z"
+    "publish": "No"
   },
   {
     "country": "Japan",
@@ -7223,9 +7221,7 @@
     "svspc": "SV",
     "region": "Kochi",
     "districts": "Kochi, Konan",
-    "publish": "Yes",
-    "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-05-31T07:00:00.000Z"
+    "publish": "No"
   },
   {
     "country": "Japan",
@@ -7233,9 +7229,7 @@
     "svspc": "SV",
     "region": "Ehime",
     "districts": "ShikokuChuo",
-    "publish": "Yes",
-    "datestart": "2026-03-31T07:00:00.000Z",
-    "dateend": "2026-05-31T07:00:00.000Z"
+    "publish": "No"
   },
   {
     "country": "Japan",
@@ -9106,7 +9100,7 @@
     "districts": "Quezon City",
     "publish": "Yes",
     "datestart": "2026-04-07T07:00:00.000Z",
-    "dateend": "2026-05-16T07:00:00.000Z"
+    "dateend": "2026-06-05T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -9116,7 +9110,7 @@
     "districts": "Mexico",
     "publish": "Yes",
     "datestart": "2026-04-18T07:00:00.000Z",
-    "dateend": "2026-05-09T07:00:00.000Z"
+    "dateend": "2026-06-05T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -9136,37 +9130,37 @@
     "districts": "Iloilo City",
     "publish": "Yes",
     "datestart": "2026-05-06T07:00:00.000Z",
-    "dateend": "2026-05-31T07:00:00.000Z"
+    "dateend": "2026-06-12T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Caraga",
-    "districts": "Surigao",
+    "region": "Northern Mindanao",
+    "districts": "Malaybalay",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-05-23T07:00:00.000Z"
+    "dateend": "2026-06-05T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Caraga",
-    "districts": "City of Tandag",
+    "region": "Davao Region",
+    "districts": "Davao City",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
-    "dateend": "2026-05-16T07:00:00.000Z"
+    "dateend": "2026-06-05T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
     "region": "Western Visayas",
-    "districts": "San Remigio",
+    "districts": "Dapitan CIty",
     "publish": "Yes",
     "datestart": "2026-05-06T07:00:00.000Z",
-    "dateend": "2026-05-31T07:00:00.000Z"
+    "dateend": "2026-06-12T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -11678,7 +11672,7 @@
     "code": "TH",
     "svspc": "SV",
     "region": "Central, West, North, Northeastern, South, East",
-    "districts": "Samut Sakhon, Ratchaburi, Phetchaburi, Prachuap Khiri Khan, Chonburi, Rayong, Sisaket, Ubon Ratchathani, Roiet, Mahasarakham, Sakon Nakhon, Nong Khai, Loei, Sukhothai, Nakhon Sawan, Satun, Pattani, Phatthalung, Songkhla, Narathiwat",
+    "districts": "Ratchaburi, Phetchaburi, Prachuap Khiri Khan, Chonburi, Rayong, Sisaket, Ubon Ratchathani, Roiet, Mahasarakham, Nakhon Phanom, Sakon Nakhon, Sukhothai, Nakhon Sawan, Satun, Pattani, Phatthalung, Songkhla, Narathiwat",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
@@ -12408,9 +12402,7 @@
     "svspc": "SV",
     "region": "Alaska",
     "districts": "Anchorage, Fairbanks",
-    "publish": "No",
-    "datestart": "2026-06-01T07:00:00.000Z",
-    "dateend": "2026-09-30T07:00:00.000Z"
+    "publish": "No"
   },
   {
     "country": "Ελλάδα",
