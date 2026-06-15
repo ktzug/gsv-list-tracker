@@ -1356,7 +1356,7 @@
     "svspc": "SV",
     "region": "La Rioja",
     "districts": "Alto Jaguel, Villa San José de Vinchina, Villa Castelli, Villa Unión, Guandacol",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1365,7 +1365,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Mendoza",
-    "districts": "La Cortadera, Lonco Vaca",
+    "districts": "La Cortadera,",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -1395,7 +1395,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Rio Negro",
-    "districts": "El Caín, Río Colorado, Gral. Conesa, San Antonio Oeste, San Carlos de Bariloche, Maquinchao",
+    "districts": "El Caín, Río Colorado, Gral. Conesa, San Antonio Oeste",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -1426,7 +1426,7 @@
     "svspc": "SV",
     "region": "San Luis",
     "districts": "Quines",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2266,7 +2266,7 @@
     "svspc": "SV",
     "region": "Maule",
     "districts": "Maule, Curicó",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2616,7 +2616,7 @@
     "svspc": "SV",
     "region": "Casanare",
     "districts": "Paratebueno, Pore, Yopal",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2626,7 +2626,7 @@
     "svspc": "SV",
     "region": "Cauca",
     "districts": "Cauca",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2776,7 +2776,7 @@
     "svspc": "SV",
     "region": "Risaralda",
     "districts": "Manizales, Pereira",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -4007,8 +4007,8 @@
     "svspc": "SV",
     "region": "Hradec Králové",
     "districts": "Rychnov Nad Kněžnou, Dvůr Králové nad Labem,",
-    "publish": "No",
-    "datestart": "2026-04-01T07:00:00.000Z",
+    "publish": "Yes",
+    "datestart": "2026-06-09T07:00:00.000Z",
     "dateend": "2026-10-30T07:00:00.000Z"
   },
   {
@@ -6119,7 +6119,7 @@
     "districts": "Gorontalo, Bumela, Reksonegoro, Datahu Isimu, Bonga",
     "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-09-30T07:00:00.000Z"
+    "dateend": "2026-08-30T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -6189,7 +6189,7 @@
     "districts": "Ubud, Mengwi, Semarapura, Bangli, Amlapura, Kubu, Besakih, Gianyar, Gretek",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-09-30T07:00:00.000Z"
+    "dateend": "2026-08-30T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -9096,10 +9096,10 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Metro Manila",
-    "districts": "Quezon City",
+    "region": "Returned to warehouse",
+    "districts": "Returned to warehouse",
     "publish": "Yes",
-    "datestart": "2026-04-07T07:00:00.000Z",
+    "datestart": "2026-06-05T07:00:00.000Z",
     "dateend": "2026-06-05T07:00:00.000Z"
   },
   {
@@ -9116,11 +9116,11 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Metro Manila",
-    "districts": "Quezon City",
+    "region": "Davao Region",
+    "districts": "Tagum",
     "publish": "Yes",
-    "datestart": "2026-04-18T07:00:00.000Z",
-    "dateend": "2026-05-31T07:00:00.000Z"
+    "datestart": "2026-06-10T07:00:00.000Z",
+    "dateend": "2026-06-30T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -9136,10 +9136,10 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Northern Mindanao",
-    "districts": "Malaybalay",
+    "region": "Davao Region",
+    "districts": "Malungon",
     "publish": "Yes",
-    "datestart": "2026-04-22T07:00:00.000Z",
+    "datestart": "2026-06-02T07:00:00.000Z",
     "dateend": "2026-06-05T07:00:00.000Z"
   },
   {
@@ -9147,9 +9147,9 @@
     "code": "PH",
     "svspc": "SV",
     "region": "Davao Region",
-    "districts": "Davao City",
+    "districts": "Mawab",
     "publish": "Yes",
-    "datestart": "2026-04-22T07:00:00.000Z",
+    "datestart": "2026-06-10T07:00:00.000Z",
     "dateend": "2026-06-05T07:00:00.000Z"
   },
   {
@@ -11653,7 +11653,7 @@
     "svspc": "SV",
     "region": "Pei Hu County",
     "districts": "Mao Gong Shi, Hu Xi Xiang",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-05-11T07:00:00.000Z",
     "dateend": "2026-05-31T07:00:00.000Z"
   },
@@ -12402,7 +12402,9 @@
     "svspc": "SV",
     "region": "Alaska",
     "districts": "Anchorage, Fairbanks",
-    "publish": "No"
+    "publish": "Yes",
+    "datestart": "2026-06-15T07:00:00.000Z",
+    "dateend": "2026-09-01T07:00:00.000Z"
   },
   {
     "country": "Ελλάδα",
