@@ -1785,7 +1785,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Bahia",
-    "districts": "Banzaê, Santa Helena de Minas, Umburaninha, Vila do Café",
+    "districts": "Banzaê, Santa Helena de Minas, Umburaninha",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -1826,7 +1826,7 @@
     "svspc": "SV",
     "region": "Goias",
     "districts": "Cocalzinho de Goiás,Niquelandia",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1885,7 +1885,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Minas Gerais",
-    "districts": "Ouro Preto,Tupaciguara,Uberlandia",
+    "districts": "Tupaciguara,Uberlandia",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -1895,7 +1895,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Pará",
-    "districts": "Abaetetuba,Araguacema,Canaã dos Carajás,Castanhal,Itaituba,Jacareacanga,Moju,Nova Esperança do Piriá,Ourilândia do Norte,Vigia",
+    "districts": "Abaetetuba,Castanhal,Itaituba,Jacareacanga,Moju,Nova Esperança do Piriáe,Vigia",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -1945,7 +1945,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Piauí",
-    "districts": "Altos,Barras,Bom Princípio do Piauí,Boqueirão do Piauí,Campo Grande,Campo Maior,Floriano,Jaicós,Massapê do Piauí,Oeiras,Paquetá,Parnaíba,Pedro II,Pedro Laurentino,Picos,Pimenteiras,Piracuruca,Piripiri,Queimada Nova,São José do Peixe,Teresina,Tianguá,Viçosa do Ceará",
+    "districts": "Bom Princípio do Piauí,Boqueirão do Piauí,Campo Grande,Campo Maior,Floriano,Parnaíba,Pedro II,Pedro Laurentino,Pimenteiras,Piracuruca,Piripiri,Queimada Nova,São José do Peixe,Tianguá,Viçosa do Ceará",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -1985,7 +1985,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Rondonia",
-    "districts": "Cacoal,Boa Vista do Pacarana",
+    "districts": "Boa Vista do Pacarana",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -2875,7 +2875,7 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Baja California del Sur",
-    "districts": "La Paz, San José del Cabo, Santa Rosalia",
+    "districts": "La Paz, Santa Rosalia",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -2926,7 +2926,7 @@
     "svspc": "SV",
     "region": "Coahuila",
     "districts": "Ciudad Acuña",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -4762,6 +4762,7 @@
   {
     "country": "France",
     "code": "FR",
+    "svspc": "SV",
     "region": "Var",
     "districts": "Provence-Alpes-Côte d'Azur",
     "publish": "No",
@@ -4771,6 +4772,7 @@
   {
     "country": "France",
     "code": "FR",
+    "svspc": "SV",
     "region": "Vaucluse",
     "districts": "Provence-Alpes-Côte d'Azur",
     "publish": "No",
@@ -4945,9 +4947,11 @@
   },
   {
     "country": "Gibraltar",
-    "code": "gi",
-    "districts": "No Driving, All Areas",
-    "publish": "No"
+    "code": "GI",
+    "districts": "Gibraltar",
+    "publish": "Yes",
+    "datestart": "2026-07-01T07:00:00.000Z",
+    "dateend": "2026-07-01T07:00:00.000Z"
   },
   {
     "country": "Guatemala",
