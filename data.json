@@ -2586,7 +2586,7 @@
     "svspc": "SV",
     "region": "Boyacá",
     "districts": "Boyacá",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2716,7 +2716,7 @@
     "svspc": "SV",
     "region": "Magdalena",
     "districts": "Santa Marta, Mamatoco",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -3445,7 +3445,7 @@
     "svspc": "SV",
     "region": "Junin",
     "districts": "Junin",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -3495,7 +3495,7 @@
     "svspc": "SV",
     "region": "San Martin",
     "districts": "Moyobamba, Nueva Cajamarca, Rioja, Soritor",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -3527,8 +3527,8 @@
     "code": "CA",
     "region": "New Brunswick",
     "districts": "Madawaska, Restigouche, Gloucester, Victoria, Northumberland, Carleton, York, Charlotte",
-    "publish": "No",
-    "datestart": "2026-08-01T07:00:00.000Z",
+    "publish": "Yes",
+    "datestart": "2026-07-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -3536,7 +3536,7 @@
     "code": "CA",
     "region": "Newfoundland and Labrador",
     "districts": "Burin Peninsula-Marystown, South Coast-Channel-Port aux Basques, St. George’s-Stephenville, Humber District-Corner Brook, Central Newfoundland-Grand Falls-Windsor, Bonavista/Trinity-Clarenville, Notre Dame Bay-Lewisporte",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-07-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
@@ -3546,7 +3546,7 @@
     "region": "Northwest Territories",
     "districts": "Fort Smith, Fort Simpson, Yellowknife, Inuvik, Norman Wells, Bechoko",
     "publish": "No",
-    "datestart": "2026-07-01T07:00:00.000Z",
+    "datestart": "2026-08-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -3599,7 +3599,7 @@
     "code": "CA",
     "region": "Yukon",
     "districts": "Carmacks, Fort Selkirk, Stewart Crossing, Mayo, Keno City, Dawson, McQuesten, Chapman Lake, Eagle Plains",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-07-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
@@ -3609,7 +3609,7 @@
     "region": "Prince Edward Island",
     "districts": "Charlottetown",
     "publish": "No",
-    "datestart": "2026-07-01T07:00:00.000Z",
+    "datestart": "2026-08-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
@@ -4948,6 +4948,7 @@
   {
     "country": "Gibraltar",
     "code": "GI",
+    "svspc": "SV",
     "districts": "Gibraltar",
     "publish": "Yes",
     "datestart": "2026-07-01T07:00:00.000Z",
@@ -6093,7 +6094,7 @@
     "districts": "Balikpapan, Banjarmasin, Pelaihari, Longkali",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -6193,7 +6194,7 @@
     "districts": "Ubud, Mengwi, Semarapura, Bangli, Amlapura, Kubu, Besakih, Gianyar, Gretek",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-08-30T07:00:00.000Z"
+    "dateend": "2026-07-30T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -7066,10 +7067,7 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Shizuoka",
-    "districts": "Kikukawa, Yaizu, Shizuoka",
-    "publish": "Yes",
-    "datestart": "2026-02-01T08:00:00.000Z",
-    "dateend": "2026-06-30T07:00:00.000Z"
+    "publish": "No"
   },
   {
     "country": "Japan",
@@ -7143,10 +7141,7 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Mie",
-    "districts": "Tsu, Matsusaka, Suzuoka",
-    "publish": "Yes",
-    "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-06-30T07:00:00.000Z"
+    "publish": "No"
   },
   {
     "country": "Japan",
@@ -7304,7 +7299,6 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Kumamoto",
-    "districts": "Tamana, Yamagata",
     "publish": "No"
   },
   {
@@ -7312,7 +7306,6 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Oita",
-    "districts": "Oita, Beppu",
     "publish": "No"
   },
   {
@@ -9110,38 +9103,38 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Cetral Luzon",
-    "districts": "Mexico",
+    "region": "Davao Region",
+    "districts": "Tagum",
     "publish": "Yes",
-    "datestart": "2026-04-18T07:00:00.000Z",
-    "dateend": "2026-06-05T07:00:00.000Z"
+    "datestart": "2026-06-13T07:00:00.000Z",
+    "dateend": "2026-07-15T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
     "region": "Davao Region",
-    "districts": "Tagum",
+    "districts": "Monkayo",
     "publish": "Yes",
-    "datestart": "2026-06-10T07:00:00.000Z",
-    "dateend": "2026-06-30T07:00:00.000Z"
+    "datestart": "2026-06-13T07:00:00.000Z",
+    "dateend": "2026-07-15T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
     "region": "Western Visayas",
-    "districts": "Iloilo City",
+    "districts": "Dumagas",
     "publish": "Yes",
-    "datestart": "2026-05-06T07:00:00.000Z",
+    "datestart": "2026-06-15T07:00:00.000Z",
     "dateend": "2026-06-12T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Davao Region",
-    "districts": "Malungon",
+    "region": "Soccsksargen",
+    "districts": "Makilala",
     "publish": "Yes",
     "datestart": "2026-06-02T07:00:00.000Z",
     "dateend": "2026-06-05T07:00:00.000Z"
@@ -9150,8 +9143,8 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Davao Region",
-    "districts": "Mawab",
+    "region": "Soccsksargen",
+    "districts": "Matalam",
     "publish": "Yes",
     "datestart": "2026-06-10T07:00:00.000Z",
     "dateend": "2026-06-05T07:00:00.000Z"
@@ -9160,11 +9153,11 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Western Visayas",
-    "districts": "Dapitan CIty",
+    "region": "Davao Region",
+    "districts": "Davao City",
     "publish": "Yes",
-    "datestart": "2026-05-06T07:00:00.000Z",
-    "dateend": "2026-06-12T07:00:00.000Z"
+    "datestart": "2026-06-19T07:00:00.000Z",
+    "dateend": "2026-06-30T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -11616,7 +11609,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Tainan",
-    "districts": "Xin Ying Qu, Yu Jia Qu",
+    "districts": "Jian Jun Qu",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -11626,7 +11619,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Kaohsiung",
-    "districts": "Qi Shan Qu",
+    "districts": "Qian Zhen Qu",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -11637,16 +11630,16 @@
     "svspc": "SV",
     "region": "Hualian",
     "districts": "Fu Li Xiang",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-19T08:00:00.000Z",
-    "dateend": "2026-12-31T08:00:00.000Z"
+    "dateend": "2026-05-31T07:00:00.000Z"
   },
   {
     "country": "Taiwan",
     "code": "TW",
     "svspc": "SV",
     "region": "Taidong",
-    "districts": "Chi Shi Xiang",
+    "districts": "Tai Dong Shi",
     "publish": "Yes",
     "datestart": "2026-04-09T07:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
