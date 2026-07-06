@@ -11659,17 +11659,17 @@
     "code": "TH",
     "svspc": "3W",
     "region": "Central",
-    "districts": "Ratchaburi , Pathun thani",
+    "districts": "Pathun thani, Nonthaburi, Nakhon pathum",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-06-30T07:00:00.000Z"
+    "dateend": "2026-07-31T07:00:00.000Z"
   },
   {
     "country": "Thailand",
     "code": "TH",
     "svspc": "SV",
     "region": "Central, West, North, Northeastern, South, East",
-    "districts": "Ratchaburi, Phetchaburi, Prachuap Khiri Khan, Chonburi, Rayong, Sisaket, Ubon Ratchathani, Roiet, Mahasarakham, Nakhon Phanom, Sakon Nakhon, Sukhothai, Nakhon Sawan, Satun, Pattani, Phatthalung, Songkhla, Narathiwat",
+    "districts": "Ratchaburi, Phetchaburi, Prachuap Khiri Khan, Chonburi, Rayong, Burirum, Ubon Ratchathani, Khonkean, Mahasarakham, Nakhon Phanom, Sakon Nakhon, Utharadit, Nakhon Sawan, Satun, Chumporn, Ranong",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
