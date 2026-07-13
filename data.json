@@ -1316,7 +1316,7 @@
     "svspc": "SV",
     "region": "Entre Rios",
     "districts": "San Salvador",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1375,7 +1375,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Misiones",
-    "districts": "Cmte. Andresito, Puerto Libertad, Puerto Esperanza, 25 de Mayo, Santa Ana",
+    "districts": " Puerto Libertad, 25 de Mayo, Santa Ana",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -1416,7 +1416,7 @@
     "svspc": "SV",
     "region": "San Juan",
     "districts": "Rodeo",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2236,7 +2236,7 @@
     "svspc": "SV",
     "region": "Valparaíso",
     "districts": "San Antonio",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2566,7 +2566,7 @@
     "svspc": "SV",
     "region": "Bogota",
     "districts": "Bogota",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2756,7 +2756,7 @@
     "svspc": "SV",
     "region": "Putumayo",
     "districts": "Manizales, Pereira",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2875,7 +2875,7 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Baja California del Sur",
-    "districts": "La Paz, Santa Rosalia",
+    "districts": " Santa Rosalia",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -6254,7 +6254,7 @@
     "districts": "Flores, Sumba, Rote, Timoe, Kupang",
     "publish": "Yes",
     "datestart": "2026-05-01T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -6264,7 +6264,7 @@
     "districts": "Sumbawa, Badjo, Bima, Dompu",
     "publish": "Yes",
     "datestart": "2026-05-01T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -9114,7 +9114,7 @@
     "code": "PH",
     "svspc": "SV",
     "region": "Davao Region",
-    "districts": "Monkayo",
+    "districts": "Davao City",
     "publish": "Yes",
     "datestart": "2026-06-13T07:00:00.000Z",
     "dateend": "2026-07-15T07:00:00.000Z"
@@ -9123,21 +9123,21 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Western Visayas",
-    "districts": "Dumagas",
+    "region": "Northern Mindanao",
+    "districts": "Oroqueta City",
     "publish": "Yes",
-    "datestart": "2026-06-15T07:00:00.000Z",
-    "dateend": "2026-06-12T07:00:00.000Z"
+    "datestart": "2026-07-01T07:00:00.000Z",
+    "dateend": "2026-07-31T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
     "region": "Soccsksargen",
-    "districts": "Makilala",
+    "districts": "Carmen",
     "publish": "Yes",
-    "datestart": "2026-06-02T07:00:00.000Z",
-    "dateend": "2026-06-05T07:00:00.000Z"
+    "datestart": "2026-07-01T07:00:00.000Z",
+    "dateend": "2026-07-31T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -9147,17 +9147,17 @@
     "districts": "Matalam",
     "publish": "Yes",
     "datestart": "2026-06-10T07:00:00.000Z",
-    "dateend": "2026-06-05T07:00:00.000Z"
+    "dateend": "2026-07-06T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
     "region": "Davao Region",
-    "districts": "Davao City",
+    "districts": "Kalawit",
     "publish": "Yes",
-    "datestart": "2026-06-19T07:00:00.000Z",
-    "dateend": "2026-06-30T07:00:00.000Z"
+    "datestart": "2026-07-03T07:00:00.000Z",
+    "dateend": "2026-07-10T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -11662,7 +11662,7 @@
     "districts": "Pathun thani, Nonthaburi, Nakhon pathum",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-07-31T07:00:00.000Z"
+    "dateend": "2026-08-31T07:00:00.000Z"
   },
   {
     "country": "Thailand",
