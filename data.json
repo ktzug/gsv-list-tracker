@@ -4950,7 +4950,7 @@
     "code": "GI",
     "svspc": "SV",
     "districts": "Gibraltar",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-07-01T07:00:00.000Z",
     "dateend": "2026-07-01T07:00:00.000Z"
   },
@@ -6144,7 +6144,7 @@
     "districts": "Medan, Binjai, Pangakalan Brandan, Pangkalan Susu, Pematang SIantar, Serbalawan, Tebing Tinggi, Sei Rampah, Inderapura, Kisaran, Tanjung Balai, Simpangampat, Asahan, Simalingkar,",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-12-30T08:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -6154,7 +6154,7 @@
     "districts": "Pekanbaru, Bengkalis, Pangkal Pinang",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-09-30T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -6164,17 +6164,17 @@
     "districts": "Lubuktarantang, Dharmasraya",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-04-30T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
     "code": "ID",
     "svspc": "SV",
     "region": "South Sumatra",
-    "districts": "Palembang, Jambi, Plaju, Bukit Siguntang, Sungai Gerong, Talangbetoetoe,",
+    "districts": "Palembang, Jambi, Plaju, Bukit Siguntang, Sungai Gerong, Talangbetoetoe, ",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-09-30T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -6214,7 +6214,7 @@
     "districts": "Bekasi, Bogor, Depok, Garut, Cimahi, Rancaekek, Soreang, Sumedang, Jatibarang, Ciamis, Banjar, Sidaredja, Cidora",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-12-30T08:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -6224,7 +6224,7 @@
     "districts": "Temanggung, Banjarnegara, Purbalingga, Purwokerto, Klaten, Boyolali, Demak, Sragen, Magelang, Blora",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-09-30T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -6244,7 +6244,7 @@
     "districts": "Jogyakarta, Purworedjo, Bantul, Sleman,",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-08-30T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -6944,7 +6944,7 @@
     "districts": "Asahikawa, Wakkanai, Abashiri",
     "publish": "Yes",
     "datestart": "2026-05-31T07:00:00.000Z",
-    "dateend": "2026-08-31T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6954,14 +6954,17 @@
     "districts": "Hachinohe, Towada, Kuji",
     "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-08-31T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
     "code": "JP",
     "svspc": "SV",
     "region": "Akita",
-    "publish": "No"
+    "districts": "Yurihonjyo, Daisen",
+    "publish": "Yes",
+    "datestart": "2026-07-01T07:00:00.000Z",
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -6978,7 +6981,7 @@
     "districts": "Fukushima, Koriyama, Iwaki",
     "publish": "Yes",
     "datestart": "2026-05-31T07:00:00.000Z",
-    "dateend": "2026-08-31T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7002,7 +7005,7 @@
     "districts": "Maebashi, Isesaki, Fujioka, Kiryu",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-08-31T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7012,7 +7015,7 @@
     "districts": "Tsukuba, Ushiku, Kamisu, Katori, Kamisu",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-08-31T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7022,7 +7025,7 @@
     "districts": "Tochigi, Maoka",
     "publish": "Yes",
     "datestart": "2026-02-01T08:00:00.000Z",
-    "dateend": "2026-08-31T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7046,7 +7049,7 @@
     "districts": "Chiba, Ichihara, Kisarazu",
     "publish": "Yes",
     "datestart": "2026-03-31T07:00:00.000Z",
-    "dateend": "2026-08-31T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7077,7 +7080,7 @@
     "districts": "Okaya, Matsumoto",
     "publish": "Yes",
     "datestart": "2026-03-31T07:00:00.000Z",
-    "dateend": "2026-08-31T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7087,7 +7090,7 @@
     "districts": "Jyoetsu, Niigata, Sanjyo",
     "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-08-31T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7104,7 +7107,7 @@
     "districts": "Toyama, Takaoka",
     "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-08-31T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7114,7 +7117,7 @@
     "districts": "Kanazawa, Kaga",
     "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-08-31T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7124,7 +7127,7 @@
     "districts": "Gifu, Kagamihara, Hashima",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-08-31T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7134,7 +7137,7 @@
     "districts": "Toyota, Okazaki, Chiryu",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-08-31T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7149,7 +7152,9 @@
     "svspc": "SV",
     "region": "Shiga",
     "districts": "Hikone, Omihachiman, Higashi Omi",
-    "publish": "No"
+    "publish": "Yes",
+    "datestart": "2026-07-01T07:00:00.000Z",
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7173,7 +7178,7 @@
     "districts": "Osaka, Sakai",
     "publish": "Yes",
     "datestart": "2026-03-31T07:00:00.000Z",
-    "dateend": "2026-08-31T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7183,7 +7188,7 @@
     "districts": "Akashi, Sanda, Awaji",
     "publish": "Yes",
     "datestart": "2026-05-31T07:00:00.000Z",
-    "dateend": "2026-08-31T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7198,7 +7203,9 @@
     "svspc": "SV",
     "region": "Okayama",
     "districts": "Okayama, Kurashiki",
-    "publish": "No"
+    "publish": "Yes",
+    "datestart": "2026-05-31T07:00:00.000Z",
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7219,7 +7226,6 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Kochi",
-    "districts": "Kochi, Konan",
     "publish": "No"
   },
   {
@@ -7227,8 +7233,10 @@
     "code": "JP",
     "svspc": "SV",
     "region": "Ehime",
-    "districts": "ShikokuChuo",
-    "publish": "No"
+    "districts": "ShikokuChuo, Saijo",
+    "publish": "Yes",
+    "datestart": "2026-08-01T07:00:00.000Z",
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7238,7 +7246,7 @@
     "districts": "Yonago, Sakaiminato",
     "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-08-31T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7248,7 +7256,7 @@
     "districts": "Izumo, Matsue",
     "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-08-31T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7258,7 +7266,7 @@
     "districts": "Shmonoseki, Hagi",
     "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
-    "dateend": "2026-08-31T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7268,7 +7276,7 @@
     "districts": "Mihara, Higashi-Hiroshima",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-08-31T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7278,7 +7286,7 @@
     "districts": "Kurume, Chikugo, Tamana",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-08-31T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -7323,7 +7331,7 @@
     "districts": "Miyazaki",
     "publish": "Yes",
     "datestart": "2026-03-31T07:00:00.000Z",
-    "dateend": "2026-08-31T07:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Japan",
@@ -9104,20 +9112,20 @@
     "code": "PH",
     "svspc": "SV",
     "region": "Davao Region",
-    "districts": "Tagum",
+    "districts": "Glan",
     "publish": "Yes",
-    "datestart": "2026-06-13T07:00:00.000Z",
-    "dateend": "2026-07-15T07:00:00.000Z"
+    "datestart": "2026-07-20T07:00:00.000Z",
+    "dateend": "2026-08-15T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
     "region": "Davao Region",
-    "districts": "Davao City",
+    "districts": "General Santos City",
     "publish": "Yes",
-    "datestart": "2026-06-13T07:00:00.000Z",
-    "dateend": "2026-07-15T07:00:00.000Z"
+    "datestart": "2026-07-20T07:00:00.000Z",
+    "dateend": "2026-08-15T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -11610,7 +11618,7 @@
     "svspc": "SV",
     "region": "Tainan",
     "districts": "Jian Jun Qu",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-02T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -11639,7 +11647,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Taidong",
-    "districts": "Tai Dong Shi",
+    "districts": "Tai Ma Li Zhen",
     "publish": "Yes",
     "datestart": "2026-04-09T07:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
