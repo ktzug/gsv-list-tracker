@@ -427,7 +427,7 @@
     "code": "AT",
     "svspc": "SV",
     "region": "Steiermark",
-    "districts": "Bruck-Mürzzuschlag, Deutschlandsberg, Graz, Graz-Umgebung, Graz-Land, Hartberg-Fürstenfeld, Leibnitz, Leoben, Liezen, Murau, Murtal, Neunkirchen, Obersteiermark, Oststeiermark, Pöls-Kapfenberg, Südoststeiermark, Voitsberg, Weiz, Wolfsberg, Bruck an der Mur.",
+    "districts": "ibraltar",
     "publish": "Yes",
     "datestart": "2026-03-24T07:00:00.000Z",
     "dateend": "2026-10-27T07:00:00.000Z"
@@ -1306,7 +1306,7 @@
     "svspc": "SV",
     "region": "Corrientes",
     "districts": "Esquina",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1375,7 +1375,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Misiones",
-    "districts": " Puerto Libertad, 25 de Mayo, Santa Ana",
+    "districts": " 25 de Mayo, Santa Ana",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -1446,7 +1446,7 @@
     "svspc": "SV",
     "region": "Santa Fe",
     "districts": "Rosario",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2286,7 +2286,7 @@
     "svspc": "SV",
     "region": "Bio Bio",
     "districts": "Los Angeles",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2636,7 +2636,7 @@
     "svspc": "SV",
     "region": "Cesar",
     "districts": "Cesar",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2816,7 +2816,7 @@
     "svspc": "SV",
     "region": "Tolima",
     "districts": "Tolima",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -3395,7 +3395,7 @@
     "svspc": "SV",
     "region": "Ayacucho",
     "districts": "Peru",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
