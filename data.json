@@ -3545,7 +3545,7 @@
     "code": "CA",
     "region": "Northwest Territories",
     "districts": "Fort Smith, Fort Simpson, Yellowknife, Inuvik, Norman Wells, Bechoko",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-08-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
@@ -3608,7 +3608,7 @@
     "code": "CA",
     "region": "Prince Edward Island",
     "districts": "Charlottetown",
-    "publish": "No",
+    "publish": "Yes",
     "datestart": "2026-08-01T07:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
   },
@@ -6234,7 +6234,7 @@
     "districts": "Surabaya, Sidoarjo, Jember, Blitar, Kediri, Bojonegoro, Madura, Banjakan, Banyuwangi,",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -6264,7 +6264,7 @@
     "districts": "Sumbawa, Badjo, Bima, Dompu",
     "publish": "Yes",
     "datestart": "2026-05-01T07:00:00.000Z",
-    "dateend": "2026-11-30T08:00:00.000Z"
+    "dateend": "2026-10-31T07:00:00.000Z"
   },
   {
     "country": "Ireland",
@@ -9112,9 +9112,9 @@
     "code": "PH",
     "svspc": "SV",
     "region": "Davao Region",
-    "districts": "Glan",
+    "districts": "Malungon",
     "publish": "Yes",
-    "datestart": "2026-07-20T07:00:00.000Z",
+    "datestart": "2026-08-06T07:00:00.000Z",
     "dateend": "2026-08-15T07:00:00.000Z"
   },
   {
@@ -11607,7 +11607,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Nantou County",
-    "districts": "Cao Tun Zhen, Ji Ji Zhen",
+    "districts": "Zhu Shan Zhen, Nan Tou Shi",
     "publish": "Yes",
     "datestart": "2026-02-06T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -11667,10 +11667,10 @@
     "code": "TH",
     "svspc": "3W",
     "region": "Central",
-    "districts": "Pathun thani, Nonthaburi, Nakhon pathum",
+    "districts": "Pathun thani, Nonthaburi, Nakhon pathum, Chainat",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
-    "dateend": "2026-08-31T07:00:00.000Z"
+    "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
     "country": "Thailand",
