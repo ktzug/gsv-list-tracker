@@ -269,7 +269,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "South Australia",
-    "districts": "Saddleworth, Tarlee, Adelaide , SaddleWorth, Lock, Bon Bon, Coondambo, Andamooka, Woodside, Cooranbang, Woy Woy, ",
+    "districts": "Saddleworth, Tarlee, Adelaide , SaddleWorth, Lock, Bon Bon, Coondambo, Andamooka, Woodside, Cooranbang, Woy Woy,",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-01T08:00:00.000Z"
@@ -279,7 +279,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "Queensland",
-    "districts": "Kilcoy, Maleny, Gympie, Mackay, Mirani, Croydon, Dimbulah, Petford, Herberton, Tully, Helensvale, Toowoomba, burktown,  MacKenzie River, Charleville, Bollon, Sommariva",
+    "districts": "Kilcoy, Maleny, Gympie, Mackay, Mirani, Croydon, Dimbulah, Petford, Herberton, Tully, Helensvale, Toowoomba, burktown, MacKenzie River, Charleville, Bollon, Sommariva",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-01T08:00:00.000Z"
@@ -358,7 +358,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "Queensland",
-    "districts": "Kilcoy, Maleny, Gympie, Mackay, Mirani, Croydon, Dimbulah, Petford, Herberton, Tully, Helensvale, Toowoomba, burktown,  MacKenzie River, Charleville, Bollon, Sommariva",
+    "districts": "Kilcoy, Maleny, Gympie, Mackay, Mirani, Croydon, Dimbulah, Petford, Herberton, Tully, Helensvale, Toowoomba, burktown, MacKenzie River, Charleville, Bollon, Sommariva",
     "publish": "No",
     "datestart": "2026-01-02T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -378,7 +378,7 @@
     "code": "AU",
     "svspc": "SV",
     "region": "Victoria",
-    "districts": "Rosedale, Toongabbie, Noojee, Bruthen, Paynesville, Warburton",
+    "districts": "Rosedale, Toongabbie, Noojee, Bruthen, Paynesville, Warburton,",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -843,7 +843,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "São Paulo",
-    "districts": "São Paulo, Coronel Macedo, Bauru, Americana, Araras, Itapira, Limeira, Lorena, São Jose dos Campos, Santo André, São Bernardo do Campo,  Bertioga,Juquitiba, Peruibe,  Caraguatatuba, Cotia, Guaruja, Ibiuna, Itapevi, Itu, Jundiai, Rio Claro, Santa Barbara dOeste, Sumare, Botucatu, Guaratingueta, Piracicaba, Campinas, Dracena, Fartura, Itapeva, Bragança Paulista, Manduri, Marília, Pirajuí, Registro, Três Lagoas, Tupã, Ilha Comprida, Assis, Campos do Jordão, Presidente Prudente, Araraquara, Sao Carlos, Araçatuba, Sertãozinho, Barretos, Bebedouro, Catanduva, Franca, Guaira, Ituveraba, Jales, Votuporanga, Monte Aprazivel, Novo Horizonte, Porto Ferreira, São Sebastião, Sorocaba, Suzano, Tatui, Ribeirão Preto and Sao Jose do Rio Preto",
+    "districts": "São Paulo, Coronel Macedo, Bauru, Americana, Araras, Itapira, Limeira, Lorena, São Jose dos Campos, Santo André, São Bernardo do Campo, Bertioga,Juquitiba, Peruibe, Caraguatatuba, Cotia, Guaruja, Ibiuna, Itapevi, Itu, Jundiai, Rio Claro, Santa Barbara dOeste, Sumare, Botucatu, Guaratingueta, Piracicaba, Campinas, Dracena, Fartura, Itapeva, Bragança Paulista, Manduri, Marília, Pirajuí, Registro, Três Lagoas, Tupã, Ilha Comprida, Assis, Campos do Jordão, Presidente Prudente, Araraquara, Sao Carlos, Araçatuba, Sertãozinho, Barretos, Bebedouro, Catanduva, Franca, Guaira, Ituveraba, Jales, Votuporanga, Monte Aprazivel, Novo Horizonte, Porto Ferreira, São Sebastião, Sorocaba, Suzano, Tatui, Ribeirão Preto and Sao Jose do Rio Preto",
     "publish": "No",
     "datestart": "2021-02-01T08:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
@@ -903,7 +903,7 @@
     "code": "BR",
     "svspc": "SV",
     "region": "Goias",
-    "districts": "Goiania, Ceres, Luiziania, Ceres, Uruaçu, Acreuna, IporáItaberaí, Jataí, Rio Verde, Santa Helena de Goiás, Senador Canedo, Piracanjuba, Chapadão do Sul, Paranaíba, Cassilândia",
+    "districts": "Goiania, Ceres, Luiziania, Ceres, Uruaçu, Acreuna, Iporá Itaberaí, Jataí, Rio Verde, Santa Helena de Goiás, Senador Canedo, Piracanjuba, Chapadão do Sul, Paranaíba, Cassilândia",
     "publish": "No",
     "datestart": "2021-06-01T07:00:00.000Z",
     "dateend": "2022-12-01T08:00:00.000Z"
@@ -1285,7 +1285,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Chubut",
-    "districts": " Garayalde, Río Mayo, Alto Río Senguer, Trevelín, Puerto Madryn",
+    "districts": "Garayalde, Río Mayo, Alto Río Senguer, Trevelín, Puerto Madryn",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -1346,7 +1346,7 @@
     "svspc": "SV",
     "region": "La Pampa",
     "districts": "Realico, El Carancho, Cuchillo Có",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1375,8 +1375,8 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Misiones",
-    "districts": " 25 de Mayo, Santa Ana",
-    "publish": "Yes",
+    "districts": "25 de Mayo, Santa Ana",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1385,7 +1385,7 @@
     "code": "AR",
     "svspc": "SV",
     "region": "Neuquén",
-    "districts": " Añelo",
+    "districts": "Añelo",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -1756,7 +1756,7 @@
     "svspc": "SV",
     "region": "Alagoas",
     "districts": "Deodoro",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1786,7 +1786,7 @@
     "svspc": "SV",
     "region": "Bahia",
     "districts": "Banzaê, Santa Helena de Minas, Umburaninha",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1796,7 +1796,7 @@
     "svspc": "SV",
     "region": "Ceará",
     "districts": "Antonina do Norte,Juazeiro do Norte",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1836,7 +1836,7 @@
     "svspc": "SV",
     "region": "Espírito Santo",
     "districts": "Guaçuí,Linhares",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1846,7 +1846,7 @@
     "svspc": "SV",
     "region": "Goiás",
     "districts": "Combinado",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1906,7 +1906,7 @@
     "svspc": "SV",
     "region": "Paraíba",
     "districts": "Catolé do Rocha",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1926,7 +1926,7 @@
     "svspc": "SV",
     "region": "Paraná",
     "districts": "Paranaguá",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -1966,7 +1966,7 @@
     "svspc": "SV",
     "region": "Rio Grande do Norte",
     "districts": "Passa e Fica",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2875,7 +2875,7 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Baja California del Sur",
-    "districts": " Santa Rosalia",
+    "districts": "Santa Rosalia",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -2886,7 +2886,7 @@
     "svspc": "SV",
     "region": "Campeche",
     "districts": "Campeche, Alfredo V. Bonfil",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -2965,7 +2965,7 @@
     "code": "MX",
     "svspc": "SV",
     "region": "Guanajuato",
-    "districts": "San Miguel de Allende, Guanajuato, Irapuato, León de los Aldama",
+    "districts": "San Miguel de Allende, Irapuato, León de los Aldama",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -2986,7 +2986,7 @@
     "svspc": "SV",
     "region": "Hidalgo",
     "districts": "Pachuca",
-    "publish": "Yes",
+    "publish": "No",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
   },
@@ -3434,7 +3434,7 @@
     "code": "PE",
     "svspc": "SV",
     "region": "Cusco",
-    "districts": "Aguas Calientes, Ollantaytambo, Pichari",
+    "districts": "Aguas Calientes, Ollantaytambo",
     "publish": "Yes",
     "datestart": "2026-01-01T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
@@ -4016,7 +4016,7 @@
     "code": "CZ",
     "svspc": "SV",
     "region": "Pardubice",
-    "districts": "Ústí Nad Orlicí, Svitavy,  Chrudim",
+    "districts": "Ústí Nad Orlicí, Svitavy, Chrudim",
     "publish": "No",
     "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-30T07:00:00.000Z"
@@ -4134,7 +4134,7 @@
     "code": "ee",
     "svspc": "SV-SpC",
     "region": "Haapsalu, Kuressaare, Paide, Pärnu, Rakvere, Tallinn, Tartu, Viljandi",
-    "districts": "Haanja, Puurmani, Torma, Emmaste, Piila, Saarema, Mustjala, Abja-Pauloja, Voru,Perakula, Kullamaa, Manammaa",
+    "districts": "Haanja, Puurmani, Torma, Emmaste, Piila, Saarema, Mustjala, Abja-Pauloja, Voru, Perakula, Kullamaa, Manammaa",
     "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-30T07:00:00.000Z"
@@ -4144,7 +4144,7 @@
     "code": "ES",
     "svspc": "SV",
     "region": "Comunidad de Madrid",
-    "districts": "Madrid,  Alcalá de Henares, Alcobendas, Alcorcón, Aranjuez, Arganda del Rey, Collado Villalba, Colmenar Viejo, Coslada, Fuenlabrada, Getafe, Leganés, Majadahonda, Móstoles, Navalcarnero, Parla, San Lorenzo de El Escorial, Torrejón de Ardoz, Torrelaguna, Valdemoro and Valdaracete",
+    "districts": "Madrid, Alcalá de Henares, Alcobendas, Alcorcón, Aranjuez, Arganda del Rey, Collado Villalba, Colmenar Viejo, Coslada, Fuenlabrada, Getafe, Leganés, Majadahonda, Móstoles, Navalcarnero, Parla, San Lorenzo de El Escorial, Torrejón de Ardoz, Torrelaguna, Valdemoro and Valdaracete",
     "publish": "Yes",
     "datestart": "2026-01-16T08:00:00.000Z",
     "dateend": "2026-11-01T07:00:00.000Z"
@@ -5148,7 +5148,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Brezovo Polje, Hrvaška",
-    "districts": " Sisak-Moslavina",
+    "districts": "Sisak-Moslavina",
     "publish": "Yes",
     "datestart": "2026-03-24T07:00:00.000Z",
     "dateend": "2026-09-22T07:00:00.000Z"
@@ -5238,7 +5238,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Gračac",
-    "districts": "Lika-Senj County,  Zadar County",
+    "districts": "Lika-Senj County, Zadar County",
     "publish": "Yes",
     "datestart": "2026-03-24T07:00:00.000Z",
     "dateend": "2026-09-22T07:00:00.000Z"
@@ -5838,7 +5838,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Croatia proper",
-    "districts": "Zagreb,  Lika, Gorski Kotar, Zagorje, Međimurje, the Croatian Littoral, Podravina, Posavina, Kordun, Banovina, Prigorje, Turopolje, Moslavina, Žumberak",
+    "districts": "Zagreb, Lika, Gorski Kotar, Zagorje, Međimurje, the Croatian Littoral, Podravina, Posavina, Kordun, Banovina, Prigorje, Turopolje, Moslavina, Žumberak",
     "publish": "Yes",
     "datestart": "2026-03-24T07:00:00.000Z",
     "dateend": "2026-09-22T07:00:00.000Z"
@@ -6028,7 +6028,7 @@
     "code": "HR",
     "svspc": "SV",
     "region": "Zagreb county",
-    "districts": "Zaprešić,  Samobor, Velika Gorica",
+    "districts": "Zaprešić, Samobor, Velika Gorica",
     "publish": "Yes",
     "datestart": "2026-03-24T07:00:00.000Z",
     "dateend": "2026-09-22T07:00:00.000Z"
@@ -6061,7 +6061,7 @@
     "code": "ID",
     "svspc": "SV",
     "region": "West Kalimantan",
-    "districts": "Pontianak, Singkawang, Ketapang, Sambas, SIntang,  Sekadau, Nanga Tayap",
+    "districts": "Pontianak, Singkawang, Ketapang, Sambas, SIntang, Sekadau, Nanga Tayap",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
     "dateend": "2026-04-30T07:00:00.000Z"
@@ -6171,7 +6171,7 @@
     "code": "ID",
     "svspc": "SV",
     "region": "South Sumatra",
-    "districts": "Palembang, Jambi, Plaju, Bukit Siguntang, Sungai Gerong, Talangbetoetoe, ",
+    "districts": "Palembang, Jambi, Plaju, Bukit Siguntang, Sungai Gerong, Talangbetoetoe,",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
@@ -6181,7 +6181,7 @@
     "code": "ID",
     "svspc": "SV",
     "region": "Lampung",
-    "districts": "Bandar Lampung, Tanjung Karang,  Sukamana, Batubadak, Sukadana, Pasar Pagelaran",
+    "districts": "Bandar Lampung, Tanjung Karang, Sukamana, Batubadak, Sukadana, Pasar Pagelaran",
     "publish": "Yes",
     "datestart": "2026-02-01T08:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
@@ -6781,7 +6781,7 @@
     "code": "IT",
     "svspc": "SV",
     "region": "Campania",
-    "districts": "Avellino, Benevento, Caserta, Napoli, Castel Volturno, Salerno, Minturno, Agropoli, Battipaglia, Sala Consilina, Torre del Greco, Vallo della Lucania, Sapri, Eboli, Lioni, Ariano Irpino, Calitri, Venafro,  Isola di Ischia",
+    "districts": "Avellino, Benevento, Caserta, Napoli, Castel Volturno, Salerno, Minturno, Agropoli, Battipaglia, Sala Consilina, Torre del Greco, Vallo della Lucania, Sapri, Eboli, Lioni, Ariano Irpino, Calitri, Venafro, Isola di Ischia",
     "publish": "Yes",
     "datestart": "2026-03-24T07:00:00.000Z",
     "dateend": "2026-11-01T07:00:00.000Z"
@@ -6841,7 +6841,7 @@
     "code": "IT",
     "svspc": "SV",
     "region": "Piemonte",
-    "districts": " Alessandria, Asti, Biella, Cuneo, Torino, Alba, Ivrea, Fossano, Acqui Terme",
+    "districts": "Alessandria, Asti, Biella, Cuneo, Torino, Alba, Ivrea, Fossano, Acqui Terme",
     "publish": "Yes",
     "datestart": "2026-03-24T07:00:00.000Z",
     "dateend": "2026-11-01T07:00:00.000Z"
@@ -6931,7 +6931,7 @@
     "code": "IT",
     "svspc": "SV",
     "region": "Molise",
-    "districts": "Campobasso, Termoli,  Isernia, San Salvo",
+    "districts": "Campobasso, Termoli, Isernia, San Salvo",
     "publish": "Yes",
     "datestart": "2026-03-24T07:00:00.000Z",
     "dateend": "2026-11-01T07:00:00.000Z"
@@ -7690,7 +7690,7 @@
     "code": "LT",
     "svspc": "SV",
     "region": "Klaipėda County",
-    "districts": "Klaipėda,     Palanga,     Plungė,     Skuodas,     Šilutė",
+    "districts": "Klaipėda, Palanga, Plungė, Skuodas, Šilutė",
     "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-30T07:00:00.000Z"
@@ -7710,7 +7710,7 @@
     "code": "LT",
     "svspc": "SV",
     "region": "Telšiai County",
-    "districts": "Mažeikiai,     Plungė, Telšiai",
+    "districts": "Mažeikiai, Plungė, Telšiai",
     "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-10-30T07:00:00.000Z"
@@ -7870,7 +7870,7 @@
     "code": "my",
     "svspc": "SV-spc",
     "region": "Kuala Lampur",
-    "districts": " Kuala Lumpur",
+    "districts": "Kuala Lumpur",
     "publish": "No",
     "datestart": "2020-01-01T08:00:00.000Z",
     "dateend": "2020-12-31T08:00:00.000Z"
@@ -8487,7 +8487,7 @@
     "code": "NZ",
     "svspc": "SV",
     "region": "South Island",
-    "districts": "Eastern Bush, Gore, Middlemarch, Tauranga, Fox Glacier, Greymouth Hokitika, Rangiora, Little Akaloa, West Port, Plymouth , Fuchsia Creek , Otago Region, Maungati, Leeston, Christchurch, ",
+    "districts": "Eastern Bush, Gore, Middlemarch, Tauranga, Fox Glacier, Greymouth Hokitika, Rangiora, Little Akaloa, West Port, Plymouth , Fuchsia Creek , Otago Region, Maungati, Leeston, Christchurch,",
     "publish": "No",
     "datestart": "2025-01-01T08:00:00.000Z",
     "dateend": "2025-12-31T08:00:00.000Z"
@@ -9522,7 +9522,7 @@
     "code": "PT",
     "svspc": "SV",
     "region": "Vila Real",
-    "districts": "Alijó,Boticas,Chaves,Mesão Frio,Mondim de Basto,Montalegre,Murça,Peso da Régua,Ribeira de Pena,Sabrosa,Santa Marta de Penaguião,Valpaços,Vila Pouca de Aguiar,Vila Real",
+    "districts": "Alijó,Boticas,Chaves,Mesão Frio,Mondim de Basto,Montalegre,Murça,Peso da Régua,Ribeira de Pena,Sabrosa,Santa Marta de Penaguião,Valpaços,Vila Pouca de Aguiar, Vila Real",
     "publish": "Yes",
     "datestart": "2026-02-25T08:00:00.000Z",
     "dateend": "2026-11-06T08:00:00.000Z"
@@ -10218,7 +10218,7 @@
     "code": "RO",
     "svspc": "SV",
     "region": "Iași County",
-    "districts": "Hârlău,     Pașcani",
+    "districts": "Hârlău, Pașcani",
     "publish": "Yes",
     "datestart": "2026-04-22T07:00:00.000Z",
     "dateend": "2026-10-30T07:00:00.000Z"
@@ -10324,7 +10324,7 @@
   {
     "country": "Russia",
     "code": "ru",
-    "region": " Leningrad region",
+    "region": "Leningrad region",
     "districts": "St. Petersburg",
     "publish": "No",
     "datestart": "October",
@@ -10709,7 +10709,7 @@
     "code": "SK",
     "svspc": "SV",
     "region": "Prešov",
-    "districts": "Levoča,  Kezmarok, Snina",
+    "districts": "Levoča, Kezmarok, Snina",
     "publish": "Yes",
     "datestart": "2026-04-09T07:00:00.000Z",
     "dateend": "2026-10-05T07:00:00.000Z"
@@ -11990,7 +11990,7 @@
     "code": "US",
     "svspc": "SV",
     "region": "Minnesota",
-    "districts": "Kittson, Roseau, Marshall, Polk, Pennington, Red Lake, Mahnomen, Clay, Becker, Clearwater, Hubbard, Wadena, Otter Trail, Wilkin, Traverse, Big Stone, Chippewa, Swift, Stevens, Grant, Douglas, Pope, Kandiyohi, Stearns, Todd, Cass, Beltrami, Koochiching, St. Louis, Lake, Cook, Pipestone, Murray, Rock, Nobles, Jackson, Cottonwood, Brown, Watonwan, Martin, Blue Earth, Faribault, Nicollet, Le Sueur, Freeborn, Mower, Fillmore, Olmsted, Dodge, Winona, Dakota, Hennepin, Ramset, Washington, Chisago, Anoka, Isanti,  Sherburne, Houston",
+    "districts": "Kittson, Roseau, Marshall, Polk, Pennington, Red Lake, Mahnomen, Clay, Becker, Clearwater, Hubbard, Wadena, Otter Trail, Wilkin, Traverse, Big Stone, Chippewa, Swift, Stevens, Grant, Douglas, Pope, Kandiyohi, Stearns, Todd, Cass, Beltrami, Koochiching, St. Louis, Lake, Cook, Pipestone, Murray, Rock, Nobles, Jackson, Cottonwood, Brown, Watonwan, Martin, Blue Earth, Faribault, Nicollet, Le Sueur, Freeborn, Mower, Fillmore, Olmsted, Dodge, Winona, Dakota, Hennepin, Ramset, Washington, Chisago, Anoka, Isanti, Sherburne, Houston",
     "publish": "Yes",
     "datestart": "2026-04-01T07:00:00.000Z",
     "dateend": "2026-09-30T07:00:00.000Z"
@@ -12050,7 +12050,7 @@
     "code": "US",
     "svspc": "SV",
     "region": "Washington",
-    "districts": "Clallam, Jefferson, Grays Harbor, Pacific, Wahkiakum, Whatcom, Skagit, Snohomish, King,  Pierce, Kitsap, Thurston, Lewis, Yakima, Skamania, Cowlitz, Clark, Klickitat, Whitman, Asotin, Chelan, Kitttitas, Douglas",
+    "districts": "Clallam, Jefferson, Grays Harbor, Pacific, Wahkiakum, Whatcom, Skagit, Snohomish, King, Pierce, Kitsap, Thurston, Lewis, Yakima, Skamania, Cowlitz, Clark, Klickitat, Whitman, Asotin, Chelan, Kitttitas, Douglas",
     "publish": "Yes",
     "datestart": "2025-12-01T08:00:00.000Z",
     "dateend": "2026-06-01T07:00:00.000Z"
@@ -12546,7 +12546,7 @@
     "code": "BG",
     "svspc": "SV",
     "region": "Благоевград",
-    "districts": "Благоевград, Симитли, Кочериново, ",
+    "districts": "Благоевград, Симитли, Кочериново,",
     "publish": "Yes",
     "datestart": "2026-03-05T08:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
@@ -13227,7 +13227,7 @@
     "code": "LI",
     "svspc": "SV",
     "region": "Gamprin",
-    "districts": "GamprinBendern",
+    "districts": "Gamprin Bendern",
     "publish": "No",
     "datestart": "2024-08-01T07:00:00.000Z",
     "dateend": "2024-08-01T07:00:00.000Z"
@@ -13237,7 +13237,7 @@
     "code": "LI",
     "svspc": "SV",
     "region": "Eschen",
-    "districts": "EschenNendeln",
+    "districts": "Eschen Nendeln",
     "publish": "No",
     "datestart": "2024-08-01T07:00:00.000Z",
     "dateend": "2024-08-01T07:00:00.000Z"
@@ -13247,7 +13247,7 @@
     "code": "LI",
     "svspc": "SV",
     "region": "Mauren",
-    "districts": "MaurenSchaanwald",
+    "districts": "Mauren Schaanwald",
     "publish": "No",
     "datestart": "2024-08-01T07:00:00.000Z",
     "dateend": "2024-08-01T07:00:00.000Z"
@@ -13277,7 +13277,7 @@
     "code": "LI",
     "svspc": "SV",
     "region": "Vaduz",
-    "districts": "VaduzEbenholz, Mühleholz",
+    "districts": "Vaduz Ebenholz, Mühleholz",
     "publish": "No",
     "datestart": "2024-08-01T07:00:00.000Z",
     "dateend": "2024-08-01T07:00:00.000Z"
@@ -13287,7 +13287,7 @@
     "code": "LI",
     "svspc": "SV",
     "region": "Triesenberg",
-    "districts": "TriesenbergGaflei, Malbun, Masescha, Rotenboden, Silum, Steg,Sücka, Wangerberg",
+    "districts": "Triesenberg Gaflei, Malbun, Masescha, Rotenboden, Silum, Steg, Sücka, Wangerberg",
     "publish": "No",
     "datestart": "2024-08-01T07:00:00.000Z",
     "dateend": "2024-08-01T07:00:00.000Z"
@@ -13307,7 +13307,7 @@
     "code": "LI",
     "svspc": "SV",
     "region": "Balzers",
-    "districts": "BalzersMäls",
+    "districts": "Balzers Mäls",
     "publish": "No",
     "datestart": "2024-08-01T07:00:00.000Z",
     "dateend": "2024-08-01T07:00:00.000Z"
@@ -16717,7 +16717,7 @@
     "code": "MY",
     "svspc": "SV",
     "region": "Negeri Sembilan",
-    "districts": "Klang, Kuala Lumpur, Kuala Selangor, Ulu Langat,  Ulu Selangor",
+    "districts": "Klang, Kuala Lumpur, Kuala Selangor, Ulu Langat, Ulu Selangor",
     "publish": "No",
     "datestart": "2024-02-01T08:00:00.000Z",
     "dateend": "2024-02-01T08:00:00.000Z"
