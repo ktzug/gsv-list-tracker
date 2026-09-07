@@ -3547,7 +3547,7 @@
     "districts": "Fort Smith, Fort Simpson, Yellowknife, Inuvik, Norman Wells, Bechoko",
     "publish": "Yes",
     "datestart": "2026-08-01T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
     "country": "Canada",
@@ -3601,7 +3601,7 @@
     "districts": "Carmacks, Fort Selkirk, Stewart Crossing, Mayo, Keno City, Dawson, McQuesten, Chapman Lake, Eagle Plains",
     "publish": "Yes",
     "datestart": "2026-07-01T07:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-09-30T07:00:00.000Z"
   },
   {
     "country": "Canada",
@@ -6161,7 +6161,7 @@
     "code": "ID",
     "svspc": "SV",
     "region": "West Sumatra",
-    "districts": "Lubuktarantang, Dharmasraya",
+    "districts": "Lubuktarantang, Dharmasraya, Padang, Bnegkulu",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
@@ -6171,7 +6171,7 @@
     "code": "ID",
     "svspc": "SV",
     "region": "South Sumatra",
-    "districts": "Palembang, Jambi, Plaju, Bukit Siguntang, Sungai Gerong, Talangbetoetoe,",
+    "districts": "Palembang, Jambi, Plaju, Bukit Siguntang, Sungai Gerong, Talangbetoetoe, Prabumulih",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
     "dateend": "2026-10-31T07:00:00.000Z"
@@ -6184,7 +6184,7 @@
     "districts": "Bandar Lampung, Tanjung Karang, Sukamana, Batubadak, Sukadana, Pasar Pagelaran",
     "publish": "Yes",
     "datestart": "2026-02-01T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-08-31T07:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -6211,7 +6211,7 @@
     "code": "ID",
     "svspc": "SV",
     "region": "West Java",
-    "districts": "Bekasi, Bogor, Depok, Garut, Cimahi, Rancaekek, Soreang, Sumedang, Jatibarang, Ciamis, Banjar, Sidaredja, Cidora",
+    "districts": "Bekasi, Bogor, Depok, Garut, Cimahi, Rancaekek, Soreang, Sumedang, Jatibarang, Ciamis, Banjar, Sidaredja, Cidora. Lembang",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
     "dateend": "2026-12-30T08:00:00.000Z"
@@ -6221,20 +6221,20 @@
     "code": "ID",
     "svspc": "SV",
     "region": "Central Java",
-    "districts": "Temanggung, Banjarnegara, Purbalingga, Purwokerto, Klaten, Boyolali, Demak, Sragen, Magelang, Blora",
+    "districts": "Temanggung, Banjarnegara, Purbalingga, Purwokerto, Klaten, Boyolali, Demak, Sragen, Magelang, Blora, Cilacap, Pekalongan,",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-10-31T07:00:00.000Z"
+    "dateend": "2026-11-30T08:00:00.000Z"
   },
   {
     "country": "Indonesia",
     "code": "ID",
     "svspc": "SV",
     "region": "East Java",
-    "districts": "Surabaya, Sidoarjo, Jember, Blitar, Kediri, Bojonegoro, Madura, Banjakan, Banyuwangi,",
+    "districts": "Surabaya, Sidoarjo, Jember, Blitar, Kediri, Bojonegoro, Madura, Banjakan, Banyuwangi, Tulung Agung, Mojokerto",
     "publish": "Yes",
     "datestart": "2026-01-02T08:00:00.000Z",
-    "dateend": "2026-11-30T08:00:00.000Z"
+    "dateend": "2026-12-30T08:00:00.000Z"
   },
   {
     "country": "Indonesia",
@@ -9111,21 +9111,21 @@
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Davao Region",
-    "districts": "Malungon",
+    "region": "Soccsksargen",
+    "districts": "Isulan",
     "publish": "Yes",
     "datestart": "2026-08-06T07:00:00.000Z",
-    "dateend": "2026-08-15T07:00:00.000Z"
+    "dateend": "2026-09-12T07:00:00.000Z"
   },
   {
     "country": "Philippines",
     "code": "PH",
     "svspc": "SV",
-    "region": "Davao Region",
-    "districts": "General Santos City",
+    "region": "Soccsksargen",
+    "districts": "Koronadal",
     "publish": "Yes",
-    "datestart": "2026-07-20T07:00:00.000Z",
-    "dateend": "2026-08-15T07:00:00.000Z"
+    "datestart": "2026-08-06T07:00:00.000Z",
+    "dateend": "2026-09-12T07:00:00.000Z"
   },
   {
     "country": "Philippines",
@@ -11607,7 +11607,7 @@
     "code": "TW",
     "svspc": "SV",
     "region": "Nantou County",
-    "districts": "Zhu Shan Zhen, Nan Tou Shi",
+    "districts": "Zhang Liao Xiang, Shi Li Xiang",
     "publish": "Yes",
     "datestart": "2026-02-06T08:00:00.000Z",
     "dateend": "2026-12-31T08:00:00.000Z"
